@@ -1,0 +1,176 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD"
+http://172.19.251.2:25461/live/008966/008966/1.ts
+
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa HD"
+http://172.19.251.2:25461/live/008966/008966/1.m3u8
+
+#EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HQ"
+http://172.19.251.2:25461/live/008966/008966/2.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"
+http://172.19.251.2:25461/live/008966/008966/4.m3u8
+
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"
+http://172.19.251.2:25461/live/008966/008966/5.m3u8
+
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"
+http://172.19.251.2:25461/live/008966/008966/6.m3u8
+
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"
+http://172.19.251.2:25461/live/008966/008966/7.m3u8
+
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172527
+
+#EXTINF:-1 tvg-id="teleamazonas sierra.ec" tvg-name="EC| TELEAMAZONAS SIERRA HD"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
+
+#EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
+
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"
+http://172.19.251.2:25461/live/008966/008966/10.m3u8
+
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"
+http://172.19.251.2:25461/live/008966/008966/11.m3u8
+
+
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"
+http://172.19.251.2:25461/live/008966/008966/13.m3u8
+
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ"
+http://172.19.251.2:25461/live/008966/008966/14.m3u8
+
+
+#EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HQ"
+http://172.19.251.2:25461/live/008966/008966/15.m3u8
+
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL HQ"
+http://172.19.251.2:25461/live/008966/008966/16.m3u8
+
+
+#EXTINF:-1 tvg-id="home.ec" tvg-name="INT| H&H DISCOVERY HQ"
+http://172.19.251.2:25461/live/008966/008966/579.m3u8
+
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ"
+http://172.19.251.2:25461/live/008966/008966/580.m3u8
+
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ"
+http://172.19.251.2:25461/live/008966/008966/582.m3u8
+
+http://172.19.251.2:25461/live/008966/008966/583.m3u8
+
+#EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD"
+http://172.19.251.2:25461/live/008966/008966/584.m3u8
+
+#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ"
+http://172.19.251.2:25461/live/008966/008966/587.m3u8
+
+#EXTINF:-1 tvg-id="turbo.ec" tvg-name="INT| DISCOVERY TURBO HQ"
+http://172.19.251.2:25461/live/008966/008966/588.m3u8
+
+#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| START CHANNEL HQ"
+http://172.19.251.2:25461/live/008966/008966/589.m3u8
+
+#EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ"
+http://172.19.251.2:25461/live/008966/008966/596.m3u8
+
+#EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ"
+http://172.19.251.2:25461/live/008966/008966/1839.m3u8
+
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ"
+http://172.19.251.2:25461/live/008966/008966/1840.m3u8
+
+#EXTINF:-1 tvg-id="las estrellas.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS HQ"
+http://172.19.251.2:25461/live/008966/008966/1841.m3u8
+
+#EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ"
+http://172.19.251.2:25461/live/008966/008966/1842.m3u8
+
+#EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ"
+http://172.19.251.2:25461/live/008966/008966/1843.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ"
+http://172.19.251.2:25461/live/008966/008966/1844.m3u8
+
+#EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ"
+http://172.19.251.2:25461/live/008966/008966/1845.m3u8
+
+#EXTINF:-1 tvg-id="tln.ec" tvg-name="INT| TLNOVELAS HQ"
+http://172.19.251.2:25461/live/008966/008966/1846.m3u8
+
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ"
+http://172.19.251.2:25461/live/008966/008966/24.m3u8
+
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ"
+http://172.19.251.2:25461/live/008966/008966/577.m3u8
+
+#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ"
+http://172.19.251.2:25461/live/008966/008966/578.m3u8
+
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ"
+http://172.19.251.2:25461/live/008966/008966/591.ts
+
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ"
+http://172.19.251.2:25461/live/008966/008966/592.m3u8
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ"
+http://172.19.251.2:25461/live/008966/008966/594.m3u8
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ"
+http://172.19.251.2:25461/live/008966/008966/595.m3u8
+
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ"
+http://172.19.251.2:25461/live/008966/008966/597.m3u8
+
+#EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ"
+http://172.19.251.2:25461/live/008966/008966/599.m3u8
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ"
+http://172.19.251.2:25461/live/008966/008966/1345.m3u8
+
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORTS + HQ"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181256
+
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
+
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
+
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HD"
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
+
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01"
+http://172.19.251.2:25461/series/008966/008966/1848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02"
+http://172.19.251.2:25461/series/008966/008966/1849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E03"
+http://172.19.251.2:25461/series/008966/008966/1850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E04"
+http://172.19.251.2:25461/series/008966/008966/1851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E05"
+http://172.19.251.2:25461/series/008966/008966/1852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E06"
+http://172.19.251.2:25461/series/008966/008966/1853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E07"
+http://172.19.251.2:25461/series/008966/008966/1854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E08"
+http://172.19.251.2:25461/series/008966/008966/1855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09"
+http://172.19.251.2:25461/series/008966/008966/1856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escooby Doo 2"
+http://172.19.251.2:25461/movie/008966/008966/1174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harley Queen"
+http://172.19.251.2:25461/movie/008966/008966/648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Marine 4"
+http://172.19.251.2:25461/movie/008966/008966/671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe"
+http://172.19.251.2:25461/movie/008966/008966/676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MadMax"
+http://172.19.251.2:25461/movie/008966/008966/733.mkv
