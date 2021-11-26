@@ -6,38 +6,37 @@ http://172.19.251.2:25461/live/008966/008966/1.ts
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa HD"  tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
 http://172.19.251.2:25461/live/008966/008966/1.m3u8
 
-#EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HQ"
+#EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HQ" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",EC| TVC HQ
 http://172.19.251.2:25461/live/008966/008966/2.m3u8
 
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",EC| TC HD
 http://172.19.251.2:25461/live/008966/008966/4.m3u8
 
-#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
 http://172.19.251.2:25461/live/008966/008966/5.m3u8
 
-#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
 http://172.19.251.2:25461/live/008966/008966/6.m3u8
 
-#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
 http://172.19.251.2:25461/live/008966/008966/7.m3u8
 
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD"
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD"  tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172527
 
-#EXTINF:-1 tvg-id="teleamazonas sierra.ec" tvg-name="EC| TELEAMAZONAS SIERRA HD"
+#EXTINF:-1 tvg-id="teleamazonas sierra.ec" tvg-name="EC| TELEAMAZONAS SIERRA HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS SIERRA HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
 
-#EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"
+#EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="https://www.wola.org/wp-content/uploads/2019/05/History-Channel.png" group-title="TV | Internacional",INT| HISTORY HQ
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://172.19.251.2:25461/live/008966/008966/11.m3u8
 
-
-#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ"
