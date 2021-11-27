@@ -177,3 +177,6 @@ http://172.19.251.2:25461/movie/008966/008966/671.mkv
 http://172.19.251.2:25461/movie/008966/008966/676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MadMax" tvg-logo="https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-429261909-large.jpg" group-title="VOD | Peliculas",MadMax
 http://172.19.251.2:25461/movie/008966/008966/733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom" tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/18/16/30/4389164.jpg" group-title="VOD | Peliculas",Venom
+https://s3.zplayer.live/hls/,5fxc4xovwsnufvsa6k5u7w6t4pvxekyuopk3c7smyypzvan47zupxv3dp4oa,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/31/16/41/4145554.jpg" group-title="VOD | Peliculas",Venom 2
