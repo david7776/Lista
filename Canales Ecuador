@@ -110,6 +110,9 @@ http://172.19.251.2:25461/live/008966/008966/577.m3u8
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
+#EXTINF:-1 tvg-id="venus.ec" tvg-name="INT| VENUS MEDIA HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| VENUS MEDIA HQ
+https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w234031293.m3u8?k=45737c87b493d5f2211c60e7d1969681b8e1f0fef7c7437f25b86724318f6b72&exp=1638056303
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
 
