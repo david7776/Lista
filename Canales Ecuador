@@ -30,146 +30,150 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
 #EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="https://www.wola.org/wp-content/uploads/2019/05/History-Channel.png" group-title="TV | Internacional",INT| HISTORY HQ
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="http://l3d.us:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" group-title="TV | Internacional",INT| HBO HQ
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://172.19.251.2:25461/live/008966/008966/11.m3u8
 
-#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="TV | Internacional",INT| TNT HQ
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
 
-#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ"
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV | Internacional",INT| CINECANAL HQ
 http://172.19.251.2:25461/live/008966/008966/14.m3u8
 
 
-#EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HQ"
+#EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HQ" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Internacional",INT| ANIMAL PLANET HQ
 http://172.19.251.2:25461/live/008966/008966/15.m3u8
 
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL HQ"
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL HQ" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Internacional",INT| DISCOVERY CHANNEL HQ
 http://172.19.251.2:25461/live/008966/008966/16.m3u8
 
 
-#EXTINF:-1 tvg-id="home.ec" tvg-name="INT| H&H DISCOVERY HQ"
+#EXTINF:-1 tvg-id="home.ec" tvg-name="INT| H&H DISCOVERY HQ" tvg-logo="http://l3d.us:8080/images/5365356a42d407362dc077d92602620e.png" group-title="TV | Internacional",INT| H&H DISCOVERY HQ
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
-#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ"
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="http://l3d.us:8080/images/c6692a79892a9010d2f4a8cb7b9fc7a3.png" group-title="TV | Internacional",INT| GOLDEN EDGE HQ
 http://172.19.251.2:25461/live/008966/008966/580.m3u8
 
-#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ"
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://172.19.251.2:25461/live/008966/008966/582.m3u8
 
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="http://l3d.us:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="TV | Internacional",INT| UNIVERSAL TV HQ
 http://172.19.251.2:25461/live/008966/008966/583.m3u8
 
-#EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD"
+#EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | Internacional",INT| SONY HD
 http://172.19.251.2:25461/live/008966/008966/584.m3u8
 
-#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ"
+#EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",INT| STUDIO UNIVERSAL HD
 http://172.19.251.2:25461/live/008966/008966/587.m3u8
 
-#EXTINF:-1 tvg-id="turbo.ec" tvg-name="INT| DISCOVERY TURBO HQ"
+#EXTINF:-1 tvg-id="turbo.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="http://l3d.us:8080/images/8d46e886eb80ca4eef0ea448be2c018d.png" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
 http://172.19.251.2:25461/live/008966/008966/588.m3u8
 
-#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| START CHANNEL HQ"
+#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| START CHANNEL HQ" tvg-logo="http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="TV | Internacional",INT| START CHANNEL HQ
 http://172.19.251.2:25461/live/008966/008966/589.m3u8
 
-#EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ"
+#EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="http://l3d.us:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TV | Internacional",INT| TELEMUNDO HQ
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
 
-#EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ"
+#EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",INT| CNN HQ
 http://172.19.251.2:25461/live/008966/008966/1839.m3u8
 
-#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ"
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | Internacional",INT| MTV HQ
 http://172.19.251.2:25461/live/008966/008966/1840.m3u8
 
-#EXTINF:-1 tvg-id="las estrellas.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS HQ"
+#EXTINF:-1 tvg-id="las estrellas.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS HQ" tvg-logo="http://playlistplus.site:8080/images/aa87ddc5b4c24406d26ddad771ef44b0.jpg" group-title="TV | Internacional",INT| EL CANAL DE LAS ESTRELLAS HQ
 http://172.19.251.2:25461/live/008966/008966/1841.m3u8
 
-#EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ"
+#EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",INT| PASIONES HQ
 http://172.19.251.2:25461/live/008966/008966/1842.m3u8
 
-#EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ"
+#EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",INT| SPACE HQ
 http://172.19.251.2:25461/live/008966/008966/1843.m3u8
 
-#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ"
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
 http://172.19.251.2:25461/live/008966/008966/1844.m3u8
 
-#EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ"
+#EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ" tvg-logo="http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title="TV | Internacional",INT| CARACOL HQ
 http://172.19.251.2:25461/live/008966/008966/1845.m3u8
 
-#EXTINF:-1 tvg-id="tln.ec" tvg-name="INT| TLNOVELAS HQ"
+#EXTINF:-1 tvg-id="tln.ec" tvg-name="INT| TLNOVELAS HQ" tvg-logo="http://l3d.us:8080/images/173f6557c6a62af1f4e3715369c89120.png" group-title="TV | Internacional",INT| TLNOVELAS HQ
 http://172.19.251.2:25461/live/008966/008966/1846.m3u8
 
-#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ"
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="http://visiona4ktv.online:25461/images/913c4858c66af34fc5575fcb46f3fecb.jpg" group-title="TV | Internacional",INT| NICK JR HQ
 http://172.19.251.2:25461/live/008966/008966/24.m3u8
 
-#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ"
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",INT| DISNEY XD HQ
 http://172.19.251.2:25461/live/008966/008966/577.m3u8
 
-#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ"
+#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
-#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ"
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
 
-#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ"
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/592.m3u8
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ"
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
 http://172.19.251.2:25461/live/008966/008966/594.m3u8
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ"
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN 3 HQ
 http://172.19.251.2:25461/live/008966/008966/595.m3u8
 
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ"
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",DEP| GOLTV HQ
 http://172.19.251.2:25461/live/008966/008966/597.m3u8
 
-#EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ"
+#EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="TV | Deportes",DEP| TYC SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/599.m3u8
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ"
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
 http://172.19.251.2:25461/live/008966/008966/1345.m3u8
 
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORTS + HQ"
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORTS + HQ" tvg-logo="http://castlempire.site:8080/images/94d859458d7f7e7e83fed8c3e71850b8.png" group-title="TV | Deportes",DEP| DIRECTV SPORTS + HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181256
 
-#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ"
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
 
-#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ"
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
-#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ"
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP1 HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP1 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
 
-#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HD"
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 HD" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP2 HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E02
 http://172.19.251.2:25461/series/008966/008966/1849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E03"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E03" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E03
 http://172.19.251.2:25461/series/008966/008966/1850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E04"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E04" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E04
 http://172.19.251.2:25461/series/008966/008966/1851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E05"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E05" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E05
 http://172.19.251.2:25461/series/008966/008966/1852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E06"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E06" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E06
 http://172.19.251.2:25461/series/008966/008966/1853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E07"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E07" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E07
 http://172.19.251.2:25461/series/008966/008966/1854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E08"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E08" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E08
 http://172.19.251.2:25461/series/008966/008966/1855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09"
+#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E09
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escooby Doo 2"
+#EXTINF:-1 tvg-id="" tvg-name="Escooby Doo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcvGYgGGh4bAGQ2aC1dgcIO5daJ.jpg" group-title="VOD | Peliculas",Scooby Doo 2
 http://172.19.251.2:25461/movie/008966/008966/1174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harley Queen"
+#EXTINF:-1 tvg-id="" tvg-name="Harley Queen" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/margot-robbie-harley-quinn.jpg?mrf-size=m" group-title="VOD | Peliculas",Harley Queen
 http://172.19.251.2:25461/movie/008966/008966/648.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Marine 4"
+#EXTINF:-1 tvg-id="" tvg-name="El Marine 4" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f2/ElMarine4.jpg/revision/latest?cb=20151115014647&path-prefix=es" group-title="VOD | Peliculas",El Marine 4
 http://172.19.251.2:25461/movie/008966/008966/671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe"
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/40/63/20332045.jpg" group-title="VOD | Peliculas",G.I. Joe
 http://172.19.251.2:25461/movie/008966/008966/676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MadMax"
+#EXTINF:-1 tvg-id="" tvg-name="MadMax" tvg-logo="https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-429261909-large.jpg" group-title="VOD | Peliculas",MadMax
 http://172.19.251.2:25461/movie/008966/008966/733.mkv
