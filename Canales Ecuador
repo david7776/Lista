@@ -108,6 +108,12 @@ http://172.19.251.2:25461/live/008966/008966/577.m3u8
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
+#EXTINF:-1 tvg-id="planetakids.ec" tvg-name="INT| PLANETA KIDS HD" tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="TV | Internacional",INT| PLANETA KIDS HD
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/135.m3u8
+
+#EXTINF:-1 tvg-id="disney channel.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="TV | Internacional",INT| DISNEY CHANNEL HQ
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/147.m3u8
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
 
