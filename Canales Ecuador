@@ -18,11 +18,11 @@ http://172.19.251.2:25461/live/008966/008966/5.m3u8
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
 http://172.19.251.2:25461/live/008966/008966/6.m3u8
 
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HD"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
 http://172.19.251.2:25461/live/008966/008966/7.m3u8
-
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD"  tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172527
 
 #EXTINF:-1 tvg-id="teleamazonas sierra.ec" tvg-name="EC| TELEAMAZONAS SIERRA HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS SIERRA HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
@@ -42,13 +42,11 @@ http://172.19.251.2:25461/live/008966/008966/13.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV | Internacional",INT| CINECANAL HQ
 http://172.19.251.2:25461/live/008966/008966/14.m3u8
 
-
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET HQ" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Internacional",INT| ANIMAL PLANET HQ
 http://172.19.251.2:25461/live/008966/008966/15.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL HQ" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Internacional",INT| DISCOVERY CHANNEL HQ
 http://172.19.251.2:25461/live/008966/008966/16.m3u8
-
 
 #EXTINF:-1 tvg-id="home.ec" tvg-name="INT| H&H DISCOVERY HQ" tvg-logo="http://l3d.us:8080/images/5365356a42d407362dc077d92602620e.png" group-title="TV | Internacional",INT| H&H DISCOVERY HQ
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
@@ -110,9 +108,6 @@ http://172.19.251.2:25461/live/008966/008966/577.m3u8
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
-#EXTINF:-1 tvg-id="venus.ec" tvg-name="INT| VENUS MEDIA HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| VENUS MEDIA HQ
-https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w234031293.m3u8?k=45737c87b493d5f2211c60e7d1969681b8e1f0fef7c7437f25b86724318f6b72&exp=1638056303
-
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
 
@@ -134,8 +129,11 @@ http://172.19.251.2:25461/live/008966/008966/599.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
 http://172.19.251.2:25461/live/008966/008966/1345.m3u8
 
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORTS + HQ" tvg-logo="http://castlempire.site:8080/images/94d859458d7f7e7e83fed8c3e71850b8.png" group-title="TV | Deportes",DEP| DIRECTV SPORTS + HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181256
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169973
+
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HD" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169982
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -144,7 +142,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172556
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP1 HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP1 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
