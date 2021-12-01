@@ -30,9 +30,6 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172528
 #EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 
-#EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEANJESUS TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| IEANJESUS TV HD
-https://video.fatf3-1.fna.fbcdn.net/hvideo-prn-eag/_nc_cat-110/_nc_sr_t-4/v/rQD3PiJOY4bqcznGicnjC/_nc_ohc-37YqyYH_C7QAX9L2VHp/live-dash/dash-abr-ibr-audio/4563350473734501.mpd?cb=0d175c8b-121d1d2c&ccb=2-4&e_cfg=eyJ1c2VfY2h1bmtlZF9zZWdtZW50X2hhbmRsZXIiOiJmYWxzZSJ9&ms=m_CTPA&sc_t=1&oh=9b78b69460ed75d2f37ef0db2e2ee3dc&oe=61A89CCC&_nc_expid=www_streaming_t16_c
-
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="http://l3d.us:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
