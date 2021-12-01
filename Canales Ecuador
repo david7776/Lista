@@ -33,11 +33,26 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="http://l3d.us:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HQ"  tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="TV | Internacional",INT| HISTORY 2 HQ 
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/88918
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://172.19.251.2:25461/live/008966/008966/11.m3u8
 
-#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="TV | Internacional",INT| TNT HQ
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HQ"  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",INT| HBO 2 HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58795
+
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58806
+
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58813
+
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
+
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HQ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="TV | Internacional",INT| TNT SERIES HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4904
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV | Internacional",INT| CINECANAL HQ
 http://172.19.251.2:25461/live/008966/008966/14.m3u8
@@ -53,6 +68,15 @@ http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="http://l3d.us:8080/images/c6692a79892a9010d2f4a8cb7b9fc7a3.png" group-title="TV | Internacional",INT| GOLDEN EDGE HQ
 http://172.19.251.2:25461/live/008966/008966/580.m3u8
+
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HQ" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV | Internacional",INT| GOLDEN HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58789
+
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS HQ" tvg-logo="http://tv.streamid.ga:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="TV | Internacional",INT| GOLDEN PLUS HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58791
+
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER HQ" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV | Internacional",INT| GOLDEN PREMIER HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4892
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://172.19.251.2:25461/live/008966/008966/582.m3u8
@@ -89,6 +113,18 @@ http://172.19.251.2:25461/live/008966/008966/1842.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",INT| SPACE HQ
 http://172.19.251.2:25461/live/008966/008966/1843.m3u8
+
+#EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="TV | Internacional",INT| AMC HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4875
+
+#EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="TV | Internacional",INT| AXN HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4876
+
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png" group-title="TV | Internacional",INT| FX HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4891
+
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png" group-title="TV | Internacional",INT| CINEMAX HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4879
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
 http://172.19.251.2:25461/live/008966/008966/1844.m3u8
@@ -155,6 +191,9 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170163
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 HD" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP2 HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
+
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4107
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
