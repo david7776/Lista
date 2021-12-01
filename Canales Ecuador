@@ -144,12 +144,6 @@ http://172.19.251.2:25461/live/008966/008966/577.m3u8
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
-#EXTINF:-1 tvg-id="planetakids.ec" tvg-name="INT| PLANETA KIDS HD" tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="TV | Internacional",INT| PLANETA KIDS HD
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/135.m3u8
-
-#EXTINF:-1 tvg-id="disney channel.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="TV | Internacional",INT| DISNEY CHANNEL HQ
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/147.m3u8
-
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
 
@@ -213,6 +207,18 @@ http://172.19.251.2:25461/series/008966/008966/1854.mkv
 http://172.19.251.2:25461/series/008966/008966/1855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E09
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pinguinos de Magadascar" tvg-logo="https://e7.pngegg.com/pngimages/331/443/png-clipart-madagascar-operation-penguin-kowalski-skipper-penguin-animals-desktop-wallpaper.png" group-title="24/7 | 24/7",Pinguinos de Magadascar
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6428
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron" tvg-logo="https://i.pinimg.com/originals/2e/fb/9b/2efb9b0bced064f8a87c84b6786042a8.png" group-title="24/7 | 24/7",Jimmy Neutron
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6440
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://e7.pngegg.com/pngimages/201/528/png-clipart-spongebob-spongebob.png" group-title="24/7 | 24/7",Bob Esponja
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6284
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://e7.pngegg.com/pngimages/799/487/png-clipart-futurama-futurama.png" group-title="24/7 | 24/7",Futurama
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6447
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Infantil" tvg-logo="http://tv.streamid.ga:8080/images/c9c9ab070801cce3056d2fa72d9751b5.jpg" group-title="24/7 | 24/7",El Reino Infantil
+http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/72954
+
 #EXTINF:-1 tvg-id="" tvg-name="Escooby Doo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcvGYgGGh4bAGQ2aC1dgcIO5daJ.jpg" group-title="VOD | Peliculas",Scooby Doo 2
 http://172.19.251.2:25461/movie/008966/008966/1174.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Harley Queen" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/margot-robbie-harley-quinn.jpg?mrf-size=m" group-title="VOD | Peliculas",Harley Queen
