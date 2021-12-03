@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w589951457.m3u8
 
+#EXTINF:-1 tvg-id="ipuc.ec" tvg-name="CO| IPUC TV HD" tvg-logo="https://ipuc.org.co/wp-content/uploads/2021/05/logo-footer-1.png" group-title="TV | Ecuador",CO| IPUC TV HD
+https://liveingesta118.cdnmedia.tv//pentecostallive/smil:dvripuctv.smil/chunklist_b1464000_DVR.m3u8
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
 http://172.19.251.2:25461/live/008966/008966/1.ts
 
@@ -191,6 +194,12 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4107
+
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 1" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 1
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 2" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 2
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 3" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 3
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 4" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
