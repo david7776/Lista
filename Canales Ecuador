@@ -42,6 +42,9 @@ http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/88918
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4893
 
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LATINO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO LATINO HQ
+http://172.19.251.2:25461/live/008966/008966/11.ts
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HQ"  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",INT| HBO 2 HQ
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/1939
 
@@ -231,6 +234,8 @@ http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/6447
 #EXTINF:-1 tvg-id="" tvg-name="El Reino Infantil" tvg-logo="http://tv.streamid.ga:8080/images/c9c9ab070801cce3056d2fa72d9751b5.jpg" group-title="24/7 | 24/7",El Reino Infantil
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/72954
 
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
+http://172.19.251.2:25461/movie/008966/008966/858.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escooby Doo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcvGYgGGh4bAGQ2aC1dgcIO5daJ.jpg" group-title="VOD | Peliculas",Scooby Doo 2
 http://172.19.251.2:25461/movie/008966/008966/1174.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Harley Queen" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/margot-robbie-harley-quinn.jpg?mrf-size=m" group-title="VOD | Peliculas",Harley Queen
