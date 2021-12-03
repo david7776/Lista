@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w589951457.m3u8
 
-#EXTINF:-1 tvg-id="ipuc.ec" tvg-name="CO| IPUC TV HD" tvg-logo="https://ipuc.org.co/wp-content/uploads/2021/05/logo-footer-1.png" group-title="TV | Ecuador",CO| IPUC TV HD
-https://liveingesta118.cdnmedia.tv//pentecostallive/smil:dvripuctv.smil/chunklist_b1464000_DVR.m3u8
-
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
 http://172.19.251.2:25461/live/008966/008966/1.ts
 
