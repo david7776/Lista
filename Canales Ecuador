@@ -196,11 +196,11 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4107
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 1" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 1
-http://192.168.1.103:8080/live
+https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-ftw/_nc_cat-110/_nc_sr_t-4/v/rZUnuwVOPXWo2Jf9PHlxJ/_nc_ohc-DZC5gvFlc6wAX_HgiP6/live-dash/dash-abr-ibr-audio/3007992319448508.mpd
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 2" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 2
 https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-104/_nc_sr_t-4/v/rZdedKv4UUh-ontwQBEow/_nc_ohc-xJMcXdtNEioAX9yPtmQ/live-dash/dash-abr-ibr-audio/276197161207756.mpd?ccb=2-4&ms=m_CNP&sc_t=1&oh=b31ce37dd32acc54904759bc0d8370e2&oe=61AC2E67&_nc_expid=www_streaming_t16_c
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 3" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 3
-https://192.168.1.103:5004/vivo
+http://192.168.1.103:8080/
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 4" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 4
 
 
