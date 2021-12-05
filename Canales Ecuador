@@ -54,6 +54,9 @@ http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4896
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/58813
 
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HQ"  tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="TV | Internacional",INT| HBO FAMILY HQ
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4017
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
 
@@ -99,8 +102,11 @@ http://172.19.251.2:25461/live/008966/008966/587.m3u8
 #EXTINF:-1 tvg-id="turbo.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="http://l3d.us:8080/images/8d46e886eb80ca4eef0ea448be2c018d.png" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
 http://172.19.251.2:25461/live/008966/008966/588.m3u8
 
-#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| START CHANNEL HQ" tvg-logo="http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="TV | Internacional",INT| START CHANNEL HQ
+#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="TV | Internacional",INT| STAR CHANNEL HQ
 http://172.19.251.2:25461/live/008966/008966/589.m3u8
+
+#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/star-action--2258.png" group-title="TV | Internacional",INT| STAR ACTION HQ
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3263
 
 #EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="http://l3d.us:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TV | Internacional",INT| TELEMUNDO HQ
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
@@ -144,8 +150,17 @@ http://172.19.251.2:25461/live/008966/008966/1846.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="http://visiona4ktv.online:25461/images/913c4858c66af34fc5575fcb46f3fecb.jpg" group-title="TV | Internacional",INT| NICK JR HQ
 http://172.19.251.2:25461/live/008966/008966/24.m3u8
 
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",INT| NICK HQ
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3071
+
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",INT| DISNEY XD HQ
 http://172.19.251.2:25461/live/008966/008966/577.m3u8
+
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="TV | Internacional",INT| DISNEY CHANNEL HQ
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4004
+
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY JUNIOR HQ" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg" group-title="TV | Internacional",INT| DISNEY JUNIOR HQ
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3222
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
@@ -245,7 +260,7 @@ http://172.19.251.2:25461/movie/008966/008966/671.mkv
 #EXTINF:-1 tvg-id="" tvg-name="G.I. Joe" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/40/63/20332045.jpg" group-title="VOD | Peliculas",G.I. Joe
 http://172.19.251.2:25461/movie/008966/008966/676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MadMax" tvg-logo="https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-429261909-large.jpg" group-title="VOD | Peliculas",MadMax
-http://172.19.251.2:25461/movie/008966/008966/733.mkv
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Transportador 3" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/31/26/20388650.jpg" group-title="VOD | Peliculas",El Transportador 3
 http://172.19.251.2:25461/movie/008966/008966/813.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Transformers 4" tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649133.jpg" group-title="VOD | Peliculas",Transformers 4
@@ -274,5 +289,23 @@ http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14721.mkv
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Madagascar 3" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/60/03/20068279.jpg" group-title="VOD | Peliculas",Madagascar 3
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tren a Busan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anomz7b3GQtHPFH34SODDBBIUad.jpg" group-title="VOD | Peliculas",Tren a Busan
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1095203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jVVDtDaeMxmcvrz2SNyhMcYtWc.jpg" group-title="VOD | Peliculas",Venom 2
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1117394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi primer beso 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7to6kJ1ZgSZG1HpndMAiweBzP7.jpg" group-title="VOD | Peliculas",Mi primer beso 3
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1115187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="VOD | Peliculas",Joker
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1105911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1091793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo Londres 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/se1mo01yOEOfWbKEZnnrTANq3Hu.jpg" group-title="VOD | Peliculas",Objetivo Londres 4K
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I Nacion Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg" group-title="VOD | Peliculas",M.I Nacion Secreta
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Codigo D vinci" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkNeuDEDSIWQzzFVbiaq2stP6rC.jpg" group-title="VOD | Peliculas",Codigo D vinci
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="VOD | Peliculas",Titanic
+http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093862.mkv
 
 
