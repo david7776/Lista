@@ -274,16 +274,5 @@ http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14721.mkv
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Madagascar 3" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/60/03/20068279.jpg" group-title="VOD | Peliculas",Madagascar 3
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gretel y Hansel" tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/23/16/31/4835326.jpg" group-title="VOD | Peliculas",Gretel y Hansel
-http://127.0.0.1:11470/56383d3d5909d199876430a1a4e2611d659c4d07/0
-#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="https://www.cinerama.es/wp-content/uploads/2019/10/cine-049186.jpg" group-title="VOD | Peliculas",Joker
-http://127.0.0.1:11470/0e36a32d0b43e510bf772e33733c9ecca708c35d/0
-#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="https://www.ecartelera.com/carteles/15100/15181/001_m.jpg" group-title="VOD | Peliculas",Terremoto
-http://127.0.0.1:11470/7407b3806a0221350cc7fd01a4f6ceba9caff645/0
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/04/19/30/0328986.jpg" group-title="VOD | Peliculas",No manches Frida 2
-http://127.0.0.1:11470/23eec005d97f09963d691e550a9bdb2a4c2d150a/0
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/04/19/30/0328986.jpg" group-title="VOD | Peliculas",No manches Frida 2
-btih:23eec005d97f09963d691e550a9bdb2a4c2d150a
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-http://127.0.0.1:11470/036bb3c46c1711cadf6b43cb4dda2c2cba03e25b/0
+
 
