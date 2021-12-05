@@ -262,6 +262,16 @@ http://172.19.251.2:25461/movie/008966/008966/761.avi
 http://172.19.251.2:25461/movie/008966/008966/762.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Capitana America" tvg-logo="https://es.web.img2.acsta.net/pictures/19/02/05/12/55/5474956.jpg" group-title="VOD | Peliculas",Capitana America
 http://172.19.251.2:25461/movie/008966/008966/741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vengadores Endgame" tvg-logo="" group-title="VOD | Peliculas",Vengadores Endgame
+#EXTINF:-1 tvg-id="" tvg-name="Vengadores Endgame" tvg-logo="https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY445_.jpg" group-title="VOD | Peliculas",Vengadores Endgame
 http://172.19.251.2:25461/movie/008966/008966/737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una momia en Halloween" tvg-logo="https://image.tmdb.org/t/p/original/bTlQchCU05xJZyn4Va8gHkTeayu.jpg" group-title="VOD | Peliculas",Una momia en Halloween
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una chica invisible" tvg-logo="https://pics.filmaffinity.com/confissoes_de_uma_garota_excluida-800870475-large.jpg" group-title="VOD | Peliculas",Confesiones de una chica invisible
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tiempo" tvg-logo="https://media.elcinema.com/uploads/_315x420_0149edfb70afb1d2dde77a91165117b9940ccf6b308791429a862a8e0165ec67.jpg" group-title="VOD | Peliculas",El tiempo
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de honor" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/90/11/84/20081758.jpg" group-title="VOD | Peliculas",Hombres de honor
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar 3" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/60/03/20068279.jpg" group-title="VOD | Peliculas",Madagascar 3
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15113.mkv
 
