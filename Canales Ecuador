@@ -210,15 +210,6 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
 http://tv.streamid.ga:8080/Moises.escobar.1/BoYfU4XsCs/4107
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 1" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 1
-https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-ftw/_nc_cat-110/_nc_sr_t-4/v/rZUnuwVOPXWo2Jf9PHlxJ/_nc_ohc-DZC5gvFlc6wAX_HgiP6/live-dash/dash-abr-ibr-audio/3007992319448508.mpd
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 2" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 2
-https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-104/_nc_sr_t-4/v/rZdedKv4UUh-ontwQBEow/_nc_ohc-xJMcXdtNEioAX9yPtmQ/live-dash/dash-abr-ibr-audio/276197161207756.mpd?ccb=2-4&ms=m_CNP&sc_t=1&oh=b31ce37dd32acc54904759bc0d8370e2&oe=61AC2E67&_nc_expid=www_streaming_t16_c
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 3" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 3
-http://192.168.1.103:8080/video.ogg
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS OP 4" tvg-logo="https://unmundodeeventos.com/wp-content/uploads/2017/07/logo-un-mundo-de-eventos-a.png" group-title="SOLO EVENTOS",EVENTOS OP 4
-https://video.fatf3-1.fna.fbcdn.net/hvideo-ldc-vll/_nc_cat-110/_nc_sr_t-4/v/r4t6-yaYzN34UcXDIp1LH/_nc_ohc-toXHEu8nJnwAX_IpXgC/live-dash/dash-abr-ibr-audio/1137396960000505.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=aaf5708bb6dbdc43f1ffb7d97ef7f423&oe=61ACF962&_nc_expid=www_streaming_t16_c
-
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E02
@@ -301,11 +292,11 @@ http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1105911.mkv
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1091793.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo Londres 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/se1mo01yOEOfWbKEZnnrTANq3Hu.jpg" group-title="VOD | Peliculas",Objetivo Londres 4K
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="M.I Nacion Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg" group-title="VOD | Peliculas",M.I Nacion Secreta
+#EXTINF:-1 tvg-id="" tvg-name="M.I Nacion Secreta 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg" group-title="VOD | Peliculas",M.I Nacion Secreta 4k
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Codigo D vinci" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkNeuDEDSIWQzzFVbiaq2stP6rC.jpg" group-title="VOD | Peliculas",Codigo D vinci
+#EXTINF:-1 tvg-id="" tvg-name="Codigo D vinci 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkNeuDEDSIWQzzFVbiaq2stP6rC.jpg" group-title="VOD | Peliculas",Codigo D vinci 4k
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="VOD | Peliculas",Titanic
+#EXTINF:-1 tvg-id="" tvg-name="Titanic 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="VOD | Peliculas",Titanic 4k
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="VOD | Peliculas",Coco
 http://regioplay.xyz/411112/coco.mkv
