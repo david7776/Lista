@@ -13,13 +13,13 @@ http://172.19.251.2:25461/live/008966/008966/1.m3u8
 http://172.19.251.2:25461/live/008966/008966/2.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",EC| TC HD
-http://172.19.251.2:25461/live/008966/008966/4.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172545
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
-http://172.19.251.2:25461/live/008966/008966/5.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172542
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
-http://172.19.251.2:25461/live/008966/008966/6.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HD"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
