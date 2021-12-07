@@ -300,5 +300,16 @@ http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093831.mkv
 http://tv.nousiptv.com:8080/movie/cecilia1/1cecilia/1093862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="VOD | Peliculas",Coco
 http://regioplay.xyz/411112/coco.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Zombie a los 17" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91qYYbDPvrS._RI_.jpg" group-title="VOD | Peliculas",Zombie a los 17
+http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estamos vivos" tvg-logo="https://i.pinimg.com/736x/a9/61/58/a9615879a9ba9191e14aab9668bef7cb.jpg" group-title="VOD | Peliculas",Estamos vivos
+http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rascacielos" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/23/10/36/0134677.jpg" group-title="VOD | Peliculas",Rascacielos
+http://tux-vod.dynu.com/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 1" tvg-logo="https://mx.web.img3.acsta.net/pictures/20/09/25/00/12/3064092.jpg" group-title="VOD | Peliculas",Busqueda Implacable 1
+http://tux-vod.dynu.com:80/peliculas/720/taken.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="https://www.deperu.com/cine/portadas/portada382.jpg" group-title="VOD | Peliculas",Busqueda Implacable 2
+http://tux-vod.dynu.com:80/peliculas/720/taken%202.mkv
 
