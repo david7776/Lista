@@ -22,7 +22,7 @@ http://172.19.251.2:25461/live/008966/008966/5.ts
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
-http://172.19.251.2:25461/live/008966/008966/7.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
 
 #EXTINF:-1 tvg-id="teleamazonas sierra.ec" tvg-name="EC| TELEAMAZONAS HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170166
@@ -216,6 +216,15 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/53489
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="TV | Deportes",DEP| DIRECTV + HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169962
 
+#EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
+
+#EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/09/unnamed-1.jpg" group-title="TV | Deportes",DEP| RED BULL HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LIGA DE CAMPEONES HD" tvg-logo="https://www.ecured.cu/images/d/d1/Liga_de_Campeones_de_la_UEFA.jpg" group-title="TV | Deportes",DEP| LIGA DE CAMPEONES HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169937
+
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E02
@@ -322,20 +331,20 @@ http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191552.mp4
 #EXTINF:-1,La Casa de Papel (ES) S05 E10 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
 http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191553.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pinguinos de Magadascar" tvg-logo="https://e7.pngegg.com/pngimages/331/443/png-clipart-madagascar-operation-penguin-kowalski-skipper-penguin-animals-desktop-wallpaper.png" group-title="24/7 | 24/7",Pinguinos de Magadascar
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDUtnKxUr-DHlQpY9A9nGFxwN20Ugo9ylkTkaP9iiRjj/ts
-#EXTINF:-1 tvg-id="" tvg-name="LiveMan" tvg-logo="https://m.media-amazon.com/images/I/81MNeOjVvJL._SY445_.jpg" group-title="24/7 | 24/7",LiveMan
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO994RD3Q6S5dYiXzESRuwCXpjsJwL_yE_wYg23ABg4D/ts
-#EXTINF:-1 tvg-id="" tvg-name="Exponiendo Infieles" tvg-logo="https://esnoticia.sv/wp-content/uploads/2019/12/21-6.jpg" group-title="24/7 | 24/7",Exponiendo Infieles
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGz-qnALAtiRcVNtx9JqqVNjJoMuN3_GW-om7MTS41zk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://e7.pngegg.com/pngimages/799/487/png-clipart-futurama-futurama.png" group-title="24/7 | 24/7",Futurama
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMpH-UzS1LR0APq6yvR6ocpHVWECUZbpfC_VD2fkqcJg/ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Campeones" tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/newsv7/18/06/03/07/49/18060650.jpg" group-title="24/7 | 24/7",Super Campeones
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK-PYetKSkJtjDQ_ac0wHYd4Le6n-t3_ZB_ohF6OtlBu/ts
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="https://www.animalgourmet.com/wp-content/uploads/2021/04/640px-Cantinflas_.jpg" group-title="24/7 | 24/7",Cantinflas
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHgf22EpWVavNcDlLa8TD-1Thzk4AYoP63tEylN6eip3/ts
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="https://phantom-marca.unidadeditorial.es/8123db6d85f5a44c387bffb410707c8b/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/11/16024418581901.jpg" group-title="24/7 | 24/7",Caballeros del Zodiaco
+http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/923e22de3f5567625ae9f22d3fbab2b9609f4d193e00b52cbd591749e7e001d6._RI_V_TTW_.jpg" group-title="24/7 | 24/7",Chespirito
+http://user.tvcluboficial.com/stream/nov/nov/417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="https://media.revistagq.com/photos/5d1348c16994dc0dc677750c/3:2/w_1727,h_1151,c_limit/doraemon.jpg" group-title="24/7 | 24/7",Doraemon
+http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/07/12/noticias/1626087143_668870_1626087190_noticia_normal.jpg" group-title="24/7 | 24/7",Dragon Ball Super
+http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://i.blogs.es/e204e1/futurama-xataka-1/1366_2000.jpg" group-title="24/7 | 24/7",Futurama
+http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://media.revistagq.com/photos/5ca5f6a77a3aec0df5496c59/master/w_1600%2Cc_limit/bob_esponja_9564.png" group-title="24/7 | 24/7",Bob Esponja
+http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="https://www.vistazo.com/binrepository/768x528/0c48/768d432/none/12727/BSCG/chavo-foto-inedita-vistazo_VI158736_MG8545908.jpg" group-title="24/7 | 24/7",El chavo del 8
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHgf22EpWVavNcDlLa8TD-0sJAqXy5oXqVCIAY4Ajaa7/ts
+http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
 http://172.19.251.2:25461/movie/008966/008966/858.mkv
@@ -417,7 +426,5 @@ http://regioplay.xyz/411112/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-
 http://tecnotv.club/di2/peliculas2.php?c=zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_725773-MLM32647299668_102019-W.jpg" group-title="VOD | Peliculas",No manches Frida 2
 http://tecnotv.club/di2/peliculas2.php?c=rasecaral42_gmail_45/P/NMF2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My name is Khan" tvg-logo="http://www.jeronimoperez.com/wp-content/uploads/2014/04/my+name+is+khan+movie1.jpg" group-title="VOD | Peliculas",My name is Khan
-http://forevertv.me:8080/movie/jamila10/123456789/59569.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Geo Tormenta" tvg-logo="https://www.humonegro.com/wp-content/GEOSTORM-FRONTAL.png" group-title="VOD | Peliculas",Geo Tormenta
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200767.mp4
