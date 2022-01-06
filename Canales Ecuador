@@ -37,34 +37,34 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HQ"  tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="TV | Internacional",INT| HISTORY 2 HQ 
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4005
+http://user.tvcluboficial.com/stream/nov/nov/61.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",INT| A&E HD 
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4037
+http://user.tvcluboficial.com/stream/nov/nov/1.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4112
+http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LATINO HQ"  tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="TV | Internacional",INT| HBO LATINO HQ
 http://172.19.251.2:25461/live/008966/008966/11.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HQ"  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",INT| HBO 2 HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3198
+http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4109
+http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8226
+http://user.tvcluboficial.com/stream/nov/nov/814.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HQ"  tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="TV | Internacional",INT| HBO FAMILY HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4017
+http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HQ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="TV | Internacional",INT| TNT SERIES HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4050
+http://user.tvcluboficial.com/stream/nov/nov/90.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV | Internacional",INT| CINECANAL HQ
 http://172.19.251.2:25461/live/008966/008966/14.m3u8
@@ -82,10 +82,7 @@ http://172.19.251.2:25461/live/008966/008966/579.m3u8
 http://172.19.251.2:25461/live/008966/008966/580.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HQ" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV | Internacional",INT| GOLDEN HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3236
-
-#EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER HQ" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV | Internacional",INT| GOLDEN PREMIER HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4091
+http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://172.19.251.2:25461/live/008966/008966/582.m3u8
@@ -106,7 +103,7 @@ http://172.19.251.2:25461/live/008966/008966/588.m3u8
 http://172.19.251.2:25461/live/008966/008966/589.m3u8
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/star-action--2258.png" group-title="TV | Internacional",INT| STAR ACTION HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3263
+http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
 
 #EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="http://l3d.us:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TV | Internacional",INT| TELEMUNDO HQ
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
@@ -127,16 +124,16 @@ http://172.19.251.2:25461/live/008966/008966/1842.m3u8
 http://172.19.251.2:25461/live/008966/008966/1843.m3u8
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="TV | Internacional",INT| AMC HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4085
+http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="TV | Internacional",INT| AXN HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4038
+http://user.tvcluboficial.com/stream/nov/nov/146.m3u8
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png" group-title="TV | Internacional",INT| FX HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4044
+http://user.tvcluboficial.com/stream/nov/nov/42.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png" group-title="TV | Internacional",INT| CINEMAX HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4110
+http://user.tvcluboficial.com/stream/nov/nov/20.m3u8
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
 http://172.19.251.2:25461/live/008966/008966/1844.m3u8
@@ -151,16 +148,16 @@ http://172.19.251.2:25461/live/008966/008966/1846.m3u8
 http://172.19.251.2:25461/live/008966/008966/24.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",INT| NICK HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3071
+http://user.tvcluboficial.com/stream/nov/nov/78.m3u8
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",INT| DISNEY XD HQ
 http://172.19.251.2:25461/live/008966/008966/577.m3u8
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="TV | Internacional",INT| DISNEY CHANNEL HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4004
+http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY JUNIOR HQ" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg" group-title="TV | Internacional",INT| DISNEY JUNIOR HQ
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3222
+http://user.tvcluboficial.com/stream/nov/nov/30.m3u8
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/Tooncast11.png" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
@@ -190,7 +187,7 @@ http://172.19.251.2:25461/live/008966/008966/1345.m3u8
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169973
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HD" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169982
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -211,19 +208,16 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1256.png" group-title="TV | Deportes",DEP| DIRECTV 2 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53489
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="TV | Deportes",DEP| DIRECTV + HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169962
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/25264
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
 
 #EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/09/unnamed-1.jpg" group-title="TV | Deportes",DEP| RED BULL HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
-
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LIGA DE CAMPEONES HD" tvg-logo="https://www.ecured.cu/images/d/d1/Liga_de_Campeones_de_la_UEFA.jpg" group-title="TV | Deportes",DEP| LIGA DE CAMPEONES HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169937
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
@@ -345,6 +339,18 @@ http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="https://www.vistazo.com/binrepository/768x528/0c48/768d432/none/12727/BSCG/chavo-foto-inedita-vistazo_VI158736_MG8545908.jpg" group-title="24/7 | 24/7",El chavo del 8
 http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Accion" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="24/7 | 24/7",Cine Accion
+http://user.tvcluboficial.com/stream/nov/nov/699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Accion Sagas" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="24/7 | 24/7",Cine Accion Sagas
+http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ficcion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKidCgXhuJgHNi7H7aJVOU5jMc0Xxy6sXxtw&usqp=CAU" group-title="24/7 | 24/7",Cine Ficcion
+http://user.tvcluboficial.com/stream/nov/nov/709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil" tvg-logo="https://direct.rhapsody.com/imageserver/images/alb.247268305/500x500.jpg" group-title="24/7 | 24/7",Cine Infantil
+http://user.tvcluboficial.com/stream/nov/nov/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2015/08/Marvel-premios-Hugo.jpg" group-title="24/7 | 24/7",Cine Marvel
+http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Zombis" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-liQqvaiL._SX331_BO1,204,203,200_.jpg" group-title="24/7 | 24/7",Cine Zombis
+http://user.tvcluboficial.com/stream/nov/nov/688.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
 http://172.19.251.2:25461/movie/008966/008966/858.mkv
