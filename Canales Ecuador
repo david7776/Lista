@@ -52,7 +52,7 @@ http://172.19.251.2:25461/live/008966/008966/11.ts
 http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
-http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
+http://1581.f5.si:8000/asr1969/WU4C7AJ/3897
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
 http://user.tvcluboficial.com/stream/nov/nov/814.m3u8
@@ -85,7 +85,7 @@ http://172.19.251.2:25461/live/008966/008966/580.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
-http://172.19.251.2:25461/live/008966/008966/582.m3u8
+http://globalentertainmentec.xyz:8000/1102/1102/48370
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="http://l3d.us:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="TV | Internacional",INT| UNIVERSAL TV HQ
 http://172.19.251.2:25461/live/008966/008966/583.m3u8
@@ -106,10 +106,10 @@ http://172.19.251.2:25461/live/008966/008966/589.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR FUN HQ" tvg-logo="https://backend.laguia.tv/uploads/StarFun_61ef9164a0.png" group-title="TV | Internacional",INT| STAR FUN HQ
-http://cdn04.sportsbay.xyz:2052/live-40/023/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNToyMzoxNCBBTSZoYXNoX3ZhbHVlPWR1QmhZc3h2K2J2WWtRZUhobVI0clE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEx
+http://globalentertainmentec.xyz:8000/1102/1102/48349
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR HITS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png" group-title="TV | Internacional",INT| STAR HITS HQ
-http://cdn04.sportsbay.xyz:2052/live-40/024/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNToxNzoyNiBBTSZoYXNoX3ZhbHVlPWFJREdSajQ0bkkzanJqVmZoRXFoOFE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEx
+http://globalentertainmentec.xyz:8000/1102/1102/48350
 
 #EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="http://l3d.us:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TV | Internacional",INT| TELEMUNDO HQ
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
@@ -169,10 +169,10 @@ http://user.tvcluboficial.com/stream/nov/nov/30.m3u8
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="TV | Internacional",INT| DISCOVERY KIDS HQ
-http://cdn04.sportsbay.xyz:2052/live-40/014/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNTowOToyNyBBTSZoYXNoX3ZhbHVlPUg0MHdsWFVWM1Eyc1daNWNrVjZBc2c9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEx
+http://globalentertainmentec.xyz:8000/1102/1102/8679
 
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="TV | Internacional",INT| CARTON NETWORK HQ
-http://cdn04.sportsbay.xyz:2052/live-40/007/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNTowNDoxMSBBTSZoYXNoX3ZhbHVlPUg1N2xZOXJtVCtsWlI4R3hTblZTUUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEx
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="TV | Internacional",INT| NATGEO KIDS HQ
+http://globalentertainmentec.xyz:8000/1102/1102/8663
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
@@ -250,92 +250,6 @@ http://172.19.251.2:25461/series/008966/008966/1855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E09
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
 
-#EXTINF:-1,La Casa de Papel (ES) S01 E01 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg" 
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101063.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E02 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101064.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E03 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101065.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E04 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101066.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E05 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101067.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E06 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101068.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E07 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101069.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E08 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101070.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E09 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101071.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E10 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101072.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E11 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101073.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E12 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101074.mkv
-#EXTINF:-1,La Casa de Papel (ES) S01 E13 tvg-logo="https://cdn.culturagenial.com/es/imagenes/casa-papel-cartel-cke.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101075.mkv 
-#EXTINF:-1,La Casa de Papel (ES) S02 E01 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101076.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E02 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101077.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E03 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101078.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E04 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101079.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E05 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101080.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E06 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101081.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E07 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101082.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E08 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101083.mkv
-#EXTINF:-1,La Casa de Papel (ES) S02 E09 tvg-logo="https://img.wattpad.com/cover/194227264-288-k345955.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101084.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E01 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101085.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E02 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101086.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E03 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101087.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E04 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101088.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E05 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101089.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E06 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101090.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E07 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101091.mkv
-#EXTINF:-1,La Casa de Papel (ES) S03 E08 tvg-logo="https://sm.ign.com/ign_es/tv/l/la-casa-de/la-casa-de-papel-parte-3_wpqe.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/101092.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E01 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50558.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E02 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50559.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E03 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50560.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E04 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50561.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E05 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50562.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E06 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50563.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E07 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50564.mkv
-#EXTINF:-1,La Casa de Papel (ES) S04 E08 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/50565.mkv
-#EXTINF:-1,La Casa de Papel (ES) S05 E06 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191549.mkv
-#EXTINF:-1,La Casa de Papel (ES) S05 E07 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191550.mp4
-#EXTINF:-1,La Casa de Papel (ES) S05 E08 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191551.mp4
-#EXTINF:-1,La Casa de Papel (ES) S05 E09 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191552.mp4
-#EXTINF:-1,La Casa de Papel (ES) S05 E10 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada5-1628075736.jpg"
-http://grets.co21.net:2082/series/Taoufik_145943/3yeD3C46/191553.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="https://phantom-marca.unidadeditorial.es/8123db6d85f5a44c387bffb410707c8b/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/11/16024418581901.jpg" group-title="24/7 | 24/7",Caballeros del Zodiaco
 http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
