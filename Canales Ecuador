@@ -306,6 +306,24 @@ http://172.19.251.2:25461/movie/008966/008966/762.mkv
 http://172.19.251.2:25461/movie/008966/008966/741.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vengadores Endgame" tvg-logo="https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY445_.jpg" group-title="VOD | Peliculas",Vengadores Endgame
 http://172.19.251.2:25461/movie/008966/008966/737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="https://pics.filmaffinity.com/Godzilla_vs_Kong-370227109-large.jpg" group-title= "VOD | Peliculas", Godzilla vs Kong
+http://172.19.251.2:25461/movie/008966/008966/1594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro 1" tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/11/10/30/351336.jpg" group-title= "VOD | Peliculas", Regreso al futuro 1
+http://172.19.251.2:25461/movie/008966/008966/935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro 2" tvg-logo="https://pics.filmaffinity.com/Regreso_al_futuro_II-143311235-large.jpg" group-title= "VOD | Peliculas", Regreso al futuro 2
+http://172.19.251.2:25461/movie/008966/008966/936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al futuro 3" tvg-logo="https://pics.filmaffinity.com/Regreso_al_futuro_III-223713634-large.jpg" group-title= "VOD | Peliculas", Regreso al futuro 3
+http://172.19.251.2:25461/movie/008966/008966/937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 1" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/20/11/52/053731.jpg" group-title= "VOD | Peliculas", Hombres de negro 1
+http://172.19.251.2:25461/movie/008966/008966/897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/05/12/08/380378.jpg" group-title= "VOD | Peliculas", Hombres de negro 2
+http://172.19.251.2:25461/movie/008966/008966/895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/158a9511b0ca5a11e574345123a2bf0ff113c8053ece603adbf3c17b9cb64729._RI_V_TTW_.jpg" group-title= "VOD | Peliculas", Hombres de negro 3
+http://172.19.251.2:25461/movie/008966/008966/896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caballero oscuro 2" tvg-logo="https://pics.filmaffinity.com/El_caballero_oscuro-102763119-large.jpg" group-title= "VOD | Peliculas", El caballero oscuro 2
+http://172.19.251.2:25461/movie/008966/008966/649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caballero oscuro 3" tvg-logo="https://pics.filmaffinity.com/El_caballero_oscuro_La_leyenda_renace-359441637-large.jpg" group-title= "VOD | Peliculas", El caballero oscuro 3
+http://172.19.251.2:25461/movie/008966/008966/650.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
 http://tecnotv.club/di2/peliculas3.php?c=cruella%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="VOD | Peliculas",Coco
