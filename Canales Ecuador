@@ -231,6 +231,24 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
 #EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/09/unnamed-1.jpg" group-title="TV | Deportes",DEP| RED BULL HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
 
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" título-grupo ="TV | Deportes",DEP| CLARO SPORT HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182326
+
+#EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV HD" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_Bar%C3%A7aTV_mc060220-e1581060736609.jpg" título-grupo ="TV | Deportes",DEP| BARCA TV HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
+
+#EXTINF:-1 tvg-id="fight.ec" tvg-name="DEP| FIGHT SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" título-grupo ="TV | Deportes",DEP| FIGHT SPORT HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES HD" tvg-logo="https://i.pinimg.com/originals/d5/95/7e/d5957ed636fe8d7b87303d447d378a67.png" group-title="TV | Deportes",DEP| MOVISTAR DEPORTES HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="TV | Deportes",DEP| MOVISTAR LA LIGA HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169935
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169936
+
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E02
