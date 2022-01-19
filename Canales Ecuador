@@ -187,13 +187,13 @@ http://172.19.251.2:25461/live/008966/008966/594.m3u8
 http://172.19.251.2:25461/live/008966/008966/595.m3u8
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",DEP| GOLTV HQ
-http://172.19.251.2:25461/live/008966/008966/597.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172555
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="TV | Deportes",DEP| TYC SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/599.m3u8
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
-http://172.19.251.2:25461/live/008966/008966/1345.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169973
@@ -306,16 +306,6 @@ http://172.19.251.2:25461/movie/008966/008966/762.mkv
 http://172.19.251.2:25461/movie/008966/008966/741.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vengadores Endgame" tvg-logo="https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY445_.jpg" group-title="VOD | Peliculas",Vengadores Endgame
 http://172.19.251.2:25461/movie/008966/008966/737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una momia en Halloween" tvg-logo="https://image.tmdb.org/t/p/original/bTlQchCU05xJZyn4Va8gHkTeayu.jpg" group-title="VOD | Peliculas",Una momia en Halloween
-http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una chica invisible" tvg-logo="https://pics.filmaffinity.com/confissoes_de_uma_garota_excluida-800870475-large.jpg" group-title="VOD | Peliculas",Confesiones de una chica invisible
-http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14698.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El tiempo" tvg-logo="https://media.elcinema.com/uploads/_315x420_0149edfb70afb1d2dde77a91165117b9940ccf6b308791429a862a8e0165ec67.jpg" group-title="VOD | Peliculas",El tiempo
-http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de honor" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/90/11/84/20081758.jpg" group-title="VOD | Peliculas",Hombres de honor
-http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madagascar 3" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/87/60/03/20068279.jpg" group-title="VOD | Peliculas",Madagascar 3
-http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/15113.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
 http://tecnotv.club/di2/peliculas3.php?c=cruella%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="VOD | Peliculas",Coco
