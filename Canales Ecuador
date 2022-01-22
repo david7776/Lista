@@ -210,16 +210,16 @@ http://compitv.info:8080/supertv427/BTCk6kvas9/47829
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY JUNIOR HQ" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg" group-title="TV | Internacional",INT| DISNEY JUNIOR HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/28836
 
-#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="" group-title="TV | Internacional",INT| TOONCAST HQ
+#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="TV | Internacional",INT| DISCOVERY KIDS HQ
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Internacional",INT| DISCOVERY KIDS HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/48196
 
-#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="TV | Internacional",INT| NATGEO KIDS HQ
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",INT| NATGEO KIDS HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/47835
 
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg" group-title="TV | Internacional",INT| CARTOON NETWORK HQ
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Internacional",INT| CARTOON NETWORK HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/48195
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO HQ" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TV | Internacional",INT| CARTOONITO HQ
@@ -246,11 +246,8 @@ http://172.19.251.2:25461/live/008966/008966/599.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
-#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/116352
-
-#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HD" tvg-logo="https://todotvnews.com/wp-content/uploads/2021/01/TNTSports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HD
-http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -270,34 +267,34 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172557
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
 
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1256.png" group-title="TV | Deportes",DEP| DIRECTV 2 HD
-http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="TV | Deportes",DEP| DIRECTV 2 HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/183008
 
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="TV | Deportes",DEP| DIRECTV + HD
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="TV | Deportes",DEP| DIRECTV + HD
 http://globalentertainmentec.xyz:8000/1102/1102/133143
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
 
-#EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/09/unnamed-1.jpg" group-title="TV | Deportes",DEP| RED BULL HD
+#EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://i.pinimg.com/564x/d9/ca/ef/d9caef852a9906dd58e5f0ca6e119113--bull-tv-red-bull.jpg" group-title="TV | Deportes",DEP| RED BULL HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
 
-#EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" título-grupo ="TV | Deportes",DEP| CLARO SPORT HD
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",DEP| CLARO SPORT HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182326
 
-#EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV HD" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_Bar%C3%A7aTV_mc060220-e1581060736609.jpg" título-grupo ="TV | Deportes",DEP| BARCA TV HD
+#EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV HD" tvg-logo="https://1.bp.blogspot.com/-ykympay5Y0k/YJg4EDBI4YI/AAAAAAAAFhs/UAgBAWUzTj4mpd6RTAQX_LMqKk33wk9EACLcBGAsYHQ/s1920/Barca%2BTV%252C%2BFC%2BBarcelona%252C%2BBarcelona%2BTV%252C%2BLionel%2Bmessi%252C%2Bver%2Btv%2Ben%2Bvivo%2Bonline%252C%2Bver%2Btv%2Bespa%25C3%25B1a%2Ben%2Bvivo.jpg" group-title="TV | Deportes",DEP| BARCA TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
 
-#EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV HD" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" título-grupo ="TV | Deportes",DEP| REAL MADRID TV HD
+#EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV HD" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",DEP| REAL MADRID TV HD
 http://compitv.info:8080/supertv427/BTCk6kvas9/47664
 
-#EXTINF:-1 tvg-id="fight.ec" tvg-name="DEP| FIGHT SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" título-grupo ="TV | Deportes",DEP| FIGHT SPORT HD
+#EXTINF:-1 tvg-id="fight.ec" tvg-name="DEP| FIGHT SPORT HD" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="TV | Deportes",DEP| FIGHT SPORT HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
 
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES HD" tvg-logo="https://i.pinimg.com/originals/d5/95/7e/d5957ed636fe8d7b87303d447d378a67.png" group-title="TV | Deportes",DEP| MOVISTAR DEPORTES HD
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES HD" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",DEP| MOVISTAR DEPORTES HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
 
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="TV | Deportes",DEP| MOVISTAR LA LIGA HD
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",DEP| MOVISTAR LA LIGA HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169935
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
