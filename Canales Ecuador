@@ -4,10 +4,7 @@
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
-http://172.19.251.2:25461/live/008966/008966/1.ts
-
-#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa HD"  tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
-http://172.19.251.2:25461/live/008966/008966/1.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172536
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HQ" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",EC| TVC HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
@@ -27,8 +24,11 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS COSTA HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS COSTA HD
 http://172.19.251.2:25461/live/008966/008966/1520.ts
 
-#EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
+#EXTINF:-1 tvg-id="zaracay.ec" tvg-name="EC| ZARACAY TV HD"  tvg-logo="https://pbs.twimg.com/profile_images/949060517200519168/0MlEnPhN.jpg" group-title="TV | Ecuador",EC| ZARACAY TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
+
+#EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/252130
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="http://l3d.us:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
@@ -85,7 +85,7 @@ http://172.19.251.2:25461/live/008966/008966/16.m3u8
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="http://l3d.us:8080/images/8d46e886eb80ca4eef0ea448be2c018d.png" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
-http://172.19.251.2:25461/live/008966/008966/588.m3u8
+http://1581.f5.si:8000/asr1969/WU4C7AJ/2813
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
 http://compitv.info:8080/supertv427/BTCk6kvas9/252442
@@ -103,7 +103,7 @@ http://172.19.251.2:25461/live/008966/008966/580.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER HQ" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV | Internacional",INT| GOLDEN PREMIER HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253042
+http://compitv.info:8080/supertv427/BTCk6kvas9/47696
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://globalentertainmentec.xyz:8000/1102/1102/48370
@@ -214,7 +214,7 @@ http://globalentertainmentec.xyz:8000/1102/1102/8663
 http://compitv.info:8080/supertv427/BTCk6kvas9/48195
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICKELODEON HQ" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="TV | Internacional",INT| NICKELODEON HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/91009
+
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO HQ" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TV | Internacional",INT| CARTOONITO HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/48194
@@ -282,6 +282,9 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182326
 #EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV HD" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_Bar%C3%A7aTV_mc060220-e1581060736609.jpg" título-grupo ="TV | Deportes",DEP| BARCA TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
 
+#EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV HD" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" título-grupo ="TV | Deportes",DEP| REAL MADRID TV HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/47664
+
 #EXTINF:-1 tvg-id="fight.ec" tvg-name="DEP| FIGHT SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" título-grupo ="TV | Deportes",DEP| FIGHT SPORT HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
 
@@ -292,7 +295,10 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169935
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169936
+http://globalentertainmentec.xyz:8000/1102/1102/8486
+
+#EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",DEP| EUROSPORT 1 HD
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169942
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
@@ -340,6 +346,47 @@ http://user.tvcluboficial.com/stream/nov/nov/687.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Zombis" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-liQqvaiL._SX331_BO1,204,203,200_.jpg" group-title="24/7 | 24/7",Cine Zombis
 http://user.tvcluboficial.com/stream/nov/nov/688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FITNESS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg" group-title="24/7 | 24/7",PLUTO TV FITNESS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV ACCION" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/estrellas-de-accion-pluto-tv.jpg" group-title="24/7 | 24/7",PLUTO TV ACCION
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV COMEDIA" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/10/canales-tv-risa.jpg" group-title="24/7 | 24/7",PLUTO TV COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV VIAJES" tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2021/12/pluto-tv-viajes-720x406.jpg" group-title="24/7 | 24/7",PLUTO TV VIAJES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV COCINA" tvg-logo="https://pbs.twimg.com/media/EM000gSXYAELeao.jpg" group-title="24/7 | 24/7",PLUTO TV COCINA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV DEPORTES" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/10/canales-pluto-tv.jpg" group-title="24/7 | 24/7",PLUTO TV DEPORTES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV NOVELAS" tvg-logo="https://pbs.twimg.com/media/EcVb6WeVAAEmO0A.jpg" group-title="24/7 | 24/7",PLUTO TV NOVELAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV SERIES" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV ANIME" tvg-logo="https://i.blogs.es/d36c9f/anime-pluto-tv/1366_2000.jpg" group-title="24/7 | 24/7",PLUTO TV ANIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV REALITY" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV REALITY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV INVESTIGACION" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV INVESTIGACION
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV JUNIOR" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/07/planeta-junior-tv-pluto-tv.jpg" group-title="24/7 | 24/7",PLUTO TV JUNIOR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE" tvg-logo="https://i.pinimg.com/474x/a4/31/94/a431949c09ac8e80166baf074df79461.jpg" group-title="24/7 | 24/7",PLUTO TV CINE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV HOGAR" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV HOGAR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV KIDS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/09/Pluto-TV-1.jpg" group-title="24/7 | 24/7",PLUTO TV KIDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FAMILY" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV FAMILY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV HUMOR" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV HUMOR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV SCI-FI" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV SCI-FI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV MTV" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20201021163431_1200.jpg" group-title="24/7 | 24/7",PLUTO TV MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV TEEN" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2021/03/pluto-tv-wipeout-teen-mom-loupe-arte-musica-1200x675.jpg" group-title="24/7 | 24/7",PLUTO TV TEEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
 http://172.19.251.2:25461/movie/008966/008966/858.mkv
@@ -403,12 +450,6 @@ http://tecnotv.club/di2/peliculas2.php?c=zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_
 http://tecnotv.club/di2/peliculas2.php?c=rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Geo Tormenta" tvg-logo="https://www.humonegro.com/wp-content/GEOSTORM-FRONTAL.png" group-title="VOD | Peliculas",Geo Tormenta
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amenaza en lo profundo 4K" tvg-logo="https://mx.web.img2.acsta.net/pictures/19/08/31/22/00/3679670.jpg" group-title="VOD | Peliculas, Amenaza en lo profundo 4K
-http://globalentertainmentec.xyz:8000/movie/1102/1102/155878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siniestro2 4K" tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2015/09/Siniestro-2-716x1024.jpg" group-title="VOD | Peliculas, Siniestro2 4K
-http://globalentertainmentec.xyz:8000/movie/1102/1102/155934.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey leon 4K" tvg-logo="https://www.planetadelibros.com.ec/usuaris/libros/fotos/315/m_libros/314645_portada_el-rey-leon-la-novela_disney_201903281202.jpg" group-title="VOD | Peliculas, El rey leon 4K
-http://globalentertainmentec.xyz:8000/movie/1102/1102/155910.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman no way home" tvg-logo="https://www.egames.news/__export/1630169921168/sites/debate/img/2021/08/28/spider-man-no-way-home-fanposter.jpg_423682103.jpg" group-title="VOD | Peliculas, Spiderman no way home
 http://globalentertainmentec.xyz:8000/movie/1102/1102/222254.mkv
 
