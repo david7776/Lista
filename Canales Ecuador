@@ -49,7 +49,7 @@ http://172.19.251.2:25461/live/008966/008966/11.ts
 http://compitv.info:8080/supertv427/BTCk6kvas9/47700
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
-http://1581.f5.si:8000/asr1969/WU4C7AJ/3897
+http://compitv.info:8080/supertv427/BTCk6kvas9/47794
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/252399
@@ -85,7 +85,7 @@ http://172.19.251.2:25461/live/008966/008966/16.m3u8
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
-http://1581.f5.si:8000/asr1969/WU4C7AJ/2813
+http://compitv.info:8080/supertv427/BTCk6kvas9/47701
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
 http://compitv.info:8080/supertv427/BTCk6kvas9/252442
@@ -271,7 +271,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
 http://compitv.info:8080/supertv427/BTCk6kvas9/183008
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="TV | Deportes",DEP| DIRECTV + HD
-http://globalentertainmentec.xyz:8000/1102/1102/133143
+http://compitv.info:8080/supertv427/BTCk6kvas9/183009
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
