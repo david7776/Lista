@@ -16,7 +16,7 @@ http://172.19.251.2:25461/live/008966/008966/4.ts
 http://172.19.251.2:25461/live/008966/008966/5.ts
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172540
+http://172.19.251.2:25461/live/008966/008966/6.ts
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
@@ -28,28 +28,28 @@ http://172.19.251.2:25461/live/008966/008966/1520.ts
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 
 #EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/252130
+http://172.19.251.2:25461/live/008966/008966/9.ts
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HQ"  tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="TV | Internacional",INT| HISTORY 2 HQ 
-http://compitv.info:8080/supertv427/BTCk6kvas9/252461
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/55625.ts
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",INT| A&E HD 
-http://compitv.info:8080/supertv427/BTCk6kvas9/252368
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75296.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252392
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/35837.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LATINO HQ"  tvg-logo="https://img1.freepng.es/20180802/lp/kisspng-logo-hbo-hd-portable-network-graphics-scalable-vec-hbo-logo-svg-vector-amp-png-transparent-vector-5b63a15c2db467.6493455415332560281872.jpg" group-title="TV | Internacional",INT| HBO LATINO HQ
 http://172.19.251.2:25461/live/008966/008966/11.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HQ"  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",INT| HBO 2 HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47700
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/53417.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47794
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/60217.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/252399
@@ -58,7 +58,7 @@ http://compitv.info:8080/supertv427/BTCk6kvas9/252399
 http://compitv.info:8080/supertv427/BTCk6kvas9/252395
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HQ"  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",INT| HBO POP HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252397
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/35836.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI HQ"  tvg-logo="https://www.offidocs.com/images/hbomundiicon.jpg" group-title="TV | Internacional",INT| HBO MUNDI HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/252396
