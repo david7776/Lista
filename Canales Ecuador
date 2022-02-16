@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 
+#EXTINF:-1 tvg-id="ipuc.ec" tvg-name="EC| IPUC HD" tvg-logo="https://i.ytimg.com/vi/q5E9ikaWfT0/maxresdefault.jpg" group-title="TV | Ecuador",EC| IPUC HD
+
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172536
 
@@ -52,7 +54,7 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/53417.ts
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/60217.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252399
+http://compitv.info:8080/supertv514/z5STgkJEU3/252399
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HQ"  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ba87ce11147145.5694a6a14b679.jpg" group-title="TV | Internacional",INT| HBO FAMILY HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47773
@@ -64,13 +66,13 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/35836.ts
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75218.ts
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE HQ"  tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg" group-title="TV | Internacional",INT| HBO SIGNATURE HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252398
+http://compitv.info:8080/supertv514/z5STgkJEU3/252398
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES HQ"  tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" group-title="TV | Internacional",INT| TNT SERIES HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252410
+http://compitv.info:8080/supertv514/z5STgkJEU3/47771
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",INT| CINECANAL HQ
 http://172.19.251.2:25461/live/008966/008966/14.m3u8
@@ -85,28 +87,28 @@ http://172.19.251.2:25461/live/008966/008966/16.m3u8
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47701
+http://compitv.info:8080/supertv514/z5STgkJEU3/252447
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/252442
+http://compitv.info:8080/supertv514/z5STgkJEU3/252449
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER HD" tvg-logo="https://i.pinimg.com/originals/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg" group-title="TV | Internacional",INT| DISCOVERY THEATER HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/252444
+http://compitv.info:8080/supertv514/z5STgkJEU3/252445
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/DSC_WORLD_POS_4C.jpg" group-title="TV | Internacional",INT| DISCOVERY WORLD HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/252449
+http://compitv.info:8080/supertv514/z5STgkJEU3/252449
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",INT| GOLDEN EDGE HQ
 http://172.19.251.2:25461/live/008966/008966/580.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HQ" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV | Internacional",INT| GOLDEN HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253039
+http://compitv.info:8080/supertv514/z5STgkJEU3/253039
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER HQ" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV | Internacional",INT| GOLDEN PREMIER HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47696
+http://compitv.info:8080/supertv514/z5STgkJEU3/253042
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",INT| GOLDEN + HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253040
+http://compitv.info:8080/supertv514/z5STgkJEU3/253040
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://172.19.251.2:25461/live/008966/008966/582.ts
@@ -124,31 +126,31 @@ http://172.19.251.2:25461/live/008966/008966/587.m3u8
 http://172.19.251.2:25461/live/008966/008966/589.m3u8
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://i.ytimg.com/vi/RlndXvZ9lD8/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR ACTION HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253016
+http://compitv.info:8080/supertv514/z5STgkJEU3/252377
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR FUN HQ" tvg-logo="https://i.ytimg.com/vi/6BtyPX5PhWg/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR FUN HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252381
+http://compitv.info:8080/supertv514/z5STgkJEU3/253031
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR HITS HQ" tvg-logo="https://i.ytimg.com/vi/rU8qQeoYvvU/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR HITS HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252383
+http://compitv.info:8080/supertv514/z5STgkJEU3/252383
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR SERIES HD" tvg-logo="https://www.sky.com.mx/Code/templates/images/channels/star_series.jpg" group-title="TV | Internacional",INT| STAR SERIES HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/47725
+http://compitv.info:8080/supertv514/z5STgkJEU3/253032
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CINEMA HD" tvg-logo="https://image.freepik.com/vector-gratis/texto-estilo-letreros-neon-star-cinema_118419-2394.jpg" group-title="TV | Internacional",INT| STAR CINEMA HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/47765
+http://compitv.info:8080/supertv514/z5STgkJEU3/253019
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CLASSICS HD" tvg-logo="https://i.ytimg.com/vi/MgoKzp9kNoM/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR CLASSICS HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/47766
+http://compitv.info:8080/supertv514/z5STgkJEU3/253021
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR LIFE HD" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" group-title="TV | Internacional",INT| STAR LIFE HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/47693
+http://compitv.info:8080/supertv514/z5STgkJEU3/253024
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR COMEDY HD" tvg-logo="https://i.ytimg.com/vi/AbOYc7F6hWg/mqdefault.jpg" group-title="TV | Internacional",INT| STAR COMEDY HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/166563
+http://compitv.info:8080/supertv514/z5STgkJEU3/252380
 
 #EXTINF:-1 tvg-id="paramount.ec" tvg-name="INT| PARAMOUNT CHANNEL HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Paramount-Pictures-logo.jpg" group-title="TV | Internacional",INT| PARAMOUNT CHANNEL HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/252402
+http://compitv.info:8080/supertv514/z5STgkJEU3/253074
 
 #EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/telemundo.jpg" group-title="TV | Internacional",INT| TELEMUNDO HQ
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
@@ -169,22 +171,22 @@ http://172.19.251.2:25461/live/008966/008966/1842.m3u8
 http://172.19.251.2:25461/live/008966/008966/1843.m3u8
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",INT| AMC HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47729
+http://compitv.info:8080/supertv514/z5STgkJEU3/47729
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",INT| AXN HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47746
+http://compitv.info:8080/supertv514/z5STgkJEU3/252991
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV | Internacional",INT| FX HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47695
+http://compitv.info:8080/supertv514/z5STgkJEU3/47695
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",INT| FXM HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47724
+http://compitv.info:8080/supertv514/z5STgkJEU3/47724
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",INT| CINEMAX HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/252371
+http://compitv.info:8080/supertv514/z5STgkJEU3/253004
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX ACTION HQ" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Cinemax/premium-channel-cinemax-action-max.jpg" group-title="TV | Internacional",INT| CINEMAX ACTION HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253002
+http://compitv.info:8080/supertv514/z5STgkJEU3/253002
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
 http://172.19.251.2:25461/live/008966/008966/1844.m3u8
@@ -199,31 +201,31 @@ http://172.19.251.2:25461/live/008966/008966/1846.m3u8
 http://172.19.251.2:25461/live/008966/008966/24.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",INT| NICK HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/48202
+http://compitv.info:8080/supertv514/z5STgkJEU3/48202
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",INT| DISNEY XD HQ
 http://172.19.251.2:25461/live/008966/008966/577.m3u8
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Internacional",INT| DISNEY CHANNEL HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47829
+http://compitv.info:8080/supertv514/z5STgkJEU3/47829
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY JUNIOR HQ" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg" group-title="TV | Internacional",INT| DISNEY JUNIOR HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/28836
+http://compitv.info:8080/supertv514/z5STgkJEU3/47839
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Internacional",INT| DISCOVERY KIDS HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/48196
+http://compitv.info:8080/supertv514/z5STgkJEU3/48196
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",INT| NATGEO KIDS HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/47835
+http://compitv.info:8080/supertv514/z5STgkJEU3/47835
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Internacional",INT| CARTOON NETWORK HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/48195
+http://compitv.info:8080/supertv514/z5STgkJEU3/48195
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO HQ" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TV | Internacional",INT| CARTOONITO HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/48194
+http://compitv.info:8080/supertv514/z5STgkJEU3/31429
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/591.ts
@@ -247,7 +249,7 @@ http://172.19.251.2:25461/live/008966/008966/599.m3u8
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/116352
+http://compitv.info:8080/supertv514/z5STgkJEU3/116356
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -256,22 +258,22 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL HQ
-http://soberon.us:25461/new/soberonbull/461
+http://compitv.info:8080/supertv514/z5STgkJEU3/182996
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP1 HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP1 HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/27893
+http://compitv.info:8080/supertv514/z5STgkJEU3/27893
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 HD" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL OP2 HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/90821
+http://compitv.info:8080/supertv514/z5STgkJEU3/182997
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="TV | Deportes",DEP| DIRECTV 2 HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/183008
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/45383.ts
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="TV | Deportes",DEP| DIRECTV + HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/183009
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73657.ts
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
@@ -286,7 +288,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182326
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV HD" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",DEP| REAL MADRID TV HD
-http://compitv.info:8080/supertv427/BTCk6kvas9/47664
+http://compitv.info:8080/supertv514/z5STgkJEU3/47664
 
 #EXTINF:-1 tvg-id="fight.ec" tvg-name="DEP| FIGHT SPORT HD" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="TV | Deportes",DEP| FIGHT SPORT HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
@@ -295,10 +297,10 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",DEP| MOVISTAR LA LIGA HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169935
+http://compitv.info:8080/supertv514/z5STgkJEU3/47647
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
-http://globalentertainmentec.xyz:8000/1102/1102/8486
+http://compitv.info:8080/supertv514/z5STgkJEU3/87646
 
 #EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",DEP| EUROSPORT 1 HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169942
@@ -323,11 +325,11 @@ http://172.19.251.2:25461/series/008966/008966/1855.mkv
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Evento 1" tvg-logo="https://logos.flamingtext.com/Word-Logos/eventos-design-sketch-name.png" group-title="EVENTOS CRISTIANOS",Evento 1
-https://tinyurl.com/lacadena
+
 #EXTINF:-1 tvg-id="" tvg-name="Evento 2" tvg-logo="https://logos.flamingtext.com/Word-Logos/eventos-design-china-name.png" group-title="EVENTOS CRISTIANOS",Evento 2
-https://video.fatf3-1.fna.fbcdn.net/hvideo-rva-atn/_nc_cat-105/_nc_sr_t-4/v/rqqkEhSpKakNQnuTiVQqM/_nc_ohc-I6igD8d8lRoAX9hzziq/live-dash/dash-abr-ibr-audio/4185810698311241.mpd?cb=0d175c8b-d5210c6a&ccb=2-4&e_cfg=eyJ1c2VfY2h1bmtlZF9zZWdtZW50X2hhbmRsZXIiOiJ0cnVlIiwic2hvdWxkX3RyYW5zbXV4X2NodW5rZWRfc2VnbWVudHMiOiJmYWxzZSJ9&ms=m_CTPA&sc_t=1&oh=00_AT_BvmPKuQoEcpM0uagF6h6dcORFTW-t67nTGwz_f22c5A&oe=6209D374&_nc_expid=www_streaming_t18_1
+
 #EXTINF:-1 tvg-id="" tvg-name="Evento 3" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c2749049d5abb20c821e5b7/1581878752849-4SVWVIHNSCAJF59NAW0J/neventos.png" group-title="EVENTOS CRISTIANOS",Evento 3
-https://video.fatf3-1.fna.fbcdn.net/hvideo-ftw-ldc/_nc_cat-111/_nc_sr_t-4/v/rXT7b8UTuGSuvzpPJFY0x/_nc_ohc-Nfm5FaNAVjQAX-3UEyx/live-dash/dash-abr3/485666552960056.mpd?cb=0d175c8b-d5210c6a&ccb=2-4&e_cfg=eyJ1c2VfY2h1bmtlZF9zZWdtZW50X2hhbmRsZXIiOiJ0cnVlIiwic2hvdWxkX3RyYW5zbXV4X2NodW5rZWRfc2VnbWVudHMiOiJmYWxzZSJ9&ms=m_CNP&sc_t=1&oh=00_AT-AXZhVnwNyEN0XXiOXbXkGGOdBh3UAf-7DGbCqsg615A&oe=620A4A4D&_nc_expid=www_streaming_t18_1
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="https://phantom-marca.unidadeditorial.es/8123db6d85f5a44c387bffb410707c8b/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/11/16024418581901.jpg" group-title="24/7 | 24/7",Caballeros del Zodiaco
