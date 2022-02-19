@@ -228,16 +228,22 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/48195
 http://compitv.info:8080/supertv514/z5STgkJEU3/31429
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
-http://172.19.251.2:25461/live/008966/008966/591.ts
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182345
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS HQ
-http://172.19.251.2:25461/live/008966/008966/592.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181231
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
-http://172.19.251.2:25461/live/008966/008966/594.m3u8
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181290
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN 3 HQ
 http://172.19.251.2:25461/live/008966/008966/595.m3u8
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN + HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181243
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",DEP| GOLTV HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172555
