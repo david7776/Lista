@@ -338,32 +338,7 @@ http://172.19.251.2:25461/series/008966/008966/1856.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="https://phantom-marca.unidadeditorial.es/8123db6d85f5a44c387bffb410707c8b/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/11/16024418581901.jpg" group-title="24/7 | 24/7",Caballeros del Zodiaco
-http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/923e22de3f5567625ae9f22d3fbab2b9609f4d193e00b52cbd591749e7e001d6._RI_V_TTW_.jpg" group-title="24/7 | 24/7",Chespirito
-http://user.tvcluboficial.com/stream/nov/nov/417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="https://media.revistagq.com/photos/5d1348c16994dc0dc677750c/3:2/w_1727,h_1151,c_limit/doraemon.jpg" group-title="24/7 | 24/7",Doraemon
-http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/07/12/noticias/1626087143_668870_1626087190_noticia_normal.jpg" group-title="24/7 | 24/7",Dragon Ball Super
-http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://i.blogs.es/e204e1/futurama-xataka-1/1366_2000.jpg" group-title="24/7 | 24/7",Futurama
-http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://media.revistagq.com/photos/5ca5f6a77a3aec0df5496c59/master/w_1600%2Cc_limit/bob_esponja_9564.png" group-title="24/7 | 24/7",Bob Esponja
-http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="https://www.vistazo.com/binrepository/768x528/0c48/768d432/none/12727/BSCG/chavo-foto-inedita-vistazo_VI158736_MG8545908.jpg" group-title="24/7 | 24/7",El chavo del 8
-http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Accion" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="24/7 | 24/7",Cine Accion
-http://user.tvcluboficial.com/stream/nov/nov/699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Accion Sagas" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="24/7 | 24/7",Cine Accion Sagas
-http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Ficcion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKidCgXhuJgHNi7H7aJVOU5jMc0Xxy6sXxtw&usqp=CAU" group-title="24/7 | 24/7",Cine Ficcion
-http://user.tvcluboficial.com/stream/nov/nov/709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil" tvg-logo="https://direct.rhapsody.com/imageserver/images/alb.247268305/500x500.jpg" group-title="24/7 | 24/7",Cine Infantil
-http://user.tvcluboficial.com/stream/nov/nov/687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2015/08/Marvel-premios-Hugo.jpg" group-title="24/7 | 24/7",Cine Marvel
-http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Zombis" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-liQqvaiL._SX331_BO1,204,203,200_.jpg" group-title="24/7 | 24/7",Cine Zombis
-http://user.tvcluboficial.com/stream/nov/nov/688.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FITNESS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg" group-title="24/7 | 24/7",PLUTO TV FITNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV ACCION" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/estrellas-de-accion-pluto-tv.jpg" group-title="24/7 | 24/7",PLUTO TV ACCION
@@ -453,21 +428,15 @@ http://172.19.251.2:25461/movie/008966/008966/649.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El caballero oscuro 3" tvg-logo="https://pics.filmaffinity.com/El_caballero_oscuro_La_leyenda_renace-359441637-large.jpg" group-title= "VOD | Peliculas", El caballero oscuro 3
 http://172.19.251.2:25461/movie/008966/008966/650.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
-http://tecnotv.club/di2/peliculas3.php?c=cruella%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="VOD | Peliculas",Coco
-http://regioplay.xyz/411112/coco.mkv
+http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Estamos vivos" tvg-logo="https://i.pinimg.com/736x/a9/61/58/a9615879a9ba9191e14aab9668bef7cb.jpg" group-title="VOD | Peliculas",Estamos vivos
 http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y Furiosos 9" tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2021/05/rapidos-y-furiosos-9.jpg" group-title="VOD | Peliculas",Rapidos y Furiosos 9
-http://regioplay.xyz/411112/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="https://es.web.img2.acsta.net/pictures/16/08/10/11/08/043634.jpg" group-title="VOD | Peliculas",No manches Frida
-http://tecnotv.club/di2/peliculas2.php?c=zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_725773-MLM32647299668_102019-W.jpg" group-title="VOD | Peliculas",No manches Frida 2
-http://tecnotv.club/di2/peliculas2.php?c=rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Geo Tormenta" tvg-logo="https://www.humonegro.com/wp-content/GEOSTORM-FRONTAL.png" group-title="VOD | Peliculas",Geo Tormenta
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200767.mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Ong Bak 1" tvg-logo="https://m.media-amazon.com/images/I/711K6NKVa+L._SY445_.jpg" group-title="VOD | Peliculas",Ong Bak 1
+http://172.19.251.2:25461/movie/008966/008966/764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="http://heavenradiord.com/wp-content/uploads/2020/03/virus-netflix-pelicula-coronavirus-1584006918.jpg" group-title="VOD | Peliculas",Virus
+http://172.19.251.2:25461/movie/008966/008966/871.mkv
 
