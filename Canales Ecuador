@@ -34,10 +34,10 @@ http://172.19.251.2:25461/live/008966/008966/9.ts
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HQ"  tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="TV | Internacional",INT| HISTORY 2 HQ 
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/55625.ts
+http://soberon.us:25461/live/bullnew/soberonnew/122.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",INT| A&E HD 
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75296.ts
+http://satelliteiptv.xyz:8080/0hdzlvjyjw/fravo6ww9/6673
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252392
@@ -328,14 +328,6 @@ http://172.19.251.2:25461/series/008966/008966/1855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E09
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Evento 1" tvg-logo="https://logos.flamingtext.com/Word-Logos/eventos-design-sketch-name.png" group-title="EVENTOS CRISTIANOS",Evento 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Evento 2" tvg-logo="https://logos.flamingtext.com/Word-Logos/eventos-design-china-name.png" group-title="EVENTOS CRISTIANOS",Evento 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Evento 3" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c2749049d5abb20c821e5b7/1581878752849-4SVWVIHNSCAJF59NAW0J/neventos.png" group-title="EVENTOS CRISTIANOS",Evento 3
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV FITNESS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg" group-title="24/7 | 24/7",PLUTO TV FITNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -377,6 +369,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f91
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV TEEN" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2021/03/pluto-tv-wipeout-teen-mom-loupe-arte-musica-1200x675.jpg" group-title="24/7 | 24/7",PLUTO TV TEEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Serie_de_TV-975163360-large.jpg" group-title="24/7 | 24/7",Bob Esponja
+http://soberon.us:25461/bullnew/soberonnew/2946
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.clarin.com/img/2022/02/10/futurama-la-serie-de-matt___8zUr7Xu4D_1200x630__1.jpg" group-title="24/7 | 24/7",Futurama
+http://soberon.us:25461/bullnew/soberonnew/2976
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91u3yUn+7OL.jpg" group-title="24/7 | 24/7",Mazinger
+http://soberon.us:25461/bullnew/soberonnew/2942
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball Z" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Serie_de_TV-697937148-mmed.jpg" group-title="24/7 | 24/7",Dragon ball Z
+http://soberon.us:25461/bullnew/soberonnew/2926
+#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="https://imagenes.elpais.com/resizer/Li4k6sR51F7xoZDvOXoU1hzoJTc=/1200x0/filters:focal(377.5x212.5:387.5x222.5)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/WZF3MMB4ONHUTB5KBSMFZ7L2OI.JPG" group-title="24/7 | 24/7",El chavo del 8
+http://cdn04.sportsbay.xyz:2052/live-2/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIyIDM6MDU6MzMgQU0maGFzaF92YWx1ZT1aUGdhanR3TTM3TElsckczQVdGdDV3PT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9NDU2MjI3MTk2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
