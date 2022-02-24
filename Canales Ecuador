@@ -228,9 +228,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/31429
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182345
 
-#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181231
-
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
@@ -255,11 +252,20 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/116356
 
-#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181231
+
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS PREMIUM HQ
+http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
+http://compitv.info:8080/supertv514/z5STgkJEU3/116000
+
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/182996
