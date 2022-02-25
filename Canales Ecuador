@@ -10,7 +10,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172536
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",EC| TC HD
-http://172.19.251.2:25461/live/008966/008966/4.ts
+http://compitv.info:8080/supertv514/z5STgkJEU3/64431
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
 http://172.19.251.2:25461/live/008966/008966/5.ts
@@ -64,7 +64,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/252397
 http://compitv.info:8080/supertv514/z5STgkJEU3/252396
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE HQ"  tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg" group-title="TV | Internacional",INT| HBO SIGNATURE HQ
-http://soberon.us:25461/bullnew/soberonnew/3150
+http://compitv.info:8080/supertv514/z5STgkJEU3/252398
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",INT| TNT HQ
 http://172.19.251.2:25461/live/008966/008966/13.m3u8
@@ -231,6 +231,9 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182345
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181290
 
@@ -246,14 +249,20 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172555
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="TV | Deportes",DEP| TYC SPORTS HQ
 http://172.19.251.2:25461/live/008966/008966/599.m3u8
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",DEP| ESPN OPCION 1 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 1 HQ
+http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108675
 
-#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT HQ
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 2 HQ
+http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108677
+
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 3 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/116356
 
-#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS HQ
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 MEX HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS 1 MEX HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181231
+
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 ARG HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS 1 ARG HQ
+http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108681
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS PREMIUM HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/106575
@@ -262,7 +271,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/116000
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182339
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -292,7 +301,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",DEP| CLARO SPORT HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182326
+http://compitv.info:8080/supertv514/z5STgkJEU3/111468
 
 #EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV HD" tvg-logo="https://1.bp.blogspot.com/-ykympay5Y0k/YJg4EDBI4YI/AAAAAAAAFhs/UAgBAWUzTj4mpd6RTAQX_LMqKk33wk9EACLcBGAsYHQ/s1920/Barca%2BTV%252C%2BFC%2BBarcelona%252C%2BBarcelona%2BTV%252C%2BLionel%2Bmessi%252C%2Bver%2Btv%2Ben%2Bvivo%2Bonline%252C%2Bver%2Btv%2Bespa%25C3%25B1a%2Ben%2Bvivo.jpg" group-title="TV | Deportes",DEP| BARCA TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
@@ -443,13 +452,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200767.mp4
 http://172.19.251.2:25461/movie/008966/008966/764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="http://heavenradiord.com/wp-content/uploads/2020/03/virus-netflix-pelicula-coronavirus-1584006918.jpg" group-title="VOD | Peliculas",Virus
 http://172.19.251.2:25461/movie/008966/008966/871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi nombre Khan" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/77/55/19/20235641.jpg" group-title="VOD | Peliculas",Mi nombre es Khan
-https://www117.akamai-cdn-content.com/hls/tysxest6x266j6cdacibzxaffyamjjchzovfa2ftoyssmupoymbv3ei4qb6q/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://www.ecartelera.com/carteles/2400/2425/002_m.jpg" group-title="VOD | Peliculas",Titanic
-https://www315.ff-01.com/token=6EeKOz3TGNYdR3buk9aGJg/1645606427/45.6.0.0/53/8/c5/3d165f02529536b512f4d60cac604c58-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="VOD | Peliculas",Coco
-https://www1496.ff-03.com/token=nNBRAyGHK2mogspAI6NN0A/1645606730/45.6.0.0/17/a/b5/d3609aebf0efc71f5fcee5c4776ffb5a-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/82/67/20470406.jpg" group-title="VOD | Peliculas",Los Croods 1
-https://www320.akamai-cdn-content.com/hls/tysxf47jwo66j6cdadbb7tkdhpxm2hzfabywfoj2hh3kshcq5eww4i7vx5ma/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="https://pics.filmaffinity.com/Los_Croods_Una_nueva_era-762432589-large.jpg" group-title="VOD | Peliculas",Los Croods 2
-https://www261.akamai-cdn-content.com/hls/tysxeaen4s66j6cdabprxh24eui4okp2kacovmv2k,b23svpwfe6ahcgg74qq,333qvpwfe6abdtm7iaq,.urlset/master.m3u8?client=45.6.227.196
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/101298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",Donde estan las rubias
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/101295.mkv
