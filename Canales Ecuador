@@ -447,12 +447,24 @@ http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Geo Tormenta" tvg-logo="https://www.humonegro.com/wp-content/GEOSTORM-FRONTAL.png" group-title="VOD | Peliculas",Geo Tormenta
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200767.mp4
+http://127.0.0.1:11470/1ac65cebec66aa23934a3d8b7022475a49adcdd2/0
 #EXTINF:-1 tvg-id="" tvg-name="Ong Bak 1" tvg-logo="https://m.media-amazon.com/images/I/711K6NKVa+L._SY445_.jpg" group-title="VOD | Peliculas",Ong Bak 1
 http://172.19.251.2:25461/movie/008966/008966/764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="http://heavenradiord.com/wp-content/uploads/2020/03/virus-netflix-pelicula-coronavirus-1584006918.jpg" group-title="VOD | Peliculas",Virus
 http://172.19.251.2:25461/movie/008966/008966/871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://www.ecartelera.com/carteles/2400/2425/002_m.jpg" group-title="VOD | Peliculas",Titanic
-http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/101298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Donde estan las rubias" tvg-logo="" group-title="VOD | Peliculas",Donde estan las rubias
-http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/101295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
+http://127.0.0.1:11470/80bc918cc539429d4057e787cbc2f591ce687864/0
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
+http://127.0.0.1:11470/28d6c8cb193f5db3f5bd4e8579931858b72f4250/0
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter" tvg-logo="" group-title="VOD | Peliculas",Monster Hunter
+http://127.0.0.1:11470/d297b8f0ca7056bc5d57c338b90a4d900e1610ac/0
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
+http://127.0.0.1:11470/5a6e16975c0b9aa167b113c2058c0e1376a90147/0
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman sin camino a casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman sin camino a casa
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/111413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos, las 2 torres" tvg-logo="" group-title="VOD | Peliculas",El señor de los anillos, las 2 torres
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/111025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El extranjero" tvg-logo="" group-title="VOD | Peliculas",El extranjero
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/78644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/78506.mp4
