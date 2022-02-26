@@ -37,7 +37,7 @@ http://172.19.251.2:25461/live/008966/008966/10.m3u8
 http://soberon.us:25461/live/bullnew/soberonnew/122.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",INT| A&E HD 
-http://satelliteiptv.xyz:8080/0hdzlvjyjw/fravo6ww9/6673
+http://compitv.info:8080/supertv514/z5STgkJEU3/252981
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252392
@@ -174,11 +174,17 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47729
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",INT| AXN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252991
 
+#EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN WHITE HQ" tvg-logo="" group-title="TV | Internacional",INT| AXN WHITE HQ
+http://soberon.us:25461/bullnew/soberonnew/48
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV | Internacional",INT| FX HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47695
 
-#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",INT| FXM HQ
+#EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",INT| FXM HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47724
+
+#EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| TBS HQ" tvg-logo="" group-title="TV | Internacional",INT| TBS HQ
+http://soberon.us:25461/bullnew/soberonnew/150
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",INT| CINEMAX HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253004
@@ -222,8 +228,11 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47835
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Internacional",INT| CARTOON NETWORK HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48195
 
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO HQ" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TV | Internacional",INT| CARTOONITO HQ
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| BABY TV HQ" tvg-logo="" group-title="TV | Internacional",INT| BABY TV HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/31429
+
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",INT| NATGEO KIDS HQ
+http://compitv.info:8080/supertv514/z5STgkJEU3/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182345
@@ -256,10 +265,10 @@ http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108675
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108677
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 3 HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/116356
+http://compitv.info:8080/supertv514/z5STgkJEU3/155840
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 MEX HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS 1 MEX HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181231
+http://compitv.info:8080/supertv514/z5STgkJEU3/47680
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 ARG HQ" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",DEP| FOX SPORTS 1 ARG HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108681
@@ -321,8 +330,17 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47647
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/87646
 
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA HD" tvg-logo="" group-title="TV | Deportes",DEP| LATINA HD
+http://compitv.info:8080/supertv514/z5STgkJEU3/50270
+
 #EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",DEP| EUROSPORT 1 HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169942
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",DEP| TIGO SPORT 1 HD
+http://compitv.info:8080/supertv514/z5STgkJEU3/70609
+
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",DEP| TIGO SPORT 2 HD
+http://compitv.info:8080/supertv514/z5STgkJEU3/70608
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
@@ -384,6 +402,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f91
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV TEEN" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2021/03/pluto-tv-wipeout-teen-mom-loupe-arte-musica-1200x675.jpg" group-title="24/7 | 24/7",PLUTO TV TEEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Serie_de_TV-975163360-large.jpg" group-title="24/7 | 24/7",Bob Esponja
 http://soberon.us:25461/bullnew/soberonnew/2946
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.clarin.com/img/2022/02/10/futurama-la-serie-de-matt___8zUr7Xu4D_1200x630__1.jpg" group-title="24/7 | 24/7",Futurama
@@ -392,6 +412,38 @@ http://soberon.us:25461/bullnew/soberonnew/2976
 http://soberon.us:25461/bullnew/soberonnew/2942
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball Z" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Serie_de_TV-697937148-mmed.jpg" group-title="24/7 | 24/7",Dragon ball Z
 http://soberon.us:25461/bullnew/soberonnew/2926
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeones" tvg-logo="" group-title="24/7 | 24/7",Super Campeones
+http://soberon.us:25461/bullnew/soberonnew/2943
+#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Macotas" tvg-logo="" group-title="24/7 | 24/7",Macotas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Archivos del FBI" tvg-logo="" group-title="24/7 | 24/7",Archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 1" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 1
+http://compitv.info:8080/supertv514/z5STgkJEU3/118315
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 2" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 2
+http://compitv.info:8080/supertv514/z5STgkJEU3/118314
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
+http://compitv.info:8080/supertv514/z5STgkJEU3/118312
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
+http://compitv.info:8080/supertv514/z5STgkJEU3/118310
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
+http://compitv.info:8080/supertv514/z5STgkJEU3/182858
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 6" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 6
+http://compitv.info:8080/supertv514/z5STgkJEU3/182859
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 7" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 7
+http://compitv.info:8080/supertv514/z5STgkJEU3/182860
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 8" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 8
+http://compitv.info:8080/supertv514/z5STgkJEU3/182861
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 9" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 9
+http://compitv.info:8080/supertv514/z5STgkJEU3/182870
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 10" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 10
+http://compitv.info:8080/supertv514/z5STgkJEU3/182871
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
