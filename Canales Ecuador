@@ -13,16 +13,16 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
 http://compitv.info:8080/supertv514/z5STgkJEU3/64431
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
-http://172.19.251.2:25461/live/008966/008966/5.ts
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181287
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
-http://172.19.251.2:25461/live/008966/008966/6.ts
+http://compitv.info:8080/supertv514/z5STgkJEU3/182871
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS COSTA HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS COSTA HD
-http://172.19.251.2:25461/live/008966/008966/1520.ts
+http://compitv.info:8080/supertv514/z5STgkJEU3/182996
 
 #EXTINF:-1 tvg-id="zaracay.ec" tvg-name="EC| ZARACAY TV HD"  tvg-logo="https://pbs.twimg.com/profile_images/949060517200519168/0MlEnPhN.jpg" group-title="TV | Ecuador",EC| ZARACAY TV HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
@@ -88,13 +88,13 @@ http://172.19.251.2:25461/live/008966/008966/579.m3u8
 http://soberon.us:25461/bullnew/soberonnew/80
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/252449
+http://compitv.info:8080/supertv514/z5STgkJEU3/81982
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER HD" tvg-logo="https://i.pinimg.com/originals/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg" group-title="TV | Internacional",INT| DISCOVERY THEATER HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/252445
+http://compitv.info:8080/supertv514/z5STgkJEU3/182860
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/DSC_WORLD_POS_4C.jpg" group-title="TV | Internacional",INT| DISCOVERY WORLD HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/252449
+http://compitv.info:8080/supertv514/z5STgkJEU3/101250
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",INT| GOLDEN EDGE HQ
 http://172.19.251.2:25461/live/008966/008966/580.m3u8
@@ -109,7 +109,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253042
 http://soberon.us:25461/bullnew/soberonnew/117
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",INT| WARNER BROTHER HQ
-http://172.19.251.2:25461/live/008966/008966/582.ts
+http://compitv.info:8080/supertv514/z5STgkJEU3/47681
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",INT| UNIVERSAL TV HQ
 http://172.19.251.2:25461/live/008966/008966/583.m3u8
@@ -166,7 +166,7 @@ http://172.19.251.2:25461/live/008966/008966/1841.m3u8
 http://172.19.251.2:25461/live/008966/008966/1842.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",INT| SPACE HQ
-http://172.19.251.2:25461/live/008966/008966/1843.m3u8
+http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/110834
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",INT| AMC HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47729
@@ -178,7 +178,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/252991
 http://soberon.us:25461/bullnew/soberonnew/48
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV | Internacional",INT| FX HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/47695
+http://compitv.info:8080/supertv514/z5STgkJEU3/47703
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",INT| FXM HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47724
@@ -235,7 +235,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/31429
 http://compitv.info:8080/supertv514/z5STgkJEU3/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182345
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172538
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
@@ -247,7 +247,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181290
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN 3 HQ
-http://172.19.251.2:25461/live/008966/008966/595.m3u8
+http://compitv.info:8080/supertv514/z5STgkJEU3/50266
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN + HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181243
@@ -280,7 +280,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182339
+http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/105510
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
@@ -322,7 +322,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47664
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169998
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES HD" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",DEP| MOVISTAR DEPORTES HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
+http://compitv.info:8080/supertv514/z5STgkJEU3/253063
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",DEP| MOVISTAR LA LIGA HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/47647
