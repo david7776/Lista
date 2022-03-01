@@ -4,7 +4,7 @@
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172536
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172537
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC HQ" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",EC| TVC HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
@@ -13,10 +13,10 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
 http://compitv.info:8080/supertv514/z5STgkJEU3/64431
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181287
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172542
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/182871
+http://compitv.info:8080/supertv514/z5STgkJEU3/28600
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION HQ"  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",EC| GAMAVISION HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
@@ -33,9 +33,6 @@ http://172.19.251.2:25461/live/008966/008966/9.ts
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HQ"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",INT| HISTORY HQ 
 http://172.19.251.2:25461/live/008966/008966/10.m3u8
 
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HQ"  tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="TV | Internacional",INT| HISTORY 2 HQ 
-http://soberon.us:25461/live/bullnew/soberonnew/122.m3u8
-
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",INT| A&E HD 
 http://compitv.info:8080/supertv514/z5STgkJEU3/252981
 
@@ -43,13 +40,10 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/252981
 http://compitv.info:8080/supertv514/z5STgkJEU3/252392
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LATINO HQ"  tvg-logo="https://img1.freepng.es/20180802/lp/kisspng-logo-hbo-hd-portable-network-graphics-scalable-vec-hbo-logo-svg-vector-amp-png-transparent-vector-5b63a15c2db467.6493455415332560281872.jpg" group-title="TV | Internacional",INT| HBO LATINO HQ
-http://172.19.251.2:25461/live/008966/008966/11.ts
+http://compitv.info:8080/supertv514/z5STgkJEU3/47784
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HQ"  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",INT| HBO 2 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47700
-
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HQ"  tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="TV | Internacional",INT| HBO PLUS HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/47794
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HQ"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",INT| HBO XTREME HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252399
@@ -88,10 +82,10 @@ http://172.19.251.2:25461/live/008966/008966/579.m3u8
 http://soberon.us:25461/bullnew/soberonnew/80
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/81982
+http://compitv.info:8080/supertv514/z5STgkJEU3/252441
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER HD" tvg-logo="https://i.pinimg.com/originals/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg" group-title="TV | Internacional",INT| DISCOVERY THEATER HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/182860
+http://compitv.info:8080/supertv514/z5STgkJEU3/252444
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/DSC_WORLD_POS_4C.jpg" group-title="TV | Internacional",INT| DISCOVERY WORLD HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/101250
@@ -109,7 +103,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253042
 http://soberon.us:25461/bullnew/soberonnew/117
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",INT| WARNER BROTHER HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/47681
+http://compitv.info:8080/supertv514/z5STgkJEU3/253114
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",INT| UNIVERSAL TV HQ
 http://172.19.251.2:25461/live/008966/008966/583.m3u8
@@ -129,17 +123,11 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/252377
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR FUN HQ" tvg-logo="https://i.ytimg.com/vi/6BtyPX5PhWg/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR FUN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253031
 
-#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR HITS HQ" tvg-logo="https://i.ytimg.com/vi/rU8qQeoYvvU/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR HITS HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/252383
-
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR SERIES HD" tvg-logo="https://www.sky.com.mx/Code/templates/images/channels/star_series.jpg" group-title="TV | Internacional",INT| STAR SERIES HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/252384
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CINEMA HD" tvg-logo="https://image.freepik.com/vector-gratis/texto-estilo-letreros-neon-star-cinema_118419-2394.jpg" group-title="TV | Internacional",INT| STAR CINEMA HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/253019
-
-#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CLASSICS HD" tvg-logo="https://i.ytimg.com/vi/MgoKzp9kNoM/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR CLASSICS HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/253021
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR LIFE HD" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" group-title="TV | Internacional",INT| STAR LIFE HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/253024
@@ -154,7 +142,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253074
 http://172.19.251.2:25461/live/008966/008966/596.m3u8
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",INT| CNN HQ
-http://172.19.251.2:25461/live/008966/008966/1839.m3u8
+http://compitv.info:8080/supertv514/z5STgkJEU3/50358
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | Internacional",INT| MTV HQ
 http://172.19.251.2:25461/live/008966/008966/1840.m3u8
@@ -163,7 +151,7 @@ http://172.19.251.2:25461/live/008966/008966/1840.m3u8
 http://172.19.251.2:25461/live/008966/008966/1841.m3u8
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",INT| PASIONES HQ
-http://172.19.251.2:25461/live/008966/008966/1842.m3u8
+http://compitv.info:8080/supertv514/z5STgkJEU3/50345
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",INT| SPACE HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/110834
@@ -193,7 +181,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253004
 http://compitv.info:8080/supertv514/z5STgkJEU3/253002
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
-http://172.19.251.2:25461/live/008966/008966/1844.m3u8
+http://compitv.info:8080/supertv514/z5STgkJEU3/252468
 
 #EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/6910c0b/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="TV | Internacional",INT| CARACOL HQ
 http://172.19.251.2:25461/live/008966/008966/1845.m3u8
@@ -244,7 +232,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181290
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181237
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN 3 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/50266
@@ -254,9 +242,6 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181243
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",DEP| GOLTV HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172555
-
-#EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORTS HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="TV | Deportes",DEP| TYC SPORTS HQ
-http://172.19.251.2:25461/live/008966/008966/599.m3u8
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 1 HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108675
@@ -295,13 +280,10 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/27893
 http://compitv.info:8080/supertv514/z5STgkJEU3/182997
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DEP| DIRECTV HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
+http://compitv.info:8080/supertv514/z5STgkJEU3/183011
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="TV | Deportes",DEP| DIRECTV 2 HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/116368
-
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="TV | Deportes",DEP| DIRECTV + HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/88642
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
@@ -423,27 +405,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 1" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 1
-http://compitv.info:8080/supertv514/z5STgkJEU3/118315
+http://compitv.info:8080/supertv514/z5STgkJEU3/209203
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 2" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 2
-http://compitv.info:8080/supertv514/z5STgkJEU3/118314
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
-http://compitv.info:8080/supertv514/z5STgkJEU3/118312
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-http://compitv.info:8080/supertv514/z5STgkJEU3/118310
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
-http://compitv.info:8080/supertv514/z5STgkJEU3/182858
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 6" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 6
-http://compitv.info:8080/supertv514/z5STgkJEU3/182859
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 7" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 7
-http://compitv.info:8080/supertv514/z5STgkJEU3/182860
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 8" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 8
-http://compitv.info:8080/supertv514/z5STgkJEU3/182861
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 9" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 9
-http://compitv.info:8080/supertv514/z5STgkJEU3/182870
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 10" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 10
-http://compitv.info:8080/supertv514/z5STgkJEU3/182871
-
-
+http://compitv.info:8080/supertv514/z5STgkJEU3/209204
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji 2" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/08/14/53/3315450.jpg" group-title="VOD | Peliculas",Jumanji 2
@@ -510,3 +474,5 @@ http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/111025.mkv
 http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/78644.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
 http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/78506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
+http://ultraplay.org:80/movie/LUISOSORIO/LuisOsorio74fj09ax/89259.mkv
