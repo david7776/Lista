@@ -234,10 +234,10 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181237
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 ARG HQ
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",DEP| ESPN 2 ARG HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/64880
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN 3 HQ
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="" group-title="TV | Deportes",DEP| ESPN 3 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/50266
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN + HQ
