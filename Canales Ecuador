@@ -49,7 +49,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47700
 http://compitv.info:8080/supertv514/z5STgkJEU3/252399
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HQ"  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ba87ce11147145.5694a6a14b679.jpg" group-title="TV | Internacional",INT| HBO FAMILY HQ
-http://soberon.us:25461/bullnew/soberonnew/3147
+http://compitv.info:8080/supertv514/z5STgkJEU3/253047
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HQ"  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",INT| HBO POP HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252397
@@ -79,7 +79,7 @@ http://172.19.251.2:25461/live/008966/008966/16.m3u8
 http://172.19.251.2:25461/live/008966/008966/579.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO HQ" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",INT| DISCOVERY TURBO HQ
-http://soberon.us:25461/bullnew/soberonnew/80
+http://compitv.info:8080/supertv514/z5STgkJEU3/47701
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",INT| DISCOVERY INVESTIGATION HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/252441
@@ -100,7 +100,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253039
 http://compitv.info:8080/supertv514/z5STgkJEU3/253042
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",INT| GOLDEN + HQ
-http://soberon.us:25461/bullnew/soberonnew/117
+http://compitv.info:8080/supertv514/z5STgkJEU3/253040
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253114
@@ -162,9 +162,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47729
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",INT| AXN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252991
 
-#EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN WHITE HQ" tvg-logo="" group-title="TV | Internacional",INT| AXN WHITE HQ
-http://soberon.us:25461/bullnew/soberonnew/48
-
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV | Internacional",INT| FX HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47703
 
@@ -172,13 +169,10 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47703
 http://compitv.info:8080/supertv514/z5STgkJEU3/47724
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| TBS HQ" tvg-logo="" group-title="TV | Internacional",INT| TBS HQ
-http://soberon.us:25461/bullnew/soberonnew/150
+http://compitv.info:8080/supertv514/z5STgkJEU3/47688
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",INT| CINEMAX HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253004
-
-#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX ACTION HQ" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Cinemax/premium-channel-cinemax-action-max.jpg" group-title="TV | Internacional",INT| CINEMAX ACTION HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/253002
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO HQ" tvg-logo="http://l3d.us:8080/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="TV | Internacional",INT| NATGEO HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252468
@@ -202,7 +196,7 @@ http://172.19.251.2:25461/live/008966/008966/577.m3u8
 http://compitv.info:8080/supertv514/z5STgkJEU3/47829
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY JUNIOR HQ" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg" group-title="TV | Internacional",INT| DISNEY JUNIOR HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/47839
+http://compitv.info:8080/supertv514/z5STgkJEU3/28836
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Internacional",INT| TOONCAST HQ
 http://172.19.251.2:25461/live/008966/008966/578.m3u8
@@ -217,7 +211,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/47835
 http://compitv.info:8080/supertv514/z5STgkJEU3/48195
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| BABY TV HQ" tvg-logo="" group-title="TV | Internacional",INT| BABY TV HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/31429
+http://compitv.info:8080/supertv514/z5STgkJEU3/48193
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",INT| NATGEO KIDS HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48193
@@ -267,9 +261,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
-#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 " tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 
-https://futbolfullenvivo.com/ver-channel-fox-sports-2-en-vivo/#
-
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108684
 
@@ -289,7 +280,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/182997
 http://compitv.info:8080/supertv514/z5STgkJEU3/183011
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="TV | Deportes",DEP| DIRECTV 2 HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/116368
+http://compitv.info:8080/supertv514/z5STgkJEU3/183008
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
@@ -393,15 +384,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Serie_de_TV-975163360-large.jpg" group-title="24/7 | 24/7",Bob Esponja
-http://soberon.us:25461/bullnew/soberonnew/2946
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/317
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.clarin.com/img/2022/02/10/futurama-la-serie-de-matt___8zUr7Xu4D_1200x630__1.jpg" group-title="24/7 | 24/7",Futurama
-http://soberon.us:25461/bullnew/soberonnew/2976
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/351
 #EXTINF:-1 tvg-id="" tvg-name="Mazinger" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91u3yUn+7OL.jpg" group-title="24/7 | 24/7",Mazinger
-http://soberon.us:25461/bullnew/soberonnew/2942
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball Z" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Serie_de_TV-697937148-mmed.jpg" group-title="24/7 | 24/7",Dragon ball Z
-http://soberon.us:25461/bullnew/soberonnew/2926
-#EXTINF:-1 tvg-id="" tvg-name="Super Campeones" tvg-logo="" group-title="24/7 | 24/7",Super Campeones
-http://soberon.us:25461/bullnew/soberonnew/2943
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/360
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball SUPER" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Serie_de_TV-697937148-mmed.jpg" group-title="24/7 | 24/7",Dragon ball SUPER
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/341
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="24/7 | 24/7",Power Rangers
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/303
 #EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Macotas" tvg-logo="" group-title="24/7 | 24/7",Macotas
