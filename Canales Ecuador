@@ -267,6 +267,9 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
 
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 " tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 
+https://futbolfullenvivo.com/ver-channel-fox-sports-2-en-vivo/#
+
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108684
 
