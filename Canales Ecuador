@@ -123,9 +123,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/252377
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR FUN HQ" tvg-logo="https://i.ytimg.com/vi/6BtyPX5PhWg/maxresdefault.jpg" group-title="TV | Internacional",INT| STAR FUN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253031
 
-#EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR SERIES HD" tvg-logo="https://www.sky.com.mx/Code/templates/images/channels/star_series.jpg" group-title="TV | Internacional",INT| STAR SERIES HD
-http://compitv.info:8080/supertv514/z5STgkJEU3/252384
-
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CINEMA HD" tvg-logo="https://image.freepik.com/vector-gratis/texto-estilo-letreros-neon-star-cinema_118419-2394.jpg" group-title="TV | Internacional",INT| STAR CINEMA HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/253019
 
@@ -229,7 +226,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181237
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",DEP| ESPN 2 ARG HQ
-http://compitv.info:8080/supertv514/z5STgkJEU3/64880
+http://compitv.info:8080/supertv514/z5STgkJEU3/118379
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="" group-title="TV | Deportes",DEP| ESPN 3 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/50266
