@@ -13,7 +13,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172550
 http://compitv.info:8080/supertv514/z5STgkJEU3/64431
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HQ"  tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="TV | Ecuador",EC| RTS HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172542
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/27477
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HQ"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",EC| OROMAR TV HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/28600
@@ -23,9 +23,6 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/170165
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS COSTA HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| TELEAMAZONAS COSTA HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/182996
-
-#EXTINF:-1 tvg-id="zaracay.ec" tvg-name="EC| ZARACAY TV HD"  tvg-logo="https://pbs.twimg.com/profile_images/949060517200519168/0MlEnPhN.jpg" group-title="TV | Ecuador",EC| ZARACAY TV HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172533
 
 #EXTINF:-1 tvg-id="ecuador.ec" tvg-name="EC| ECUADOR TV HD"  tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="TV | Ecuador",EC| ECUADOR TV HD
 http://172.19.251.2:25461/live/008966/008966/9.ts
@@ -214,7 +211,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/48193
 http://compitv.info:8080/supertv514/z5STgkJEU3/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",DEP| BEIN SPORTS HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172538
+http://compitv.info:8080/supertv514/z5STgkJEU3/174022
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
@@ -223,7 +220,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",DEP| ESPN 2 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181237
+http://compitv.info:8080/supertv514/z5STgkJEU3/47642
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",DEP| ESPN 2 ARG HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/118379
@@ -232,10 +229,13 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/118379
 http://compitv.info:8080/supertv514/z5STgkJEU3/50266
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",DEP| ESPN + HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181243
+http://compitv.info:8080/supertv514/z5STgkJEU3/68452
 
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="http://castlempire.site:8080/images/6dae717b801133883fd4d276664411f8.jpg" group-title="TV | Deportes",DEP| GOLTV HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172555
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="" group-title="TV | Deportes",DEP| GOLTV HQ
+http://compitv.info:8080/supertv514/z5STgkJEU3/50271
+
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",DEP| GOLTV HD
+http://compitv.info:8080/supertv514/z5STgkJEU3/71261
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",DEP| TNT SPORT 1 HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108675
@@ -256,13 +256,13 @@ http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108681
 http://compitv.info:8080/supertv514/z5STgkJEU3/106575
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181249
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16669
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 ARG HQ" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",DEP| FOX SPORT 2 ARG HQ
 http://ultraplay.org:80/LUISOSORIO/LuisOsorio74fj09ax/108684
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 HQ" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",DEP| FOX SPORT 3 HQ
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181250
+http://compitv.info:8080/supertv514/z5STgkJEU3/50271
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL HQ" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",DEP| EL CANAL DEL FUTBOL HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/182996
@@ -280,10 +280,7 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/183011
 http://compitv.info:8080/supertv514/z5STgkJEU3/183008
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC HD" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",DEP| UFC HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181267
-
-#EXTINF:-1 tvg-id="redbull.ec" tvg-name="DEP| RED BULL HD" tvg-logo="https://i.pinimg.com/564x/d9/ca/ef/d9caef852a9906dd58e5f0ca6e119113--bull-tv-red-bull.jpg" group-title="TV | Deportes",DEP| RED BULL HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/181266
+http://compitv.info:8080/supertv514/z5STgkJEU3/47657
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",DEP| CLARO SPORT HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/111468
