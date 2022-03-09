@@ -231,11 +231,12 @@ http://172.19.251.2:25461/live/008966/008966/597.ts
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3 HQ" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",TNT SPORT 3 HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/155840
 
-#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 MEX " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS 1 MEX 
-http://compitv.info:8080/supertv514/z5STgkJEU3/47680
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS 1 
+http://ultra-premium-pro.xyz:8080/Bruno/Bruno/37221
+
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM 
-http://compitv.info:8080/supertv514/z5STgkJEU3/106575
+http://ultra-premium-pro.xyz:8080/Bruno/Bruno/51510
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 2 " tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="TV | Deportes",FOX SPORT 2 
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16669
