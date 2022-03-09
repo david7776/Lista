@@ -28,22 +28,13 @@ http://172.19.251.2:25461/live/008966/008966/1520.ts
 http://172.19.251.2:25461/live/008966/008966/582.ts
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3095
-
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3258
+http://172.19.251.2:25461/live/008966/008966/10.ts
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="A&E "  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",A&E 
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/11861
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16685
-
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TV | Internacional",HBO 2
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3297
-
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME"  tvg-logo="http://tv.streamid.ga:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="TV | Internacional",HBO XTREME
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3302
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ba87ce11147145.5694a6a14b679.jpg" group-title="TV | Internacional",HBO FAMILY 
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/11988
@@ -57,41 +48,26 @@ http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16700
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE "  tvg-logo="https://img2.freepng.es/20181122/qav/kisspng-hbo-signature-logo-hbo-plus-high-definition-televi-5bf69ffcbaf835.6243931815428894687658.jpg" group-title="TV | Internacional",HBO SIGNATURE
 http://compitv.info:8080/supertv514/z5STgkJEU3/252398
 
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="LIFETIME"  tvg-logo="https://www.offidocs.com/images/hbomundiicon.jpg" group-title="TV | Internacional",LIFETIME
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3101
-
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3130
-
-#EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES"  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT SERIES
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3131
+http://172.19.251.2:25461/live/008966/008966/13.ts
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3040
+http://172.19.251.2:25461/live/008966/008966/14.ts
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Internacional",ANIMAL PLANET 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3397
+http://172.19.251.2:25461/live/008966/008966/15.ts
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Internacional",DISCOVERY CHANNEL 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3048
+http://172.19.251.2:25461/008966/008966/16
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="https://www.newslinereport.com/online/foto_682.JPG" group-title="TV | Internacional",DISCOVERY H&H 
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3050
+http://172.19.251.2:25461/008966/008966/579
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://compitv.info:8080/supertv514/z5STgkJEU3/47701
-
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" group-title="TV | Internacional",DISCOVERY INVESTIGATION HD
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3049
-
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER HD" tvg-logo="https://i.pinimg.com/originals/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg" group-title="TV | Internacional",DISCOVERY THEATER HD
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3054
-
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/DSC_WORLD_POS_4C.jpg" group-title="TV | Internacional",DISCOVERY WORLD HD
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3057
+http://172.19.251.2:25461/008966/008966/588
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3090
+http://172.19.251.2:25461/008966/008966/580
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN HQ" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV | Internacional",GOLDEN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/253039
@@ -103,19 +79,19 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253042
 http://compitv.info:8080/supertv514/z5STgkJEU3/253040
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3140
+http://172.19.251.2:25461/008966/008966/582
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3307
+http://172.19.251.2:25461/008966/008966/583
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | Internacional",SONY HD
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3118
+http://172.19.251.2:25461/008966/008966/584
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3307
+http://172.19.251.2:25461/008966/008966/587
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3072
+http://172.19.251.2:25461/008966/008966/589
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://i.ytimg.com/vi/RlndXvZ9lD8/maxresdefault.jpg" group-title="TV | Internacional",STAR ACTION HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/252377
@@ -133,28 +109,25 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253024
 http://compitv.info:8080/supertv514/z5STgkJEU3/252380
 
 #EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/telemundo.jpg" group-title="TV | Internacional",TELEMUNDO HQ
-http://stariptv.org:8080/wael2021/123456/107302
+http://172.19.251.2:25461/008966/008966/596
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/50358
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | Internacional",MTV HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3104
+http://172.19.251.2:25461/008966/008966/1840
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/50345
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",SPACE HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3419
+http://172.19.251.2:25461/008966/008966/1843
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",AMC HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47729
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/11861
-
-#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV | Internacional",FX HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3084
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47724
@@ -169,34 +142,28 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/253004
 http://compitv.info:8080/supertv514/z5STgkJEU3/252468
 
 #EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/6910c0b/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="TV | Internacional",CARACOL HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3165
+http://172.19.251.2:25461/008966/008966/1845
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Internacional",NICK JR HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3113
+http://172.19.251.2:25461/008966/008966/24
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",NICK HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48202
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",DISNEY XD HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3060
+http://172.19.251.2:25461/008966/008966/577
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Internacional",DISNEY CHANNEL HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/47829
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Internacional",TOONCAST HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3277
+http://172.19.251.2:25461/008966/008966/578
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Internacional",DISCOVERY KIDS HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48196
 
-#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",NATGEO KIDS HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3109
-
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Internacional",CARTOON NETWORK HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48195
-
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| BABY TV HQ" tvg-logo="" group-title="TV | Internacional",BABY TV HQ
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3032
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",NATGEO KIDS HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/48193
@@ -210,19 +177,22 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN OPCION 1 HQ" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="TV | Deportes",ESPN OPCION 1 HQ
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/182333
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",ESPN 2 HQ
+#EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
 http://compitv.info:8080/supertv514/z5STgkJEU3/47642
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/118379
 
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 HQ" tvg-logo="" group-title="TV | Deportes",ESPN 3 HQ
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
+http://172.19.251.2:25461/008966/008966/595
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://compitv.info:8080/supertv514/z5STgkJEU3/50266
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN + HQ
 http://compitv.info:8080/supertv514/z5STgkJEU3/68452
 
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HQ" tvg-logo="" group-title="TV | Deportes",GOLTV HQ
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV PERU" tvg-logo="" group-title="TV | Deportes",GOLTV PERU
 http://compitv.info:8080/supertv514/z5STgkJEU3/50271
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
@@ -234,7 +204,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/155840
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS 1 " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS 1 
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/37221
 
-
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM 
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/51510
 
@@ -244,8 +213,14 @@ http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16669
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 " tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 
 http://compitv.info:8080/supertv514/z5STgkJEU3/50271
 
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| TYC SPORT " tvg-logo="" group-title="TV | Deportes",TYC SPORT 
+http://172.19.251.2:25461/008966/008966/599
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://compitv.info:8080/supertv514/z5STgkJEU3/182996
+
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
+http://172.19.251.2:25461/008966/008966/1858
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://compitv.info:8080/supertv514/z5STgkJEU3/182997
@@ -255,9 +230,6 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/183011
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="TV | Deportes",DEP| DIRECTV 2 
 http://compitv.info:8080/supertv514/z5STgkJEU3/183008
-
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV +" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV +
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3246
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 http://compitv.info:8080/supertv514/z5STgkJEU3/47657
@@ -286,17 +258,11 @@ http://compitv.info:8080/supertv514/z5STgkJEU3/50270
 #EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 1 " tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",EUROSPORT 1 
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169942
 
-#EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 2 " tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",EUROSPORT 2
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3222
-
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",DEP| TIGO SPORT 1 HD
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/70609
 
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",DEP| TIGO SPORT 2 HD
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
 http://compitv.info:8080/supertv514/z5STgkJEU3/70608
-
-#EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-http://gratuita.mrzutv.net:8080/051mexiqueando.sitemexiqueando.sitemexiqueando.si56temexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/mexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.sitemexiqueando.site/3217
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E01
@@ -409,3 +375,79 @@ http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 https://ia601409.us.archive.org/25/items/rampage.-2018.1080p-dual-lat-cinecalidad.to_202203/Coco.2017.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
 https://ia601409.us.archive.org/25/items/rampage.-2018.1080p-dual-lat-cinecalidad.to_202203/Rampage.2018.1080p-dual-lat-cinecalidad.to.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman:la leyenda renace" tvg-logo="" group-title="VOD | Peliculas",Batman:la leyenda renace
+http://172.19.251.2:25461/movie/008966/008966/650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vuelta al mundo en 80 dias" tvg-logo="" group-title="VOD | Peliculas",La vuelta al mundo en 80 dias
+http://172.19.251.2:25461/movie/008966/008966/690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los cuatro fantasticos 1" tvg-logo="" group-title="VOD | Peliculas",Los cuatro fantasticos 1
+http://172.19.251.2:25461/movie/008966/008966/725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercenarios 2" tvg-logo="" group-title="VOD | Peliculas",Mercenarios 2
+http://172.19.251.2:25461/movie/008966/008966/729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercenarios 3" tvg-logo="" group-title="VOD | Peliculas",Mercenarios 3
+http://172.19.251.2:25461/movie/008966/008966/730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
+http://172.19.251.2:25461/movie/008966/008966/733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron man 2" tvg-logo="" group-title="VOD | Peliculas",Iron man 2
+http://172.19.251.2:25461/movie/008966/008966/748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mision Imposible 2011" tvg-logo="" group-title="VOD | Peliculas",Mision Imposible 2011
+http://172.19.251.2:25461/movie/008966/008966/755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mision Imposible 2018" tvg-logo="" group-title="VOD | Peliculas",Mision Imposible 2018
+http://172.19.251.2:25461/movie/008966/008966/757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rompiendo las reglas 2" tvg-logo="" group-title="VOD | Peliculas",Rompiendo las reglas 2
+http://172.19.251.2:25461/movie/008966/008966/761.avi
+#EXTINF:-1 tvg-id="" tvg-name="El guerrero Muay Thai" tvg-logo="" group-title="VOD | Peliculas",El guerrero Muay Thai
+http://172.19.251.2:25461/movie/008966/008966/764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de escape 3" tvg-logo="" group-title="VOD | Peliculas",Plan de escape 3
+http://172.19.251.2:25461/movie/008966/008966/767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 2" tvg-logo="" group-title="VOD | Peliculas",Spiderman 2
+http://172.19.251.2:25461/movie/008966/008966/793.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Superman 3" tvg-logo="" group-title="VOD | Peliculas",Superman 3
+http://172.19.251.2:25461/movie/008966/008966/796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tortugas ninja" tvg-logo="" group-title="VOD | Peliculas",Tortugas ninja
+http://172.19.251.2:25461/movie/008966/008966/807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujer maravilla" tvg-logo="" group-title="VOD | Peliculas",Mujer maravilla
+http://172.19.251.2:25461/movie/008966/008966/843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="" group-title="VOD | Peliculas",Jumanji
+http://172.19.251.2:25461/movie/008966/008966/856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piratas del caribe 2011" tvg-logo="" group-title="VOD | Peliculas",Piratas del caribe 2011
+http://172.19.251.2:25461/movie/008966/008966/864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto 1" tvg-logo="" group-title="VOD | Peliculas",El corredor del laberinto 1
+http://172.19.251.2:25461/movie/008966/008966/865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto 2" tvg-logo="" group-title="VOD | Peliculas",El corredor del laberinto 2
+http://172.19.251.2:25461/movie/008966/008966/866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El efecto mariposa" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
+http://172.19.251.2:25461/movie/008966/008966/867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="" group-title="VOD | Peliculas",Virus
+http://172.19.251.2:25461/movie/008966/008966/871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla 2019" tvg-logo="" group-title="VOD | Peliculas",Godzilla 2019
+http://172.19.251.2:25461/movie/008966/008966/873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dia de la Independencia" tvg-logo="" group-title="VOD | Peliculas",Dia de la Independencia
+http://172.19.251.2:25461/movie/008966/008966/876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 1" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 1
+http://172.19.251.2:25461/movie/008966/008966/878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 2" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 2
+http://172.19.251.2:25461/movie/008966/008966/879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 3" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 3
+http://172.19.251.2:25461/movie/008966/008966/880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 4" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 4
+http://172.19.251.2:25461/movie/008966/008966/881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Kong" tvg-logo="" group-title="VOD | Peliculas",King Kong
+http://172.19.251.2:25461/movie/008966/008966/886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrix 1" tvg-logo="" group-title="VOD | Peliculas",Matrix 1
+http://172.19.251.2:25461/movie/008966/008966/892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrix 2" tvg-logo="" group-title="VOD | Peliculas",Matrix 2
+http://172.19.251.2:25461/movie/008966/008966/893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrix 3" tvg-logo="" group-title="VOD | Peliculas",Matrix 3
+http://172.19.251.2:25461/movie/008966/008966/894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 1" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 1
+http://172.19.251.2:25461/movie/008966/008966/897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 2" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 2
+http://172.19.251.2:25461/movie/008966/008966/895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 3" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 3
+http://172.19.251.2:25461/movie/008966/008966/896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pasion de Cristo" tvg-logo="" group-title="VOD | Peliculas",La pasion de Cristo
+http://172.19.251.2:25461/movie/008966/008966/1126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 5" tvg-logo="" group-title="VOD | Peliculas",Rocky 5
+http://172.19.251.2:25461/movie/008966/008966/1136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crepusculo 4" tvg-logo="" group-title="VOD | Peliculas",Crepusculo 4
+http://172.19.251.2:25461/movie/008966/008966/1189.mkv
