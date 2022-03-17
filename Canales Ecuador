@@ -437,16 +437,12 @@ http://172.19.251.2:25461/movie/008966/008966/867.mkv
 http://172.19.251.2:25461/movie/008966/008966/871.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla 2019" tvg-logo="" group-title="VOD | Peliculas",Godzilla 2019
 http://172.19.251.2:25461/movie/008966/008966/873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dia de la Independencia" tvg-logo="" group-title="VOD | Peliculas",Dia de la Independencia
-http://172.19.251.2:25461/movie/008966/008966/876.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic park 1" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 1
 http://172.19.251.2:25461/movie/008966/008966/878.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic park 2" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 2
 http://172.19.251.2:25461/movie/008966/008966/879.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic park 3" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 3
 http://172.19.251.2:25461/movie/008966/008966/880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 4" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 4
-http://172.19.251.2:25461/movie/008966/008966/881.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Kong" tvg-logo="" group-title="VOD | Peliculas",King Kong
 http://172.19.251.2:25461/movie/008966/008966/886.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Matrix 1" tvg-logo="" group-title="VOD | Peliculas",Matrix 1
@@ -471,4 +467,21 @@ http://172.19.251.2:25461/movie/008966/008966/1189.mkv
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Verdad o reto" tvg-logo="" group-title="VOD | Peliculas",Verdad o reto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Un alien robó mi cuerpo" tvg-logo="" group-title="VOD | Peliculas",Un alien robó mi cuerpo
+http://vod.tuxchannel.tv:80/peliculas/720/aliens%20stole%20my%20body%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
+http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caos" tvg-logo="" group-title="VOD | Peliculas",Caos
+http://vod.tuxchannel.tv:80/peliculas/720/chaos%20walking%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dia del fin del mundo" tvg-logo="" group-title="VOD | Peliculas",El dia del fin del mundo
+http://vod.tuxchannel.tv:80/peliculas/720/greenland%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="" group-title="VOD | Peliculas",Tom y Jerry
+http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
+
+
+
+
+
+
+
 
