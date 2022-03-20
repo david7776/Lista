@@ -19,7 +19,7 @@ http://172.19.251.2:25461/live/008966/008966/4.ts
 http://172.19.251.2:25461/live/008966/008966/6.ts
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",GAMAVISION 
-http://compitv.info:8080/supertv606/AD3BRDuGbA/28615
+http://172.19.251.2:25461/008966/008966/7
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS
 http://172.19.251.2:25461/live/008966/008966/1520.ts
@@ -112,7 +112,10 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1575
 http://172.19.251.2:25461/008966/008966/596
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47790
+http://172.19.251.2:25461/008966/008966/1839
+
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| DW ESPAÑOL" tvg-logo="" group-title="TV | Internacional",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | Internacional",MTV HQ
 http://172.19.251.2:25461/008966/008966/1840
@@ -265,7 +268,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/182997
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42821
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV HD" tvg-logo="" group-title="TV | Deportes",DIRECTV HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/81982
+http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 1
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
@@ -317,6 +320,9 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47660
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1741
+
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
+http://compitv.info:8080/supertv606/AD3BRDuGbA/325240
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E01
