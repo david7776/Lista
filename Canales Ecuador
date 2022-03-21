@@ -427,9 +427,9 @@ http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="VOD | Peliculas",Coco
 https://ia601409.us.archive.org/25/items/rampage.-2018.1080p-dual-lat-cinecalidad.to_202203/Coco.2017.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/13499890/13499890_v2_cmd1.jpg" group-title="VOD | Peliculas",Rampage
 https://ia601409.us.archive.org/25/items/rampage.-2018.1080p-dual-lat-cinecalidad.to_202203/Rampage.2018.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batman:la leyenda renace" tvg-logo="" group-title="VOD | Peliculas",Batman:la leyenda renace
 http://172.19.251.2:25461/movie/008966/008966/650.mkv
@@ -473,7 +473,7 @@ http://172.19.251.2:25461/movie/008966/008966/865.mkv
 http://172.19.251.2:25461/movie/008966/008966/866.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El efecto mariposa" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
 http://172.19.251.2:25461/movie/008966/008966/867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="" group-title="VOD | Peliculas",Virus
+#EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="https://eje360.co/wp-content/uploads/2020/02/pelicula.jpg" group-title="VOD | Peliculas",Virus
 http://172.19.251.2:25461/movie/008966/008966/871.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla 2019" tvg-logo="" group-title="VOD | Peliculas",Godzilla 2019
 http://172.19.251.2:25461/movie/008966/008966/873.mkv
@@ -529,6 +529,10 @@ http://tv5full.xyz:25461/movie/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42908.mkv
 http://tv5full.xyz:25461/movie/Monicajdjfjfkfidk/Monicajdksjdheiwkej/41291.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tsunami" tvg-logo="" group-title="VOD | Peliculas",Tsunami
 http://tv5full.xyz:25461/movie/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GEOTORMENTA" tvg-logo="https://notasdelquijote.com/wp-content/uploads/2020/12/pelicula-cine-catastrofe-geostorm.jpg" group-title="VOD | Peliculas",Geotormenta
+https://ia601401.us.archive.org/22/items/geostorm.-2017.1080p-dual-lat_202203/Geostorm.2017.1080p-dual-lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="https://pics.filmaffinity.com/Joker-790658206-large.jpg" group-title="VOD | Peliculas",Joker
+https://ia601505.us.archive.org/26/items/joker.-2019.1080p-dual-lat-cinecalidad.is-r_20220321/Joker.2019.1080p-dual-lat-cinecalidad.is-r.mp4
 
 
 
