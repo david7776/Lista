@@ -6,6 +6,12 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",ECUAVISA
 http://172.19.251.2:25461/008966/008966/1
 
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",ECUAVISA HD
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/331208
+
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA SIERRA" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",ECUAVISA SIERRA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/330980
+
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://172.19.251.2:25461/008966/008966/2
 
@@ -15,17 +21,26 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1303
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",TC 
 http://172.19.251.2:25461/live/008966/008966/4.ts
 
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",TC HD
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/331140
+
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",OROMAR TV
 http://172.19.251.2:25461/live/008966/008966/6.ts
 
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV HD"  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",OROMAR TV HD
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/331209
+
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",GAMAVISION 
-http://172.19.251.2:25461/008966/008966/7
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/330981
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS
 http://172.19.251.2:25461/live/008966/008966/1520.ts
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",ECUADOR TV
 http://172.19.251.2:25461/live/008966/008966/9.ts
+
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",ECUADOR TV HD
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/330979
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
 http://172.19.251.2:25461/live/008966/008966/10.ts
@@ -162,37 +177,50 @@ http://172.19.251.2:25461/008966/008966/1845
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TRUTV" tvg-logo="" group-title="TV | Internacional",TRUTV
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1493
 
-#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Internacional",NICK JR HQ
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323595
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CALLE 13 ESPAÑA" tvg-logo="" group-title="TV | Internacional",CALLE 13 ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323599
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323619
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323620
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323630
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES 1 ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES 1 ESPAÑA
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/323631
+
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
 http://172.19.251.2:25461/008966/008966/24
 
-#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",NICK HQ
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",NICK HQ
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/10487
 
-#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Internacional",NICK 2
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",NICK 2
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1464
 
-#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Internacional",DISNEY XD HQ
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
 http://172.19.251.2:25461/008966/008966/577
 
-#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Internacional",DISNEY CHANNEL HQ
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1468
 
-#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Internacional",TOONCAST HQ
+#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
 http://172.19.251.2:25461/008966/008966/578
 
-#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Internacional",DISCOVERY KIDS HQ
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1469
 
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Internacional",CARTOON NETWORK HQ
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
 http://172.19.251.2:25461/008966/008966/21
 
-#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Internacional",NATGEO KIDS HQ
+#EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47835
 
-#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Internacional",CARTOONITO
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/320746
 
-#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Internacional",BABY TV
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
@@ -264,6 +292,9 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/182996
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182997
 
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/336170
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42821
 
@@ -275,6 +306,9 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42818
+
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
+http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/331183
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47657
@@ -325,37 +359,37 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1741
 http://compitv.info:8080/supertv606/AD3BRDuGbA/325240
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E02
 http://172.19.251.2:25461/series/008966/008966/1849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E03
 http://172.19.251.2:25461/series/008966/008966/1850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E04
 http://172.19.251.2:25461/series/008966/008966/1851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E05
 http://172.19.251.2:25461/series/008966/008966/1852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E06
 http://172.19.251.2:25461/series/008966/008966/1853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E07
 http://172.19.251.2:25461/series/008966/008966/1854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E08
 http://172.19.251.2:25461/series/008966/008966/1855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | El juego del calamar",S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E09
 http://172.19.251.2:25461/series/008966/008966/1856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="" group-title="SERIES | The good doctor",S05 E01
+#EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E01
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E02" tvg-logo="" group-title="SERIES | The good doctor",S05 E02
+#EXTINF:-1 tvg-id="" tvg-name="S05 E02" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E02
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E03" tvg-logo="" group-title="SERIES | The good doctor",S05 E03
+#EXTINF:-1 tvg-id="" tvg-name="S05 E03" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E03
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E04" tvg-logo="" group-title="SERIES | The good doctor",S05 E04
+#EXTINF:-1 tvg-id="" tvg-name="S05 E04" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E04
 https://ia601407.us.archive.org/27/items/6fd-051dfb-6c-1887ed-0483c-2225e-34cdd-720p/6fd051dfb6c1887ed0483c2225e34cdd-720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E05" tvg-logo="" group-title="SERIES | The good doctor",S05 E05
+#EXTINF:-1 tvg-id="" tvg-name="S05 E05" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E05
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E06" tvg-logo="" group-title="SERIES | The good doctor",S05 E06
+#EXTINF:-1 tvg-id="" tvg-name="S05 E06" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E06
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E07" tvg-logo="" group-title="SERIES | The good doctor",S05 E07
+#EXTINF:-1 tvg-id="" tvg-name="S05 E07" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E07
 https://ia601505.us.archive.org/20/items/tgd-5-2/TGD%2B5-7.mp4
 
 
