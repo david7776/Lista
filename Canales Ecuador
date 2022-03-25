@@ -64,7 +64,7 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1595
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47773
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47794
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252394
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
 http://172.19.251.2:25461/008966/008966/13
@@ -122,9 +122,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47775
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR LIFE HD" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" group-title="TV | Internacional",STAR LIFE HD
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1575
-
-#EXTINF:-1 tvg-id="telemundo.ec" tvg-name="INT| TELEMUNDO HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/10/telemundo.jpg" group-title="TV | Internacional",TELEMUNDO HQ
-http://172.19.251.2:25461/008966/008966/596
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
 http://172.19.251.2:25461/008966/008966/1839
@@ -284,7 +281,7 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1718
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47637
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://compitv.info:8080/supertv606/AD3BRDuGbA/27893
+http://172.19.251.2:25461/008966/008966/1858
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182996
@@ -307,8 +304,8 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42818
 
-#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/331183
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV ARG" tvg-logo="" group-title="TV | Deportes",DIRECTV ARG
+http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47657
@@ -452,7 +449,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/219157
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
 http://compitv.info:8080/supertv606/AD3BRDuGbA/209207
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-http://compitv.info:8080/supertv606/AD3BRDuGbA/182887
+http://89.187.173.106:8082/9040/mpegts?token=KvKiOrnwd0
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
