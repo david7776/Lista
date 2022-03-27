@@ -343,6 +343,11 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1741
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://compitv.info:8080/supertv606/AD3BRDuGbA/325240
 
+#EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Ecuador1 Brasil1" tvg-logo="" group-title="TV | Futbol",Ecuador1 Brasil1
+https://ia601502.us.archive.org/2/items/partido-completo-ecuador-vs-brasil-eliminatorias-sudamericanas-fecha-15/Partido%20Completo_%20%20ECUADOR%20vs%20BRASIL%20_%20Eliminatorias%20Sudamericanas%20-%20Fecha%2015.mp4
+#EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Chile0 Ecuador2" tvg-logo="" group-title="TV | Futbol",Chile0 Ecuador2
+https://ia601402.us.archive.org/3/items/partido-completo-chile-vs-ecuador-eliminatorias-sudamericanas-fecha-14/Partido%20Completo_%20CHILE%20vs%20ECUADOR%20_%20Eliminatorias%20Sudamericanas%20-%20Fecha%2014.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
