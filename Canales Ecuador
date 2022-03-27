@@ -436,6 +436,8 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/219157
 http://compitv.info:8080/supertv606/AD3BRDuGbA/209207
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182861
+#EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
+http://gtv23.xyz:80/merkel/merkel/1862481.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
