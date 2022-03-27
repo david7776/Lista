@@ -58,7 +58,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252392
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39803
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1595
+http://compitv.info:8080/supertv606/AD3BRDuGbA/253045
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47773
@@ -226,9 +226,6 @@ http://172.19.251.2:25461/008966/008966/591
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 2" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS 2
 http://stariptv.org:8080/wael2021/123456/35368
 
-#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 7" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS 7
-http://stariptv.org:8080/wael2021/123456/35373
-
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
@@ -281,7 +278,7 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1718
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47637
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://172.19.251.2:25461/008966/008966/1858
+http://compitv.info:8080/supertv606/AD3BRDuGbA/90821
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182996
@@ -312,9 +309,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47657
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25261
-
-#EXTINF:-1 tvg-id="barca.ec" tvg-name="DEP| BARCA TV " tvg-logo="https://1.bp.blogspot.com/-ykympay5Y0k/YJg4EDBI4YI/AAAAAAAAFhs/UAgBAWUzTj4mpd6RTAQX_LMqKk33wk9EACLcBGAsYHQ/s1920/Barca%2BTV%252C%2BFC%2BBarcelona%252C%2BBarcelona%2BTV%252C%2BLionel%2Bmessi%252C%2Bver%2Btv%2Ben%2Bvivo%2Bonline%252C%2Bver%2Btv%2Bespa%25C3%25B1a%2Ben%2Bvivo.jpg" group-title="TV | Deportes",BARCA TV 
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169947
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47664
@@ -432,8 +426,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="24/7 | 24/7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Macotas" tvg-logo="" group-title="24/7 | 24/7",Macotas
@@ -449,7 +441,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/219157
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
 http://compitv.info:8080/supertv606/AD3BRDuGbA/209207
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-http://89.187.173.106:8082/9040/mpegts?token=KvKiOrnwd0
+http://compitv.info:8080/supertv606/AD3BRDuGbA/182861
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
