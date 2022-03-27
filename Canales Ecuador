@@ -46,7 +46,7 @@ http://120322.1222908.net:2086/ARM2/WQN4k3Mu9j/330979
 http://172.19.251.2:25461/live/008966/008966/10.ts
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
-http://stariptv.org:8080/wael2021/123456/107242
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252981
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",E 
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/23817
@@ -168,9 +168,6 @@ http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/6159
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DKISS" tvg-logo="" group-title="TV | Internacional",DKISS
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/6162
 
-#EXTINF:-1 tvg-id="caracol.ec" tvg-name="INT| CARACOL HQ" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/6910c0b/2147483647/strip/true/crop/886x886+0+0/resize/886x886!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F80%2F6b%2F44023b1240388f60bbd70bc20047%2Flogo-caracol-tv-corporativo-2017-fondo-blanco-rgb.jpg" group-title="TV | Internacional",CARACOL HQ
-http://172.19.251.2:25461/008966/008966/1845
-
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TRUTV" tvg-logo="" group-title="TV | Internacional",TRUTV
 http://tv5full.xyz:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1493
 
@@ -222,9 +219,6 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 http://172.19.251.2:25461/008966/008966/591
-
-#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 2" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS 2
-http://stariptv.org:8080/wael2021/123456/35368
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
