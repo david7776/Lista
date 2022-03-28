@@ -441,6 +441,8 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/219157
 http://compitv.info:8080/supertv606/AD3BRDuGbA/209207
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182861
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
+https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The good doctor" tvg-logo="" group-title="24/7 | 24/7",The good doctor
 http://gtv23.xyz:80/merkel/merkel/1862481.ts
 
@@ -557,6 +559,10 @@ http://tv5full.xyz:25461/movie/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42034.mkv
 https://ia601401.us.archive.org/22/items/geostorm.-2017.1080p-dual-lat_202203/Geostorm.2017.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="https://pics.filmaffinity.com/Joker-790658206-large.jpg" group-title="VOD | Peliculas",Joker
 https://ia601505.us.archive.org/26/items/joker.-2019.1080p-dual-lat-cinecalidad.is-r_20220321/Joker.2019.1080p-dual-lat-cinecalidad.is-r.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurasic World 2" tvg-logo="" group-title="VOD | Peliculas",Jurasic World 2
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-name="Si tuviera 30" tvg-logo="" group-title="VOD | Peliculas",Si tuviera 30
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 
 
 
