@@ -4,31 +4,37 @@
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",ECUAVISA
-http://172.19.251.2:25461/008966/008966/1
+http://compitv.info:8080/supertv606/AD3BRDuGbA/113166
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
-http://172.19.251.2:25461/008966/008966/2
+http://compitv.info:8080/supertv606/AD3BRDuGbA/64432
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="" group-title="TV | Ecuador",RTS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28616
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",TC 
-http://172.19.251.2:25461/008966/008966/4
+http://compitv.info:8080/supertv606/AD3BRDuGbA/64431
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",OROMAR TV
-http://172.19.251.2:25461/live/008966/008966/6.ts
+http://tvencasa.fun:2052/0987654321/0987654321/132562
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",GAMAVISION 
-http://172.19.251.2:25461/live/008966/008966/7.ts
+http://etvhome.com:25461/maria/1234/13208
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS
-http://172.19.251.2:25461/live/008966/008966/1520.ts
+http://compitv.info:8080/supertv606/AD3BRDuGbA/28605
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",ECUADOR TV
-http://172.19.251.2:25461/series/008966/008966/1927.mp4
+http://compitv.info:8080/supertv606/AD3BRDuGbA/211395
+
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="" group-title="TV | Ecuador",CANELA TV
+http://etvhome.com:25461/maria/1234/133134
+
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
+http://etvhome.com:25461/maria/1234/76136
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
-http://172.19.251.2:25461/live/008966/008966/10.ts
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252458
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252461
@@ -58,25 +64,25 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252394
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253063
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-http://172.19.251.2:25461/008966/008966/13
+http://compitv.info:8080/supertv606/AD3BRDuGbA/253109
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT SERIES
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47771
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
-http://172.19.251.2:25461/live/008966/008966/14.ts
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252998
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Internacional",ANIMAL PLANET 
-http://172.19.251.2:25461/live/008966/008966/15.ts
+http://etvhome.com:25461/maria/1234/13800
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Internacional",DISCOVERY CHANNEL 
-http://172.19.251.2:25461/008966/008966/16
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252615
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="https://www.newslinereport.com/online/foto_682.JPG" group-title="TV | Internacional",DISCOVERY H&H 
-http://172.19.251.2:25461/008966/008966/579
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252439
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://172.19.251.2:25461/008966/008966/588
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252446
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252443
@@ -85,7 +91,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252443
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252389
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://172.19.251.2:25461/008966/008966/580
+
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253040
@@ -94,19 +100,19 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253040
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47696
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
-http://172.19.251.2:25461/008966/008966/582
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252412
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
-http://172.19.251.2:25461/008966/008966/583
+http://compitv.info:8080/supertv606/AD3BRDuGbA/47703
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | Internacional",SONY HD
-http://172.19.251.2:25461/008966/008966/584
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252403
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
-http://172.19.251.2:25461/008966/008966/587
+
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
-http://172.19.251.2:25461/008966/008966/589
+http://compitv.info:8080/supertv606/AD3BRDuGbA/253014
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://i.ytimg.com/vi/RlndXvZ9lD8/maxresdefault.jpg" group-title="TV | Internacional",STAR ACTION HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253016
@@ -118,25 +124,25 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252381
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252380
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR LIFE HD" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" group-title="TV | Internacional",STAR LIFE HD
-http://compitv.info:8080/supertv606/AD3BRDuGbA/252382
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252380
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
-http://172.19.251.2:25461/008966/008966/1839
+http://compitv.info:8080/supertv606/AD3BRDuGbA/47702
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| DW ESPAÑOL" tvg-logo="" group-title="TV | Internacional",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HQ" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | Internacional",MTV HQ
-http://172.19.251.2:25461/008966/008966/1840
+http://tvencasa.fun:2052/0987654321/0987654321/207961
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
-http://172.19.251.2:25461/series/008966/008966/1903.mp4
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252470
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2093
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",SPACE HQ
-http://172.19.251.2:25461/008966/008966/1843
+http://compitv.info:8080/supertv606/AD3BRDuGbA/47788
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",AMC HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252987
@@ -148,7 +154,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252991
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47695
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253026
+http://compitv.info:8080/supertv606/AD3BRDuGbA/253034
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47688
@@ -166,7 +172,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253074
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1221
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES
-
+http://etvhome.com:25461/maria/1234/36342
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DKISS" tvg-logo="" group-title="TV | Internacional",DKISS
 
@@ -179,7 +185,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/1202
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CALLE 13 ESPAÑA" tvg-logo="" group-title="TV | Internacional",CALLE 13 ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
-
+http://etvhome.com:25461/maria/1234/31843
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
@@ -188,28 +194,28 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/1202
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1165
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
-http://172.19.251.2:25461/008966/008966/24
+http://etvhome.com:25461/maria/1234/28572
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",NICK HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48202
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-http://172.19.251.2:25461/008966/008966/577
+
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28824
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
-http://172.19.251.2:25461/008966/008966/578
+http://compitv.info:8080/supertv606/AD3BRDuGbA/144251
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
-http://172.19.251.2:25461/series/008966/008966/1922.mp4
+http://compitv.info:8080/supertv606/AD3BRDuGbA/48196
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
 http://172.19.251.2:25461/008966/008966/21
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
-http://compitv.info:8080/supertv606/AD3BRDuGbA/47835
+
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
 http://compitv.info:8080/supertv606/AD3BRDuGbA/320746
@@ -218,16 +224,16 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/320746
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48193
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
-http://172.19.251.2:25461/008966/008966/591
+http://compitv.info:8080/supertv606/AD3BRDuGbA/174021
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",ESPN HQ
-http://172.19.251.2:25461/008966/008966/594
+http://compitv.info:8080/supertv606/AD3BRDuGbA/47673
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG HQ
-http://172.19.251.2:25461/008966/008966/577
+http://compitv.info:8080/supertv606/AD3BRDuGbA/118379
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 
@@ -254,7 +260,13 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2218
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2073
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",TNT SPORT 2 
+http://etvhome.com:25461/maria/1234/145723
 
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
+http://etvhome.com:25461/maria/1234/145719
+
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
+http://etvhome.com:25461/maria/1234/145575
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 
@@ -341,7 +353,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/81944
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47660
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-http://172.19.251.2:25461/series/008966/008966/1907.mkv
+http://compitv.info:8080/supertv606/AD3BRDuGbA/47656
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://compitv.info:8080/supertv606/AD3BRDuGbA/325240
@@ -359,23 +371,23 @@ https://ia601402.us.archive.org/3/items/partido-completo-chile-vs-ecuador-elimin
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E01
-http://172.19.251.2:25461/series/008966/008966/1848.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E02
-http://172.19.251.2:25461/series/008966/008966/1849.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246031.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E03
-http://172.19.251.2:25461/series/008966/008966/1850.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246032.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E04
-http://172.19.251.2:25461/series/008966/008966/1851.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246033.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E05
-http://172.19.251.2:25461/series/008966/008966/1852.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246034.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E06
-http://172.19.251.2:25461/series/008966/008966/1853.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246035.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E07
-http://172.19.251.2:25461/series/008966/008966/1854.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246036.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E08
-http://172.19.251.2:25461/series/008966/008966/1855.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246037.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E09
-http://172.19.251.2:25461/series/008966/008966/1856.mkv
+http://tvencasa.fun:2052/series/0987654321/0987654321/246038.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E01
 http://latinosiptv.online:8090/series/notocar/xmauc84bx1/39379.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S05 E02" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E02
