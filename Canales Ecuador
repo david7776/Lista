@@ -206,7 +206,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/48202
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28824
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
-http://compitv.info:8080/supertv606/AD3BRDuGbA/144251
+http://tvencasa.fun:2052/4236/4236/240697
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48196
@@ -218,7 +218,7 @@ http://172.19.251.2:25461/008966/008966/21
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
-http://compitv.info:8080/supertv606/AD3BRDuGbA/320746
+http://tvencasa.fun:2052/4236/4236/239017
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://compitv.info:8080/supertv606/AD3BRDuGbA/48193
@@ -287,7 +287,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2253
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47637
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://compitv.info:8080/supertv606/AD3BRDuGbA/90821
+http://tvencasa.fun:2052/4236/4236/246178
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182996
@@ -476,13 +476,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 1" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 1
-http://compitv.info:8080/supertv606/AD3BRDuGbA/232972
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 2" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 2
 http://compitv.info:8080/supertv606/AD3BRDuGbA/219157
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
-http://compitv.info:8080/supertv606/AD3BRDuGbA/209207
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-http://compitv.info:8080/supertv606/AD3BRDuGbA/182861
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
