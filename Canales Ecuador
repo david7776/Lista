@@ -495,80 +495,21 @@ http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="VOD | Peliculas",Coco
 
-#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/13499890/13499890_v2_cmd1.jpg" group-title="VOD | Peliculas",Rampage
+#EXTINF:-1 tvg-id="" tvg-name="Gatos y perros" tvg-logo="" group-title="VOD | Peliculas",Gatos y perros
+http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El campamento" tvg-logo="" group-title="VOD | Peliculas",El campamento
+http://vod.tuxchannel.tv/peliculas/720/a%20week%20away%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El protector" tvg-logo="" group-title="VOD | Peliculas",El protector
+http://vod.tuxchannel.tv:80/peliculas/720/the%20marksman%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatal" tvg-logo="" group-title="VOD | Peliculas",Fatal
+http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="" group-title="VOD | Peliculas",Godzilla vs Kong
+http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La batalla" tvg-logo="" group-title="VOD | Peliculas",La batalla
+http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana" tvg-logo="" group-title="VOD | Peliculas",La guerra del mañana
+https://dl.dropboxusercontent.com/s/re221mzlmbkp5l2/%20La%20Guerra%20Del%20Ma%C3%B1ana%20%282021%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Batman:la leyenda renace" tvg-logo="" group-title="VOD | Peliculas",Batman:la leyenda renace
-http://172.19.251.2:25461/movie/008966/008966/650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La vuelta al mundo en 80 dias" tvg-logo="" group-title="VOD | Peliculas",La vuelta al mundo en 80 dias
-http://172.19.251.2:25461/movie/008966/008966/690.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los cuatro fantasticos 1" tvg-logo="" group-title="VOD | Peliculas",Los cuatro fantasticos 1
-http://172.19.251.2:25461/movie/008966/008966/725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mercenarios 2" tvg-logo="" group-title="VOD | Peliculas",Mercenarios 2
-http://172.19.251.2:25461/movie/008966/008966/729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mercenarios 3" tvg-logo="" group-title="VOD | Peliculas",Mercenarios 3
-http://172.19.251.2:25461/movie/008966/008966/730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="" group-title="VOD | Peliculas",Mad Max
-http://172.19.251.2:25461/movie/008966/008966/733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron man 2" tvg-logo="" group-title="VOD | Peliculas",Iron man 2
-http://172.19.251.2:25461/movie/008966/008966/748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mision Imposible 2011" tvg-logo="" group-title="VOD | Peliculas",Mision Imposible 2011
-http://172.19.251.2:25461/movie/008966/008966/755.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mision Imposible 2018" tvg-logo="" group-title="VOD | Peliculas",Mision Imposible 2018
-http://172.19.251.2:25461/movie/008966/008966/757.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rompiendo las reglas 2" tvg-logo="" group-title="VOD | Peliculas",Rompiendo las reglas 2
-http://172.19.251.2:25461/movie/008966/008966/761.avi
-#EXTINF:-1 tvg-id="" tvg-name="El guerrero Muay Thai" tvg-logo="" group-title="VOD | Peliculas",El guerrero Muay Thai
-http://172.19.251.2:25461/movie/008966/008966/764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plan de escape 3" tvg-logo="" group-title="VOD | Peliculas",Plan de escape 3
-http://172.19.251.2:25461/movie/008966/008966/767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman 2" tvg-logo="" group-title="VOD | Peliculas",Spiderman 2
-http://172.19.251.2:25461/movie/008966/008966/793.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Superman 3" tvg-logo="" group-title="VOD | Peliculas",Superman 3
-http://172.19.251.2:25461/movie/008966/008966/796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tortugas ninja" tvg-logo="" group-title="VOD | Peliculas",Tortugas ninja
-http://172.19.251.2:25461/movie/008966/008966/807.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mujer maravilla" tvg-logo="" group-title="VOD | Peliculas",Mujer maravilla
-http://172.19.251.2:25461/movie/008966/008966/843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="" group-title="VOD | Peliculas",Jumanji
-http://172.19.251.2:25461/movie/008966/008966/856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piratas del caribe 2011" tvg-logo="" group-title="VOD | Peliculas",Piratas del caribe 2011
-http://172.19.251.2:25461/movie/008966/008966/864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto 1" tvg-logo="" group-title="VOD | Peliculas",El corredor del laberinto 1
-http://172.19.251.2:25461/movie/008966/008966/865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto 2" tvg-logo="" group-title="VOD | Peliculas",El corredor del laberinto 2
-http://172.19.251.2:25461/movie/008966/008966/866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El efecto mariposa" tvg-logo="" group-title="VOD | Peliculas",El efecto mariposa
-http://172.19.251.2:25461/movie/008966/008966/867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Virus" tvg-logo="https://eje360.co/wp-content/uploads/2020/02/pelicula.jpg" group-title="VOD | Peliculas",Virus
-http://172.19.251.2:25461/movie/008966/008966/871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla 2019" tvg-logo="" group-title="VOD | Peliculas",Godzilla 2019
-http://172.19.251.2:25461/movie/008966/008966/873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 1" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 1
-http://172.19.251.2:25461/movie/008966/008966/878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 2" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 2
-http://172.19.251.2:25461/movie/008966/008966/879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic park 3" tvg-logo="" group-title="VOD | Peliculas",Jurassic park 3
-http://172.19.251.2:25461/movie/008966/008966/880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Kong" tvg-logo="" group-title="VOD | Peliculas",King Kong
-http://172.19.251.2:25461/movie/008966/008966/886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matrix 1" tvg-logo="" group-title="VOD | Peliculas",Matrix 1
-http://172.19.251.2:25461/movie/008966/008966/892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matrix 2" tvg-logo="" group-title="VOD | Peliculas",Matrix 2
-http://172.19.251.2:25461/movie/008966/008966/893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matrix 3" tvg-logo="" group-title="VOD | Peliculas",Matrix 3
-http://172.19.251.2:25461/movie/008966/008966/894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 1" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 1
-http://172.19.251.2:25461/movie/008966/008966/897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 2" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 2
-http://172.19.251.2:25461/movie/008966/008966/895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro 3" tvg-logo="" group-title="VOD | Peliculas",Hombres de negro 3
-http://172.19.251.2:25461/movie/008966/008966/896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pasion de Cristo" tvg-logo="" group-title="VOD | Peliculas",La pasion de Cristo
-http://172.19.251.2:25461/movie/008966/008966/1126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 5" tvg-logo="" group-title="VOD | Peliculas",Rocky 5
-http://172.19.251.2:25461/movie/008966/008966/1136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crepusculo 4" tvg-logo="" group-title="VOD | Peliculas",Crepusculo 4
-http://172.19.251.2:25461/movie/008966/008966/1189.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Volver al futuro 3" tvg-logo="" group-title="VOD | Peliculas",Volver al futuro 3
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Verdad o reto" tvg-logo="" group-title="VOD | Peliculas",Verdad o reto
