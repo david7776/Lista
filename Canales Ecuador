@@ -19,7 +19,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/64431
 http://tvencasa.fun:2052/0987654321/0987654321/132562
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",GAMAVISION 
-http://etvhome.com:25461/maria/1234/13208
+http://compitv.info:8080/supertv606/AD3BRDuGbA/28615
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS
 http://compitv.info:8080/supertv606/AD3BRDuGbA/28605
@@ -28,10 +28,10 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/28605
 http://compitv.info:8080/supertv606/AD3BRDuGbA/211395
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="" group-title="TV | Ecuador",CANELA TV
-http://etvhome.com:25461/maria/1234/133134
+http://compitv.info:8080/supertv606/AD3BRDuGbA/199319
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-http://etvhome.com:25461/maria/1234/76136
+
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252458
@@ -73,7 +73,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47771
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252998
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Internacional",ANIMAL PLANET 
-http://etvhome.com:25461/maria/1234/13800
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252429
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Internacional",DISCOVERY CHANNEL 
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252615
@@ -94,7 +94,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/252389
 
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
-http://compitv.info:8080/supertv606/AD3BRDuGbA/253040
+
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
 http://compitv.info:8080/supertv606/AD3BRDuGbA/47696
@@ -109,7 +109,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/47703
 http://compitv.info:8080/supertv606/AD3BRDuGbA/252403
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
-
+http://compitv.info:8080/supertv606/AD3BRDuGbA/252405
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
 http://compitv.info:8080/supertv606/AD3BRDuGbA/253014
@@ -172,7 +172,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/253074
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1221
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES
-http://etvhome.com:25461/maria/1234/36342
+http://compitv.info:8080/supertv606/AD3BRDuGbA/77415
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DKISS" tvg-logo="" group-title="TV | Internacional",DKISS
 
@@ -185,7 +185,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/1202
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CALLE 13 ESPAÑA" tvg-logo="" group-title="TV | Internacional",CALLE 13 ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
-http://etvhome.com:25461/maria/1234/31843
+http://compitv.info:8080/supertv606/AD3BRDuGbA/77424
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
@@ -194,10 +194,10 @@ http://etvhome.com:25461/maria/1234/31843
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1165
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
-http://etvhome.com:25461/maria/1234/28572
+http://compitv.info:8080/supertv606/AD3BRDuGbA/48204
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",NICK HQ
-http://tvencasa.fun:2052/0987654321/0987654321/5103
+http://compitv.info:8080/supertv606/AD3BRDuGbA/48202
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
 
@@ -260,13 +260,13 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2218
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2073
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",TNT SPORT 2 
-http://etvhome.com:25461/maria/1234/145723
+http://compitv.info:8080/supertv606/AD3BRDuGbA/116356
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
-http://etvhome.com:25461/maria/1234/145719
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
-http://etvhome.com:25461/maria/1234/145575
+http://compitv.info:8080/supertv606/AD3BRDuGbA/127986
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 
@@ -296,7 +296,7 @@ http://compitv.info:8080/supertv606/AD3BRDuGbA/182996
 http://compitv.info:8080/supertv606/AD3BRDuGbA/182997
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-http://latinosiptv.online:8090/notocar/xmauc84bx1/32711
+http://compitv.info:8080/supertv606/AD3BRDuGbA/27893
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2288
