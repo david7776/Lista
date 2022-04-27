@@ -550,6 +550,59 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Si tuviera 30" tvg-logo="" group-title="VOD | Peliculas",Si tuviera 30
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y la reina del hielo" tvg-logo="" group-title="VOD | Peliculas",Blancanieves y la reina del hielo
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/4064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madmax" tvg-logo="" group-title="VOD | Peliculas",Madmax
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/32139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas, el ultimo tesoro" tvg-logo="" group-title="VOD | Peliculas",Piratas,el ultimo tesoro
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/38956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de brujas" tvg-logo="" group-title="VOD | Peliculas",Cazador de brujas
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/38975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 1" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 1
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman sin regreso a casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman sin regreso a casa
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No mires arriba" tvg-logo="" group-title="VOD | Peliculas",No mires arriba
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto adam" tvg-logo="" group-title="VOD | Peliculas",El proyecto adam
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="" group-title="VOD | Peliculas",Finch
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit 1" tvg-logo="" group-title="VOD | Peliculas",El Hobbit 1
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit 2" tvg-logo="" group-title="VOD | Peliculas",El Hobbit 2
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit 3" tvg-logo="" group-title="VOD | Peliculas",El Hobbit 3
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos 1" tvg-logo="" group-title="VOD | Peliculas",El señor de los anillos 1
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos 2" tvg-logo="" group-title="VOD | Peliculas",El señor de los anillos 2
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos 3" tvg-logo="" group-title="VOD | Peliculas",El señor de los anillos 3
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 1" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 1
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39838.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 2" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 2
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39841.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 3" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 3
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39842.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 4" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 4
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 5" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 5
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39844.avi
+#EXTINF:-1 tvg-id="" tvg-name="Hotel transilvania 1" tvg-logo="" group-title="VOD | Peliculas",Hotel transilvania 1
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/40428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel transilvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transilvania 2
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/40438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel transilvania 3" tvg-logo="" group-title="VOD | Peliculas",Hotel transilvania 3
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/40439.mkv
+
+
+
+
+
+
+
 
 
 
