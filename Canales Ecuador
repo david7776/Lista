@@ -600,9 +600,14 @@ http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/40439.mkv
 http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/153675.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Corre y dispara" tvg-logo="" group-title="VOD | Peliculas",Corre y dispara
 http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/153658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La luna se cae" tvg-logo="" group-title="VOD | Peliculas",La luna se ace
+#EXTINF:-1 tvg-id="" tvg-name="La luna se cae" tvg-logo="" group-title="VOD | Peliculas",La luna se cae
 http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/153603.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/77298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/78055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/117841.mkv
 
 
 
