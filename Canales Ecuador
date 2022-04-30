@@ -36,6 +36,9 @@ http://smartstalker-raid-play.com:8080/marcos1/marcos1/87509
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="" group-title="TV | Ecuador",PURUWA TV
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/87578
 
+#EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="" group-title="TV | Ecuador",UCSG TV
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2176
 
@@ -121,7 +124,7 @@ http://smartstalker-raid-play.com:8080/marcos1/marcos1/47
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/48
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/49
+http://qqtv.nl:8080/niloofar/niloofar/20259
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/50
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
@@ -194,6 +197,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/36608
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253004
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="" group-title="TV | Internacional",CINEMAX 2
 http://45.71.185.142:8500/play/a02w
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
+http://qqtv.nl:8080/niloofar/niloofar/20293
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/70
@@ -215,6 +220,10 @@ http://smartstalker-raid-play.com:8080/marcos1/marcos1/90
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="" group-title="TV | Internacional",CLARO TV
 http://45.71.185.142:8500/play/a03j
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE ACCION" tvg-logo="" group-title="TV | Internacional",CINE ACCION
+http://qqtv.nl:8080/niloofar/niloofar/20077
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE MARVEL" tvg-logo="" group-title="TV | Internacional",CINE MARVEL
+http://qqtv.nl:8080/niloofar/niloofar/20308
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1202
@@ -229,6 +238,7 @@ http://smartstalker-raid-play.com:8080/marcos1/marcos1/66323
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES 1 ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES 1 ESPAÑA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1165
 
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47831
 
@@ -236,7 +246,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47831
 http://45.71.185.142:8500/play/a001
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-
+http://qqtv.nl:8080/niloofar/niloofar/20233
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28824
@@ -339,7 +349,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/27893
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/104213
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-
+http://qqtv.nl:8080/niloofar/niloofar/416280
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://latinosiptv.online:8090/notocar/xmauc84bx1/32711
