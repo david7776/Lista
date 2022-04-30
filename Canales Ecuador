@@ -50,6 +50,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47742
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253049
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO LAT
+http://45.71.185.142:8500/play/a02v
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",HBO POP 
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253057
@@ -64,7 +66,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47773
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253055
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19380
+http://45.71.185.142:8500/play/a011
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253109
@@ -82,10 +84,10 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252428
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252437
 
 #EXTINF:-1 tvg-id="dicovery.ec" tvg-name="INT| DISCOVERY H&H " tvg-logo="https://www.newslinereport.com/online/foto_682.JPG" group-title="TV | Internacional",DISCOVERY H&H 
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2182
+http://45.71.185.142:8500/play/a01w
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY TURBO " tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO 
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/38
+http://45.71.185.142:8500/play/a039
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/252443
@@ -173,6 +175,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/252991
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253034
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
+http://45.71.185.142:8500/play/a030
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/118853
@@ -188,6 +192,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/36608
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253004
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="" group-title="TV | Internacional",CINEMAX 2
+http://45.71.185.142:8500/play/a02w
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/70
@@ -207,6 +213,9 @@ http://smartstalker-raid-play.com:8080/marcos1/marcos1/87727
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TRUTV" tvg-logo="" group-title="TV | Internacional",TRUTV
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/90
 
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="" group-title="TV | Internacional",CLARO TV
+http://45.71.185.142:8500/play/a03j
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1202
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CALLE 13 ESPAÑA" tvg-logo="" group-title="TV | Internacional",CALLE 13 ESPAÑA
@@ -224,13 +233,15 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/1165
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47831
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",NICK HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/104197
+http://45.71.185.142:8500/play/a001
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
 
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28824
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL 2" tvg-logo="" group-title="TV | Infantiles",DISNEY CHANNEL
+http://45.71.185.142:8500/play/a017
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28836
@@ -267,6 +278,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47678
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2221
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
+http://45.71.185.142:8500/play/a021
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN + HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/114357
@@ -275,7 +288,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/114357
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/6851
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2258
+http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/28596
@@ -306,6 +319,9 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47636
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/115999
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2 ARG
+http://45.71.185.142:8500/play/a01n
+
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM 
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/106575
@@ -314,7 +330,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/106575
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47637
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2253
+http://45.71.185.142:8500/play/a01o
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/27893
