@@ -119,20 +119,22 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253039
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253114
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
+http://185.53.90.175:25461/live/SPIDER_s9a076/O8NCsETP/115859.ts?token=TUBZBxUKEwxEVgEFDAZVUQILAFUOAVZXAQ8FBQNbAFQOBgEEX1EJBl9DFBRHQ0ZXB1RqDF0SD1UBA1sAWE8SFkUHQzkPBhMMRFcJAgQVGBASUFgAGwoEUgUHVARXVwNXGkBBDwJAC1gTDVQaFlJMRgNLWwRVb1EBRl8AUENZXhZaDh1ECQxuUgMMWVhQFQ4QVxsZR1BDRUYKWBZZDU8SAV8WQwcSBxMMCBRUWhgVV10TV0EXQBIPRnV1QRlDBkgXUwxCDwkMEwxEFUsUGBVdQTlLUBZNQlAFXVMRF1tBAEEaQFwHHj1SWQgPXVVAXltcFRsPRwgSGUZdWQ1cFQxCPEYLVURcDERaChw=
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253113
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/47
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/48
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://qqtv.nl:8080/niloofar/niloofar/20259
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/50
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/53
+
 
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | Internacional",SONY HD
