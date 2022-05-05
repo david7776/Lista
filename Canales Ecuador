@@ -27,16 +27,16 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/28618
 http://45.71.185.142:8500/play/a02h
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",ECUADOR TV
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87762
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="" group-title="TV | Ecuador",CANELA TV
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/6544
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87509
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="" group-title="TV | Ecuador",PURUWA TV
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87578
+
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="" group-title="TV | Ecuador",UCSG TV
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
@@ -62,7 +62,7 @@ http://45.71.185.142:8500/play/a02v
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253057
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/62
+
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47773
@@ -109,7 +109,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2126
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253038
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/59
+
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253040
@@ -120,7 +120,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253039
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253114
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
-http://185.53.90.175:25461/live/SPIDER_s9a076/O8NCsETP/115859.ts?token=TUBZBxUKEwxEVgEFDAZVUQILAFUOAVZXAQ8FBQNbAFQOBgEEX1EJBl9DFBRHQ0ZXB1RqDF0SD1UBA1sAWE8SFkUHQzkPBhMMRFcJAgQVGBASUFgAGwoEUgUHVARXVwNXGkBBDwJAC1gTDVQaFlJMRgNLWwRVb1EBRl8AUENZXhZaDh1ECQxuUgMMWVhQFQ4QVxsZR1BDRUYKWBZZDU8SAV8WQwcSBxMMCBRUWhgVV10TV0EXQBIPRnV1QRlDBkgXUwxCDwkMEwxEFUsUGBVdQTlLUBZNQlAFXVMRF1tBAEEaQFwHHj1SWQgPXVVAXltcFRsPRwgSGUZdWQ1cFQxCPEYLVURcDERaChw=
+
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253113
@@ -159,7 +159,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253017
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/29
+
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| DW ESPAÑOL" tvg-logo="" group-title="TV | Internacional",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -177,10 +177,10 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2093
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253086
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",AMC HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/6221
+
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/252991
+
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253034
@@ -188,7 +188,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/253034
 http://45.71.185.142:8500/play/a030
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/118853
+
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253107
@@ -207,22 +207,22 @@ http://45.71.185.142:8500/play/a02w
 http://qqtv.nl:8080/niloofar/niloofar/20293
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="" group-title="TV | Internacional",LIFETIME
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/70
+
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| PARAMOUNT" tvg-logo="" group-title="TV | Internacional",PARAMOUNT
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/118858
+
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1221
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/66340
+
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DKISS" tvg-logo="" group-title="TV | Internacional",DKISS
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87727
+
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TRUTV" tvg-logo="" group-title="TV | Internacional",TRUTV
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/90
+
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="" group-title="TV | Internacional",CLARO TV
 http://45.71.185.142:8500/play/a03j
@@ -238,9 +238,9 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/1221
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2073
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87739
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/66323
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES 1 ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES 1 ESPAÑA
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1165
 
@@ -281,7 +281,7 @@ http://tvencasa.fun:2052/4236/4236/239017
 http://latinosiptv.online:8090/notocar/xmauc84bx1/19420
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/933
+
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
@@ -301,7 +301,7 @@ http://45.71.185.142:8500/play/a021
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/114357
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/6851
+
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
 http://45.71.185.142:8500/play/a03b
@@ -319,10 +319,10 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/174644
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2073
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",TNT SPORT 2 
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/6813
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/88593
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2073
@@ -352,7 +352,7 @@ http://45.71.185.142:8500/play/a01o
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/27893
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/104213
+
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://qqtv.nl:8080/niloofar/niloofar/416280
@@ -373,10 +373,10 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/183011
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2289
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
+
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/83899
+
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/83862
@@ -388,7 +388,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/47664
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2211
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/109232
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177698
@@ -400,13 +400,13 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/177701
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/50270
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/66428
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 BOL
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/95209
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 BOL
 http://latinosiptv.online:8090/notocar/xmauc84bx1/38976
@@ -433,7 +433,7 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/298266
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/135298
 
 #EXTINF:-1 tvg-id="bull.ec" tvg-name="DEP| RED BULL TV" tvg-logo="" group-title="TV | Deportes",RED BULL TV
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/7236
+
 
 #EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Ecuador1 Brasil1" tvg-logo="" group-title="TV | Futbol",Ecuador1 Brasil1
 https://ia601502.us.archive.org/2/items/partido-completo-ecuador-vs-brasil-eliminatorias-sudamericanas-fecha-15/Partido%20Completo_%20%20ECUADOR%20vs%20BRASIL%20_%20Eliminatorias%20Sudamericanas%20-%20Fecha%2015.mp4
@@ -547,27 +547,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/329964
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 1" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 1
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87519
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 2" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 2
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87540
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87541
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87543
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
-https://legochannel-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 6" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 6
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87544
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 7" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 7
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87545
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 8" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 8
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87547
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 9" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 9
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87548
+
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 10" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 10
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/87549
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
