@@ -30,13 +30,13 @@ http://45.71.185.142:8500/play/a02h
 http://45.71.185.142:8500/play/a026
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="" group-title="TV | Ecuador",CANELA TV
-
+http://tvencasa.fun:2052/4236/4236/174542
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
-
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w1914965708.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="" group-title="TV | Ecuador",PURUWA TV
-
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="" group-title="TV | Ecuador",UCSG TV
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
@@ -64,7 +64,7 @@ http://45.71.185.142:8500/play/a02v
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/253057
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-
+http://hispanotv.net:8080/Gianella/Gianella/85883
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/47773
@@ -388,13 +388,13 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2289
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-
+http://hispanotv.net:8080/Gianella/Gianella/86718
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/83862
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/47664
+http://hispanotv.net:8080/Gianella/Gianella/134953
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2211
@@ -440,6 +440,8 @@ http://compitv.info:8080/supertv700/9hZcpLdgqQ/177724
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/298266
+#EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
+http://hispanotv.net:8080/Gianella/Gianella/134921
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/135298
