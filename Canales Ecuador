@@ -439,9 +439,13 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2216
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/177724
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://compitv.info:8080/supertv700/9hZcpLdgqQ/298266
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/21428.ts
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://hispanotv.net:8080/Gianella/Gianella/134921
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/21414.ts
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/26798.ts
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 2" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 2
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/21600.ts
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
 http://compitv.info:8080/supertv700/9hZcpLdgqQ/135298
