@@ -411,7 +411,9 @@ http://new-pro.tv:8080/Fernando/123321/127978
 http://new-pro.tv:8080/Fernando/123321/98128
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39187.ts
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39188.ts
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES " tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES 
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2213
@@ -441,12 +443,11 @@ http://new-pro.tv:8080/Fernando/123321/73585
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2216
-
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39136.ts
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39139.ts
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2230
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39184.ts
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/21428.ts
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
@@ -603,8 +604,6 @@ http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="VOD | Peliculas",Coco
-
 #EXTINF:-1 tvg-id="" tvg-name="Gatos y perros" tvg-logo="" group-title="VOD | Peliculas",Gatos y perros
 http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El campamento" tvg-logo="" group-title="VOD | Peliculas",El campamento
@@ -617,13 +616,8 @@ http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La batalla" tvg-logo="" group-title="VOD | Peliculas",La batalla
 http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana" tvg-logo="" group-title="VOD | Peliculas",La guerra del mañana
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Volver al futuro 3" tvg-logo="" group-title="VOD | Peliculas",Volver al futuro 3
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Verdad o reto" tvg-logo="" group-title="VOD | Peliculas",Verdad o reto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Un alien robó mi cuerpo" tvg-logo="" group-title="VOD | Peliculas",Un alien robó mi cuerpo
 http://vod.tuxchannel.tv:80/peliculas/720/aliens%20stole%20my%20body%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
@@ -634,12 +628,6 @@ http://vod.tuxchannel.tv:80/peliculas/720/chaos%20walking%202021.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/greenland%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="" group-title="VOD | Peliculas",Tom y Jerry
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="https://pics.filmaffinity.com/Joker-790658206-large.jpg" group-title="VOD | Peliculas",Joker
-
-#EXTINF:-1 tvg-id="" tvg-name="Jurasic World 2" tvg-logo="" group-title="VOD | Peliculas",Jurasic World 2
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" tvg-name="Si tuviera 30" tvg-logo="" group-title="VOD | Peliculas",Si tuviera 30
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blancanieves y la reina del hielo" tvg-logo="" group-title="VOD | Peliculas",Blancanieves y la reina del hielo
 http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/4064.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Madmax" tvg-logo="" group-title="VOD | Peliculas",Madmax
@@ -670,16 +658,6 @@ http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39800.mkv
 http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39801.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos 3" tvg-logo="" group-title="VOD | Peliculas",El señor de los anillos 3
 http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 1" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 1
-http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39838.avi
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 2" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 2
-http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39841.avi
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 3" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 3
-http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39842.avi
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 4" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 4
-http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 5" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 5
-http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39844.avi
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transilvania 1" tvg-logo="" group-title="VOD | Peliculas",Hotel transilvania 1
 http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/40428.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transilvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transilvania 2
@@ -700,6 +678,59 @@ http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/77298.mkv
 http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/78055.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
 http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/117841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ALERTA ROJA" tvg-logo="" group-title="VOD | Peliculas",ALERTA ROJA
+http://latinosiptv.online:8090/movie/notocar/xmauc84bx1/39709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el Artico" tvg-logo="" group-title="VOD | Peliculas",Perdidos en el Artico
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/153136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin identidad" tvg-logo="" group-title="VOD | Peliculas",Sin identidad
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="" group-title="VOD | Peliculas",Terremoto
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El guerrero Muay Thai" tvg-logo="" group-title="VOD | Peliculas",El guerrero Muay Thai
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mision imposible 2" tvg-logo="" group-title="VOD | Peliculas",Mision imposible 2
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo Londres" tvg-logo="" group-title="VOD | Peliculas",Objetivo Londres
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack el cazagigantes" tvg-logo="" group-title="VOD | Peliculas",Jack el cazagigantes
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel:cazadores de brujas" tvg-logo="" group-title="VOD | Peliculas",Hansel y Gretel:cazadores de brujas
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hancock" tvg-logo="" group-title="VOD | Peliculas",Hancock
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones, el atraco perfecto" tvg-logo="" group-title="VOD | Peliculas",Juego de ladrones, el atraco perfecto
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman begins" tvg-logo="" group-title="VOD | Peliculas",Batman begins
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/121012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virgen a los 40" tvg-logo="" group-title="VOD | Peliculas",Virgen a los 40
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/120222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 1993" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 1993
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world 2015" tvg-logo="" group-title="VOD | Peliculas",Jurassic world 2015
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la tierra" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la tierra 2" tvg-logo="" group-title="VOD | Peliculas",Viaje al centro de la tierra 2
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwold 1" tvg-logo="" group-title="VOD | Peliculas",Underwold 1
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwold 2" tvg-logo="" group-title="VOD | Peliculas",Underwold 2
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwold 3" tvg-logo="" group-title="VOD | Peliculas",Underwold 3
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwold 4" tvg-logo="" group-title="VOD | Peliculas",Underwold 4
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crepusculo-amanecer" tvg-logo="" group-title="VOD | Peliculas",Crepusculo-amanecer
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casper" tvg-logo="" group-title="VOD | Peliculas",Casper
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia" tvg-logo="" group-title="VOD | Peliculas",Anastasia
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/118449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="" group-title="VOD | Peliculas",Frozen
+http://tv.plusme1.xyz:28000/movie/israelmantilla/pkooSNPDWH/117954.mkv
+
 
 
 
