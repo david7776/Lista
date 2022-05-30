@@ -86,7 +86,7 @@ http://45.71.185.142:8500/play/a011
 
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39281.ts
+http://201.108.227.250:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HQ
 http://45.71.185.142:8500/play/a00g
 
@@ -113,6 +113,9 @@ http://45.71.185.142:8500/play/a01w
 http://45.71.185.142:8500/play/a039
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY SCIENCE "  tvg-logo="" group-title="TV | Internacional",DISCOVERY SCIENCE
+
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
+http://201.108.227.250:8000/play/a052/index.m3u8
 
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="" group-title="TV | Internacional",NATGEO
@@ -281,7 +284,7 @@ http://45.71.185.142:8500/play/a038
 http://45.71.185.142:8500/play/a001
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
-
+http://201.108.227.250:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://qqtv.nl:8080/niloofar/niloofar/20416
@@ -304,7 +307,7 @@ http://45.71.185.142:8500/play/a013
 http://45.71.185.142:8500/play/a00m
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
-
+http://201.108.227.250:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
 http://45.71.185.142:8500/play/a00f
 
@@ -312,7 +315,7 @@ http://45.71.185.142:8500/play/a00f
 http://qqtv.nl:8080/niloofar/niloofar/20152
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
-
+http://201.108.227.250:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39053.ts
