@@ -319,6 +319,8 @@ http://qqtv.nl:8080/niloofar/niloofar/20152
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| LATINO KIDS" tvg-logo="" group-title="TV | Infantiles",LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 
@@ -492,7 +494,7 @@ http://qqtv.nl:8080/niloofar/niloofar/20215
 
 
 #EXTINF:-1 tvg-id="bull.ec" tvg-name="DEP| RED BULL TV" tvg-logo="" group-title="TV | Deportes",RED BULL TV
-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Ecuador1 Brasil1" tvg-logo="" group-title="TV | Futbol",Ecuador1 Brasil1
 https://ia802505.us.archive.org/28/items/partido-completo-ecuador-vs-brasil-eliminatorias-sudamericanas-fecha-15/Partido%20Completo_%20%20ECUADOR%20vs%20BRASIL%20_%20Eliminatorias%20Sudamericanas%20-%20Fecha%2015.mp4
