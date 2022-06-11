@@ -95,7 +95,7 @@ http://45.225.47.234:41/play/a0dj/index.m3u8
 http://45.181.121.57:8111/play/109
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT SERIES
-http://201.159.115.175:2000/play/a03c/index.m3u8
+http://45.177.109.41:11985/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://45.225.47.234:41/play/a0bc/index.m3u8
@@ -123,7 +123,7 @@ http://45.225.47.234:41/play/a0bv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="" group-title="TV | Internacional",NATGEO
-http://201.159.115.175:2000/play/a03e/index.m3u8
+http://45.71.185.142:8500/play/a003
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 
 
@@ -137,13 +137,13 @@ http://45.225.47.234:41/play/a0by/index.m3u8
 http://45.225.47.234:41/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
-http://45.177.109.47:58001/play/a06w/index.m3u8
+
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
 
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
-http://201.159.115.175:2000/play/a04s/index.m3u8
+
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
 http://190.61.55.139:8000/play/a01h
 
@@ -169,7 +169,7 @@ http://200.41.79.165:8000/play/a04h/index.m3u8
 
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
-http://201.159.115.175:2000/play/a05b/index.m3u8
+http://45.71.185.142:8500/play/a00t
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
 http://45.225.47.234:41/play/a0ba/index.m3u8
@@ -208,7 +208,7 @@ http://200.41.79.165:8000/play/a04j/index.m3u8
 http://45.177.109.41:11985/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC HQ" tvg-logo="https://www.amctv.la/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.jpg" group-title="TV | Internacional",AMC HQ
-http://45.177.109.47:58001/play/a06i/index.m3u8
+
 
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://200.41.79.165:8000/play/a04i/index.m3u8
@@ -230,12 +230,12 @@ http://45.181.121.57:8111/play/172
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="" group-title="TV | Internacional",TCM
 http://45.177.109.41:11985/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
-http://201.159.115.175:2000/play/a04k/index.m3u8
+http://45.225.47.234:41/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://45.181.121.57:8111/play/112
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="" group-title="TV | Internacional",CINEMAX 2
-http://201.159.115.175:2000/play/a05a/index.m3u8
+http://45.71.185.142:8500/play/a02w
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
 http://45.225.47.234:41/play/a0c2/index.m3u8
 
@@ -305,7 +305,7 @@ http://45.181.121.57:8111/play/006
 
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
-http://201.159.115.175:2000/play/a04g/index.m3u8
+
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://45.181.121.57:8111/play/005
@@ -354,10 +354,10 @@ http://45.181.121.57:8111/play/218
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
-http://45.177.109.47:58001/play/a072/index.m3u8
+
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
-http://qqtv.nl:8080/niloofar/niloofar/20286
+http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://200.41.79.165:8000/play/a05u/index.m3u8
@@ -407,7 +407,7 @@ http://45.177.109.47:58001/play/a079/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-http://qqtv.nl:8080/niloofar/niloofar/416280
+http://45.71.185.142:8500/play/a006
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 
