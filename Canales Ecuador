@@ -678,7 +678,9 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/good%20on%20paper%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
 http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world" tvg-logo="" group-title="VOD | Peliculas",Jurassic world
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia
+https://goo.gl/sFaEVq
 
 
