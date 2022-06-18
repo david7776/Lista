@@ -70,7 +70,7 @@ http://200.41.79.165:8000/play/a09a/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://186.10.245.76:3010/play/a0k0
+http://187.171.246.131:9000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://200.41.79.165:8000/play/a08j/index.m3u8
 
@@ -139,7 +139,7 @@ http://45.225.47.234:41/play/a0by/index.m3u8
 http://45.225.47.234:41/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
-http://186.10.245.76:3010/play/a0ll
+
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
 
@@ -201,7 +201,7 @@ http://200.41.79.165:8000/play/a042/index.m3u8
 http://181.78.7.92:6500/play/a06v
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
-http://186.10.245.76:3010/play/pasioneshd
+
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 http://200.41.79.165:8000/play/a0is/index.m3u8
@@ -252,7 +252,11 @@ http://45.225.47.234:41/play/a0c2/index.m3u8
 http://45.181.121.57:8111/play/100
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
-
+http://187.171.246.131:9000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| WOW TV" tvg-logo="" group-title="TV | Internacional",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA
 
@@ -369,7 +373,7 @@ http://200.41.79.165:8000/play/a05u/index.m3u8
 http://45.181.121.57:8111/play/233
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="" group-title="TV | Deportes",TNT SPORT 1 CHILE
-http://186.10.245.76:3010/play/cdfhd
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="TV | Deportes",TNT SPORT 2 
 http://45.181.121.57:8111/play/234
@@ -383,7 +387,7 @@ http://45.181.121.57:8111/play/235
 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-http://186.10.245.76:3010/play/a07k
+
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 " tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
 http://45.225.47.234:41/play/a0cj/index.m3u8
@@ -413,9 +417,9 @@ http://45.177.109.47:58001/play/a079/index.m3u8
 http://45.71.185.142:8500/play/a006
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-http://tvencasa.fun:2052/live/200486/200486/246179.ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-http://45.225.47.234:41/play/a0bf/index.m3u8
+
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 
 http://qqtv.nl:8080/niloofar/niloofar/20106
