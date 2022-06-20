@@ -62,7 +62,7 @@ http://200.24.132.99:8000/play/a020
 http://45.181.121.57:8111/play/174
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HQ"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO HQ
-http://45.181.121.57:8111/play/017
+http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://200.41.79.165:8000/play/a09a/index.m3u8
 
@@ -70,7 +70,7 @@ http://200.41.79.165:8000/play/a09a/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
-http://187.171.246.131:9000/play/a00m/index.m3u8
+http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://200.41.79.165:8000/play/a08j/index.m3u8
 
@@ -82,7 +82,7 @@ http://45.181.121.57:8111/play/018
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://45.181.121.57:8111/play/019
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
-http://45.181.121.57:8111/play/019
+http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
 http://45.181.121.57:8111/play/020
@@ -90,14 +90,14 @@ http://45.181.121.57:8111/play/020
 http://200.41.79.165:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-http://45.225.47.234:41/play/a0dj/index.m3u8
+http://190.83.119.67:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HQ
 http://45.181.121.57:8111/play/109
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://185.79.153.9:6500/play/a019
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT SERIES
-http://45.177.109.41:11985/play/a067/index.m3u8
+http://190.83.119.67:8000/play/a0ta/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://45.225.47.234:41/play/a0bc/index.m3u8
@@ -127,7 +127,7 @@ http://45.225.47.234:41/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="" group-title="TV | Internacional",NATGEO
 http://45.71.185.142:8500/play/a003
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
-
+http://190.83.119.67:8000/play/a0t8/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="" group-title="TV | Internacional",NATGEO WILD
 http://qqtv.nl:8080/niloofar/niloofar/20246
@@ -149,17 +149,16 @@ http://45.225.47.234:41/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://45.181.121.57:8111/play/081
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
-
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://45.181.121.57:8111/play/088
-
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-
+http://190.83.119.67:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://181.78.7.92:6500/play/a07m
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-
+http://190.83.119.67:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 http://181.78.7.92:6500/play/a07n
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
@@ -170,7 +169,7 @@ http://181.78.7.92:6500/play/a07l
 http://200.41.79.165:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
-
+http://190.83.119.67:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://45.71.185.142:8500/play/a00t
@@ -178,7 +177,7 @@ http://45.71.185.142:8500/play/a00t
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
 http://45.225.47.234:41/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION HQ" tvg-logo="https://i.ytimg.com/vi/RlndXvZ9lD8/maxresdefault.jpg" group-title="TV | Internacional",STAR ACTION HQ
-
+http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR FUN HQ" tvg-logo="https://i.ytimg.com/vi/6BtyPX5PhWg/maxresdefault.jpg" group-title="TV | Internacional",STAR FUN HQ
 
 
@@ -197,17 +196,25 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
 http://200.41.79.165:8000/play/a042/index.m3u8
 
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
+http://190.83.119.67:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CLARO MUSICA" tvg-logo="" group-title="TV | Internacional",CLARO MUSICA
+http://190.83.119.67:8000/play/a0re/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| ZONA LATINA" tvg-logo="" group-title="TV | Internacional",ZONA LATINA
 http://181.78.7.92:6500/play/a06v
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
-
+http://190.83.119.67:8000/play/a0td/index.m3u8
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 http://200.41.79.165:8000/play/a0is/index.m3u8
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
+http://190.83.119.67:8000/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="http://l3d.us:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | Internacional",SPACE HQ
 http://200.41.79.165:8000/play/a04j/index.m3u8
@@ -257,9 +264,8 @@ http://187.171.246.131:9000/play/a006/index.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| WOW TV" tvg-logo="" group-title="TV | Internacional",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA
-
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
+http://190.83.119.67:8000/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TRUTV" tvg-logo="" group-title="TV | Internacional",TRUTV
 
 
@@ -295,10 +301,10 @@ http://45.181.121.57:8111/play/015
 http://45.181.121.57:8111/play/014
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
-
+http://190.83.119.67:8000/play/a0so/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
-
+http://190.83.119.67:8000/play/a0q1/index.m3u8
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
 http://qqtv.nl:8080/niloofar/niloofar/20233
@@ -320,7 +326,7 @@ http://45.181.121.57:8111/play/005
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
 http://45.225.47.234:41/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
-
+http://190.83.119.67:8000/play/a0op/index.m3u8
 
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://www.ororadio.com.mx/noticias/wp-content/uploads/2018/01/natgeo-kids_orig.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
 http://qqtv.nl:8080/niloofar/niloofar/20152
@@ -333,10 +339,13 @@ http://45.177.109.41:11985/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| LATINO KIDS" tvg-logo="" group-title="TV | Infantiles",LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
+http://190.83.119.67:8000/play/a0nt/index.m3u8
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS
-
+http://190.83.119.67:8000/play/a0v6/index.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
@@ -504,8 +513,8 @@ http://185.79.153.9:6500/play/a00o
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
 
-#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 2" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 2
-
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
+http://190.83.119.67:8000/play/a0rd/index.m3u8
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
