@@ -156,22 +156,25 @@ http://45.181.121.57:8111/play/081
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://45.181.121.57:8111/play/088
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-
+http://200.60.18.178:21214/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-
+http://200.60.18.178:21214/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-
+http://200.60.18.178:21214/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
-
+http://200.60.18.178:21214/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
+http://200.60.18.178:21214/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
+http://200.60.18.178:21214/play/a08d/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="http://l3d.us:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | Internacional",SONY HD
-http://200.41.79.165:8000/play/a04h/index.m3u8
+http://200.60.18.178:21214/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
-
+http://200.60.18.178:21214/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="http://l3d.us:8080/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://45.71.185.142:8500/play/a00t
@@ -202,7 +205,7 @@ http://187.171.246.131:9000/play/a00f/index.m3u8
 http://200.41.79.165:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
-http://190.83.119.67:8000/play/a0oq/index.m3u8
+http://200.60.18.178:21214/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CLARO MUSICA" tvg-logo="" group-title="TV | Internacional",CLARO MUSICA
 http://190.83.119.67:8000/play/a0re/index.m3u8
