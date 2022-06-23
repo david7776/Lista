@@ -3,59 +3,59 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1342035449.m3u8
 
-#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",ECUAVISA
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA
 http://45.225.47.234:41/play/a0er/index.m3u8
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://qqtv.nl:8080/niloofar/niloofar/20203
 
-#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="" group-title="TV | Ecuador",RTS
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://45.225.47.234:41/play/a0ej/index.m3u8
 
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="TV | Ecuador",TC 
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/tc-257x200.jpg" group-title="TV | Ecuador",TC 
 http://45.225.47.234:41/play/a0el/index.m3u8
 
-#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="TV | Ecuador",OROMAR TV
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://45.225.47.234:41/play/a0ep/index.m3u8
 
-#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="TV | Ecuador",GAMAVISION 
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="TV | Ecuador",GAMAVISION 
 http://45.225.47.234:41/play/a0ex/index.m3u8
 
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://200.24.132.99:8000/play/a006
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",TELEAMAZONAS HQ
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS HQ
 http://45.225.47.234:41/play/a0eo/index.m3u8
 
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",ECUADOR TV
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://45.225.47.234:41/play/a0es/index.m3u8
 
-#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="" group-title="TV | Ecuador",CANELA TV
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canela-tv-1774.jpg" group-title="TV | Ecuador",CANELA TV
 http://45.225.47.234:41/play/a0ew/index.m3u8
 
-#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="" group-title="TV | Ecuador",RTU
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="https://i.pinimg.com/originals/46/1a/84/461a84f42fb05a5779a1c867d64e273b.jpg" group-title="TV | Ecuador",RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
-#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="" group-title="TV | Ecuador",PURUWA TV
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="" group-title="TV | Ecuador",UCSG TV
+#EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
 
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="" group-title="TV | Internacional",HISTORY HD
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
 http://45.181.121.57:8111/play/032
 
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="" group-title="TV | Internacional",HISTORY 2
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2
 http://45.225.47.234:41/play/a0ca/index.m3u8
-#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="" group-title="TV | Internacional",HISTORY 2 HD
+#EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY 2 HD"  tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 
-#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="" group-title="TV | Internacional",A&E
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E"  tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="TV | Internacional",A&E
 http://200.24.132.99:8000/play/a025
-#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="" group-title="TV | Internacional",A&E HD
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://200.41.79.165:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="" group-title="TV | Internacional",A3SERIES
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
 http://190.83.119.67:8000/play/a0o1/index.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg" group-title="TV | Internacional",E 
@@ -76,9 +76,9 @@ http://45.71.185.142:8500/play/a00z
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
 http://200.41.79.165:8000/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="" group-title="TV | Internacional",HBO FAMILY
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY
 http://200.41.79.165:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="" group-title="TV | Internacional",HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
 http://45.181.121.57:8111/play/018
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
