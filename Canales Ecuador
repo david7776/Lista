@@ -363,7 +363,7 @@ http://190.83.119.67:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS
-
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
@@ -517,13 +517,13 @@ http://200.24.132.99:8000/play/a024
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="https://img1.freepng.es/20180802/cys/kisspng-eurosport-1-logo-lyngsat-television-hot-bird-13b-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b62bece0c4b64.2435550715331980300504.jpg" group-title="TV | Deportes",EUROSPORT 1
-
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8746
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-http://185.79.153.9:6500/play/a00o
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
@@ -534,13 +534,13 @@ http://185.79.153.9:6500/play/a00o
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
-
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-id="bull.ec" tvg-name="DEP| RED BULL TV" tvg-logo="" group-title="TV | Deportes",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Ecuador1 Brasil1" tvg-logo="" group-title="TV | Futbol",Ecuador1 Brasil1
-https://ia802505.us.archive.org/28/items/partido-completo-ecuador-vs-brasil-eliminatorias-sudamericanas-fecha-15/Partido%20Completo_%20%20ECUADOR%20vs%20BRASIL%20_%20Eliminatorias%20Sudamericanas%20-%20Fecha%2015.mp4
+
 #EXTINF:-1 tvg-id="futbol.ec" tvg-name="FUT| Chile0 Ecuador2" tvg-logo="" group-title="TV | Futbol",Chile0 Ecuador2
 
 
