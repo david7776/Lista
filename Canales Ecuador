@@ -99,7 +99,7 @@ http://190.61.55.139:8000/play/a00p
 http://181.78.22.214:8000/play/a00e
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="TV | Internacional",TNT SERIES
-http://187.171.246.131:9000/play/a03d/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://45.225.47.234:41/play/a0bc/index.m3u8
@@ -199,10 +199,10 @@ http://200.41.79.165:8000/play/a052/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
-http://187.171.246.131:9000/play/a00f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-http://138.186.20.98:9315/play/a03g/index.m3u8
+
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
 http://200.41.79.165:8000/play/a042/index.m3u8
@@ -232,7 +232,7 @@ http://soberon.us:25461/bulln3w/s0beron/3564
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-http://187.171.246.131:9000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://200.41.79.165:8000/play/a04j/index.m3u8
@@ -264,7 +264,7 @@ http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://45.225.47.234:41/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://187.171.246.131:9000/play/a02q/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
 http://200.60.18.178:21214/play/a094/index.m3u8
@@ -279,13 +279,13 @@ http://200.60.18.178:21214/play/a06a/index.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
-http://187.171.246.131:9000/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MOVIE NET" tvg-logo="" group-title="TV | Internacional",MOVIE NET
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| WOW TV" tvg-logo="" group-title="TV | Internacional",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
-http://187.171.246.131:9000/play/a06h/index.m3u8
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="" group-title="TV | Internacional",COMEDY CENTRAL
 http://45.225.47.234:41/play/a0dh/index.m3u8
 
@@ -312,7 +312,7 @@ http://185.79.153.9:6500/play/a00k
 http://185.79.153.9:6500/play/a016
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
-http://187.171.246.131:9000/play/a037/index.m3u8
+
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
 http://200.60.18.178:21214/play/a05y/index.m3u8
@@ -320,7 +320,7 @@ http://200.60.18.178:21214/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
 http://181.78.22.214:8000/play/a001
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
-http://187.171.246.131:9000/play/a03x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
 http://190.83.119.67:8000/play/a0so/index.m3u8
@@ -393,7 +393,7 @@ http://200.60.18.178:21214/play/a06n/index.m3u8
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
-http://190.108.95.5:8000/play/a03o/index.m3u8
+
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
 http://45.71.185.142:8500/play/a03b
@@ -523,7 +523,7 @@ http://200.24.132.99:8000/play/a024
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="https://img1.freepng.es/20180802/cys/kisspng-eurosport-1-logo-lyngsat-television-hot-bird-13b-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b62bece0c4b64.2435550715331980300504.jpg" group-title="TV | Deportes",EUROSPORT 1
-http://mytv.fun:8080/mbg958k19/m2858nffk4/8746
+
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
