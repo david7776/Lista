@@ -44,6 +44,18 @@ https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| RECTV "  tvg-logo="" group-title="TV | Ecuador",RECTV 
 https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w1384783399.m3u8
 
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
+https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w456917692.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ZARACAY TV "  tvg-logo="" group-title="TV | Ecuador",ZARACAY TV 
+https://streamingwowza.com:19360/zaracay/zaracay.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",WUAN TV
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SOL TV
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY HD"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
@@ -97,7 +109,7 @@ http://200.41.79.165:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
 http://200.60.18.178:21214/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HQ
-http://190.61.55.139:8000/play/a00p
+http://167.249.31.57:8000/play/a06w
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://181.78.22.214:8000/play/a00e
 
@@ -252,7 +264,7 @@ http://200.41.79.165:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
 http://200.60.18.178:21214/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
-http://190.61.55.139:8000/play/a038
+http://200.60.18.178:21214/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 
@@ -293,9 +305,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://45.225.47.234:41/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="" group-title="TV | Internacional",CLARO TV
-http://190.61.55.139:8000/play/a020
+
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO CINEMA" tvg-logo="" group-title="TV | Internacional",CLARO CINEMA
-http://190.61.55.139:8000/play/a03f
+http://200.60.18.178:21214/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE ACCION" tvg-logo="" group-title="TV | Internacional",CINE ACCION
 
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE MARVEL" tvg-logo="" group-title="TV | Internacional",CINE MARVEL
@@ -378,7 +390,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",ESPN HQ
-http://190.61.55.139:8000/play/a01l
+http://190.83.119.254:8000/play/a0xh/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://200.24.132.99:8000/play/a021
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
@@ -457,13 +469,13 @@ http://45.71.185.142:8500/play/a006
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 
-http://unchetaiber.site:2082/live/Josemariaparra/B4eLE8T8Sqsu/208766.m3u8
+
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="https://www.directv.cl/content/dam/public-sites/footer/noticias/cl/logo.jpg" group-title="TV | Deportes",DIRECTV 1
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
+
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
@@ -478,7 +490,7 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
-http://190.61.55.139:8000/play/a00q
+http://168.228.194.32:4000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -493,7 +505,7 @@ http://45.225.47.234:41/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
 
 
@@ -534,7 +546,7 @@ http://user.tvcluboficial.com/stream/free_Yeins/6HC/192.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/625
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://198.255.70.178:25461/justplay240/vCIaD0v2Gp/625?token=SxdRA0RfQAhEUVRWUVxRAQwAVAYHAQJTA1EFVwcDUFcAB1hVDgVUCgJAGREWTEBTWF45W1IWXlJUUR1GRkYGR29cXUANFVMERE4XRwxVVxQDAlAHAANWXFBUCEgRRQpREg8bUAICUwZEThdWHUxXRFdSCm1SURINBQETXl1AD1kcF1YMaFMHXwcMURFfGgIUFREPQUYWXgoTCF1IEVcKQUJUTQcVDUABX1QCEUkaUVlMXRJATxZeRiMnE0gRUBtBVVtKC1hZQAhEFkYRSRpbRWZBA0FCRgEFCwFDRgkXUxccF1QDT2gBXQgMUFARUV1YShFcEAYWSEYLC18NR1oRakBcXUANFVAAVVUNERg=
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
@@ -679,8 +691,6 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/good%20on%20paper%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
 http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic world" tvg-logo="" group-title="VOD | Peliculas",Jurassic world
-https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia
 https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
