@@ -156,7 +156,7 @@ http://45.225.47.234:41/play/a0by/index.m3u8
 http://45.225.47.234:41/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/161
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
 
@@ -173,13 +173,13 @@ http://181.78.22.214:8000/play/a006
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/6
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/717
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1005
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
 
 
@@ -408,7 +408,7 @@ http://200.60.18.178:21214/play/a06n/index.m3u8
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/164
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
 http://45.71.185.142:8500/play/a03b
@@ -478,7 +478,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/45
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -495,7 +495,7 @@ http://168.228.194.32:4000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| BARCA TV" tvg-logo="" group-title="TV | Deportes",BARCA TV
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/12
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://45.225.47.234:41/play/a098/index.m3u8
 
@@ -516,7 +516,7 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 http://45.225.47.234:41/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/470
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
 
@@ -538,9 +538,9 @@ http://200.24.132.99:8000/play/a024
 
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="https://img1.freepng.es/20180802/cys/kisspng-eurosport-1-logo-lyngsat-television-hot-bird-13b-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b62bece0c4b64.2435550715331980300504.jpg" group-title="TV | Deportes",EUROSPORT 1
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/85
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/84
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 http://user.tvcluboficial.com/stream/free_Yeins/6HC/192.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
