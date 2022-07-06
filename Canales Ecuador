@@ -7,7 +7,7 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1460503107.m3u8
 http://45.225.47.234:41/play/a0er/index.m3u8
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
-
+http://tutv.online:2080/cliente1_abril_00d/Xvuf6NDP2LPs/73017
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://45.225.47.234:41/play/a0ej/index.m3u8
@@ -455,10 +455,10 @@ http://200.24.132.99:8000/play/a029
 http://200.60.18.178:21214/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-
+http://tutv.online:2080/cliente2_abril_00d/RFsCdZYG929L/53010
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-
+http://tutv.online:2080/cliente2_abril_00d/RFsCdZYG929L/53011
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://45.71.185.142:8500/play/a006
@@ -469,7 +469,7 @@ http://45.71.185.142:8500/play/a006
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 
-
+http://tutv.online:2080/cliente1_abril_00d/Xvuf6NDP2LPs/66968
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -482,10 +482,10 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/45
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-
+http://tutv.online:2080/cliente1_abril_00d/Xvuf6NDP2LPs/18440
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-
+http://tutv.online:2080/cliente2_abril_00d/RFsCdZYG929L/71839
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
@@ -548,7 +548,7 @@ http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/625
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://81.196.140.234:8000/play/a09b
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-
+http://tutv.online:2080/cliente2_abril_00d/RFsCdZYG929L/71860
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
