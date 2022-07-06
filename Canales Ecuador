@@ -407,6 +407,9 @@ http://200.60.18.178:21214/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://200.24.132.99:8000/play/a023
 
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL TV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL TV ECUADOR
+http://tutv.online:2080/cliente1_abril_00d/Xvuf6NDP2LPs/66991
+
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
 http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/164
 
