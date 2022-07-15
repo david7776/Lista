@@ -713,4 +713,17 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://ia601402.us.archive.org/31/items/fast-furious-9-areshd/Fast%20%26%20Furious%209%20%E2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="" group-title="VOD | Peliculas",Cazafantasmas
 https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafantasmas%20M%C3%A1s%20all%C3%A1%20%E2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 2da parte" tvg-logo="" group-title="VOD | Peliculas",300 2da parte
+http://vod.tuxchannel.tv/peliculas/720/300%20rise%20of%20an%20empire.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="" group-title="VOD | Peliculas",300
+http://vod.tuxchannel.tv/peliculas/720/300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rascacielos" tvg-logo="" group-title="VOD | Peliculas",Rascacielos
+http://vod.tuxchannel.tv/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
+http://vod.tuxchannel.tv/peliculas/720/rampage.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="" group-title="VOD | Peliculas",Terremoto
+http://vod.tuxchannel.tv/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
+http://vod.tuxchannel.tv/peliculas/720/geostorm.mkv
+
 
