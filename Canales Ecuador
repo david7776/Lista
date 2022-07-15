@@ -167,7 +167,7 @@ http://200.41.79.165:8000/play/a0ia/index.m3u8
 http://167.249.31.57:8000/play/goldenhd
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
-
+http://bulltv.us:2999/hernandez/hernandez/245
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 
 
