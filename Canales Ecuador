@@ -725,5 +725,8 @@ http://vod.tuxchannel.tv/peliculas/720/rampage.mkv
 http://vod.tuxchannel.tv/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
 http://vod.tuxchannel.tv/peliculas/720/geostorm.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="" group-title="VOD | Peliculas",Viuda negra
+http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
+
 
 
