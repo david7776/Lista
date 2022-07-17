@@ -671,19 +671,19 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
 http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Estamos vivos" tvg-logo="https://i.pinimg.com/736x/a9/61/58/a9615879a9ba9191e14aab9668bef7cb.jpg" group-title="VOD | Peliculas",Estamos vivos
+#EXTINF:-1 tvg-id="" tvg-name="Estamos vivos" tvg-logo="https://i.pinimg.com/originals/41/9b/2f/419b2f4bd5dbd5cdf7262f0e7c80f994.jpg" group-title="VOD | Peliculas",Estamos vivos
 http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://pics.filmaffinity.com/Mul_n-807158695-large.jpg" group-title="VOD | Peliculas",Mulan
+#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://https://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="VOD | Peliculas",Mulan
 http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gatos y perros" tvg-logo="" group-title="VOD | Peliculas",Gatos y perros
 http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El campamento" tvg-logo="" group-title="VOD | Peliculas",El campamento
 http://vod.tuxchannel.tv/peliculas/720/a%20week%20away%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El protector" tvg-logo="" group-title="VOD | Peliculas",El protector
+#EXTINF:-1 tvg-id="" tvg-name="El protector" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/05/09/15/57/155229.jpg" group-title="VOD | Peliculas",El protector
 http://vod.tuxchannel.tv:80/peliculas/720/the%20marksman%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fatal" tvg-logo="" group-title="VOD | Peliculas",Fatal
 http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="" group-title="VOD | Peliculas",Godzilla vs Kong
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong" tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/15/18/35/3097205.jpg" group-title="VOD | Peliculas",Godzilla vs Kong
 http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La batalla" tvg-logo="" group-title="VOD | Peliculas",La batalla
 http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
@@ -695,7 +695,7 @@ http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/chaos%20walking%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El dia del fin del mundo" tvg-logo="" group-title="VOD | Peliculas",El dia del fin del mundo
 http://vod.tuxchannel.tv:80/peliculas/720/greenland%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="" group-title="VOD | Peliculas",Tom y Jerry
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg" group-title="VOD | Peliculas",Tom y Jerry
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor de cuento" tvg-logo="" group-title="VOD | Peliculas",Amor de cuento
 http://vod.tuxchannel.tv:80/peliculas/720/good%20on%20paper%202021.mkv
@@ -709,24 +709,44 @@ https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saw 8" tvg-logo="" group-title="VOD | Peliculas",Saw 8
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="" group-title="VOD | Peliculas",Rapidos y furiosos 9
+#EXTINF:-1 tvg-id="" tvg-name="Rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
 https://ia601402.us.archive.org/31/items/fast-furious-9-areshd/Fast%20%26%20Furious%209%20%E2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="" group-title="VOD | Peliculas",Cazafantasmas
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas" tvg-logo="https://pics.filmaffinity.com/Cazafantasmas-698795949-large.jpg" group-title="VOD | Peliculas",Cazafantasmas
 https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafantasmas%20M%C3%A1s%20all%C3%A1%20%E2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300 2da parte" tvg-logo="" group-title="VOD | Peliculas",300 2da parte
+#EXTINF:-1 tvg-id="" tvg-name="300 2da parte" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/17/14/10/345306.jpg" group-title="VOD | Peliculas",300 2da parte
 http://vod.tuxchannel.tv/peliculas/720/300%20rise%20of%20an%20empire.mkv
-#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="" group-title="VOD | Peliculas",300
+#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/71/17/20027466.jpg" group-title="VOD | Peliculas",300
 http://vod.tuxchannel.tv/peliculas/720/300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rascacielos" tvg-logo="" group-title="VOD | Peliculas",Rascacielos
+#EXTINF:-1 tvg-id="" tvg-name="Rascacielos" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/23/10/36/0134677.jpg" group-title="VOD | Peliculas",Rascacielos
 http://vod.tuxchannel.tv/peliculas/720/el%20rascacielos.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/04/03/11/10/1695640.jpg" group-title="VOD | Peliculas",Rampage
 http://vod.tuxchannel.tv/peliculas/720/rampage.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="" group-title="VOD | Peliculas",Terremoto
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto" tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="VOD | Peliculas",Terremoto
 http://vod.tuxchannel.tv/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="" group-title="VOD | Peliculas",Geotormenta
+#EXTINF:-1 tvg-id="" tvg-name="Geotormenta" tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/02/09/55/3526292.jpg" group-title="VOD | Peliculas",Geotormenta
 http://vod.tuxchannel.tv/peliculas/720/geostorm.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="" group-title="VOD | Peliculas",Viuda negra
+#EXTINF:-1 tvg-id="" tvg-name="Viuda negra" tvg-logo="https://c8.alamy.com/compes/2fnk54p/black-widow-cartel-de-caracter-estadounidense-con-fecha-de-lanzamiento-actualizada-del-9-de-julio-de-2021-rachel-weisz-como-melina-vostokoff-2021-walt-disney-studios-motion-pictures-marvel-studios-courtesy-everett-collection-2fnk54p.jpg" group-title="VOD | Peliculas",Viuda negra
 http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino sin memoria" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39143-745823-20220413054853.jpg" group-title="VOD | Peliculas",Asesino sin emoria
+http://vod.tuxchannel.tv/peliculas/720/memory%202022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
+https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/16/18/2106533.jpg" group-title="VOD | Peliculas",La ciudad perdida
+http://vod.tuxchannel.tv/peliculas/720/the%20lost%20city%202022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
+https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuera del mapa" tvg-logo="https://i.blogs.es/c148a3/uncharted-cartel/840_560.jpeg" group-title="VOD | Peliculas",Fuera del mapa
+http://vod.tuxchannel.tv/peliculas/720/uncharted%202022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
+https://archive.org/download/01_20220423_20220423_1740/01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker" tvg-logo="" group-title="VOD | Peliculas",Joker
+http://vod.tuxchannel.tv/peliculas/720/joker%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sextillizos" tvg-logo="" group-title="VOD | Peliculas",Sextillizos
+http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megalodon" tvg-logo="" group-title="VOD | Peliculas",Megalodon
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Megalod%C3%B3n%2520-%25202018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
+http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
 
 
 
