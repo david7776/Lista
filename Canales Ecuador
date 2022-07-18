@@ -553,11 +553,11 @@ http://185.79.153.9:6500/play/a011
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://185.79.153.9:6500/play/a026
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-http://user.tvcluboficial.com/stream/free_Yeins/6HC/192.m3u8
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://185.79.153.9:6500/play/a00o
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://81.196.140.234:8000/play/a09b
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
