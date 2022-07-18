@@ -390,6 +390,8 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 http://190.83.119.67:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMS TV" tvg-logo="" group-title="TV | Infantiles",DREAMS TV
 http://185.79.153.9:6500/play/a00f
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
+http://soberon.us:25461/monkeyn/Mon/3734
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
