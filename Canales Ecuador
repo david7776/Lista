@@ -16,7 +16,7 @@ http://45.71.185.142:8500/play/a034
 http://45.71.185.142:8500/play/a02d
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-https://live-ak.vimeocdn.com/exp=1657768324~acl=%2F429a7e75-8b08-4924-81cb-8d2e7ea79b29%2F%2A~hmac=bfa3684fb054914536e9f395f3b6015bd2950794b68cafd8a8d943bc14fec293/429a7e75-8b08-4924-81cb-8d2e7ea79b29/chunklist_b728000.m3u8?max_segments=10
+http://soberon.us:25461/monkeyn/Mon/516
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="TV | Ecuador",GAMAVISION 
 http://45.71.185.142:8500/play/a027
@@ -155,7 +155,7 @@ http://45.71.185.142:8500/play/a003
 http://167.249.31.57:8000/play/a05a
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-
+http://soberon.us:25461/monkeyn/Mon/134
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN 
 http://168.232.168.242:8089/play/a039/index.m3u8
@@ -167,7 +167,7 @@ http://200.41.79.165:8000/play/a0ia/index.m3u8
 http://167.249.31.57:8000/play/goldenhd
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
-http://bulltv.us:2999/hernandez/hernandez/245
+http://soberon.us:25461/monkeyn/Mon/756
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 
 
@@ -183,15 +183,13 @@ http://168.228.194.32:4000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://168.228.194.32:4000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/717
+http://190.83.119.67:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
-http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/1005
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE 2"  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
 http://168.228.194.32:4000/play/a067/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY HD" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
 http://190.83.119.254:8000/play/a0xm/index.m3u8
@@ -231,7 +229,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://200.41.79.165:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
-http://168.228.194.32:4000/play/a02s/index.m3u8
+
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CLARO MUSICA" tvg-logo="" group-title="TV | Internacional",CLARO MUSICA
 http://190.83.119.67:8000/play/a0re/index.m3u8
@@ -390,6 +388,8 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 http://190.83.119.67:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMS TV" tvg-logo="" group-title="TV | Infantiles",DREAMS TV
 http://185.79.153.9:6500/play/a00f
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FAMILIA TV" tvg-logo="" group-title="TV | Infantiles",FAMILIA TV
+http://soberon.us:25461/monkeyn/Mon/3585
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
 http://soberon.us:25461/monkeyn/Mon/3734
 
@@ -420,7 +420,7 @@ http://190.83.119.254:8000/play/a0wh/index.m3u8
 http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL TV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL TV ECUADOR
-
+http://soberon.us:25461/monkeyn/Mon/115
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
 http://200.41.79.165:8000/play/a05u/index.m3u8
@@ -430,12 +430,14 @@ http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://170.83.242.30:5350/play/a00v
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV HD" tvg-logo="" group-title="TV | Deportes",GOLTV HD
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/180475
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 http://167.249.31.57:8000/play/cdfhd
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/25361
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 
@@ -460,15 +462,15 @@ http://200.24.132.99:8000/play/a028
 http://190.83.119.254:8000/play/a0wm/index.m3u8
 
 #EXTINF:-1 tvg-id="fox.ec" tvg-name="DEP| FOX SPORTS PREMIUM " tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM 
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/195839
 
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://200.24.132.99:8000/play/a029
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
 http://190.83.119.254:8000/play/a0xt/index.m3u8
 
-#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://142.44.210.132:25461/monkeyn/Mon/3390?token=HhFfA0ZZGghHBgZSXVJTCQdRUQECWgAPCwFYBQIFBVYDClNSAAEIBQQUTxQWFRNUAAltC1AbDQQLW1FPQUESUBdsXgYXCxoDUwJBGkcVCFwERghTAgwPBg5XUVdQGENFDFcVWBcDCQBXDkEaRwQZRQQWXANYZlNSTgsCBkEOD0AJXxtAWl9nVgBbAlgBQ1sTUUYeQF1KRxUCDBQPDxhDVwxHRQNBVBoIRwdbB1xDTRMCC0cMQEtOFQJAJCBBGENQHUdSDEZYV1xHDEFCFkNNEwgXbRBRSkNFXQMMBhEWWxdVERtAWFBAbQZZDVgAAhVYDgpBQA4bBxUUQAwMDV0VWhdsRwtREwIQVgVQBUcc
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
+
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 
@@ -487,18 +489,18 @@ http://190.210.221.119/Processor3_9_20220710_012556.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="https://www.directv.cl/content/dam/public-sites/footer/noticias/cl/logo.jpg" group-title="TV | Deportes",DIRECTV 1
-
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
+http://soberon.us:25461/monkeyn/Mon/3293
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://soberon.us:25461/monkeyn/Mon/3281
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
-
+http://soberon.us:25461/monkeyn/Mon/3293
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202157
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-
+http://soberon.us:25461/monkeyn/Mon/379
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 
@@ -523,19 +525,19 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
-
+http://soberon.us:25461/monkeyn/Mon/464
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+http://soberon.us:25461/monkeyn/Mon/461
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
-http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/470
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155631
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 BOL
-
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155634
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 BOL
 
@@ -559,9 +561,9 @@ http://soberon.us:25461/monkeyn/Mon/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://185.79.153.9:6500/play/a00o
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://51.222.157.54:25461/live/malotv/gratis/145436.m3u8?token=Q0FYAkZRGwoVVFILVAUGUVoBWwoCBFMCBgJTBVUGAwZcAQRbUV9aBA4TGBsVR0ZVAw48W1EXXwQGAFVQVB0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkECUwQADxIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwsDBwgWFURQW0UMFxFLFw9HcHEXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFIaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsCBAEFDkRO
+http://bulltv.us:2999/hernandez/hernandez/36305
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://51.222.111.1:25461/monkeyn/Mon/3326?token=HhFfA0ZZGghHBlYGVQJYUwBcC1FWDQZWXFJRWlMNVVNWVQIGDVReUwcUTxQWFRNUAAltC1AbDQQLUFdPQUESUBdsXgYXCxoDUwJBGkcVCFwERghTAgwPBg5WUFNWGENFDFcVWBcAAANSAEEaRwQZRQQWXANYZlNSTgsCBkEOD0AJXxtAWl9nVgBbAlgBQ1sTUUYeQF1KRxUCDBQPDxhDVwxHRQNBVBoIRwVaA1VDTRMCC0cMQEtOFQJAJCBBGENQHUdSDEZYV1xHDEFCFkNNEwgXbRBRSkNFXQMMBhEWWxdVERtAWFBAbQZZDVgAAhVYDgpBQA4bBxUUQAwMDV0VWhdsRwtREwIQVgRSB1BDHA==
+http://bulltv.us:2999/hernandez/hernandez/20591
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
@@ -638,26 +640,26 @@ http://castlempire.site:8080/series/69VODTUTVONLINE66/j4xHXHszTY/202214.mkv
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="24/7 | 24/7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="" group-title="24/7 | 24/7",Doraemon
-
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
+http://soberon.us:25461/monkeyn/Mon/2941
 #EXTINF:-1 tvg-id="" tvg-name="Archivos del FBI" tvg-logo="" group-title="24/7 | 24/7",Archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
+http://soberon.us:25461/monkeyn/Mon/2946
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
-
-#EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
-
+http://soberon.us:25461/monkeyn/Mon/3542
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 1" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 1
-
+http://soberon.us:25461/monkeyn/Mon/3700
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 2" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 2
-
+http://soberon.us:25461/monkeyn/Mon/3701
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 3" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 3
-
-#EXTINF:-1 tvg-id="" tvg-name="PELICULAS 4" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 4
-
+http://soberon.us:25461/monkeyn/Mon/3706
+#EXTINF:-1 tvg-id="" tvg-name="Jackie chan" tvg-logo="" group-title="24/7 | 24/7",Jackie chan
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090940
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 5" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 5
 
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS 6" tvg-logo="" group-title="24/7 | 24/7",PELICULAS 6
@@ -750,9 +752,9 @@ http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Megalod%C3%B3n%2520-%25202018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viejo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxYmI2MDAtMjZlMC00YjQyLTljNGYtOGI0YmMwOGE3YWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX100_CR0,5,100,148_.jpg" group-title="VOD | Peliculas",Viejo
+#EXTINF:-1 tvg-id="" tvg-name="Viejo" tvg-logo="" group-title="VOD | Peliculas",Viejo
 https://ia601402.us.archive.org/1/items/17135.2021.95201018.72018.13122/17135.2021.95201018.72018.13122.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="VOD | Peliculas",Finch
+#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="" group-title="VOD | Peliculas",Finch
 https://ia601505.us.archive.org/20/items/691438.2021.8419917.72017.20222/691438.2021.8419917.72017.12121.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="Eternos" tvg-logo="" group-title="VOD | Peliculas",Eternos
 https://ia601509.us.archive.org/27/items/5215191411220.2021.3113.12121/5215191411220.2021.3113.12121.mp4
