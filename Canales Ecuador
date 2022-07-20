@@ -7,7 +7,7 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1460503107.m3u8
 http://45.71.185.142:8500/play/a02g
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
-
+http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/72780
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
 http://45.71.185.142:8500/play/a034
@@ -470,7 +470,7 @@ http://200.24.132.99:8000/play/a029
 http://190.83.119.254:8000/play/a0xt/index.m3u8
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-
+http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/1870
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 
@@ -561,11 +561,11 @@ http://soberon.us:25461/monkeyn/Mon/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://185.79.153.9:6500/play/a00o
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://bulltv.us:2999/hernandez/hernandez/36305
+http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/11779
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://bulltv.us:2999/hernandez/hernandez/20591
-#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| PREMIER LEAGUE 1" tvg-logo="" group-title="TV | Deportes",PREMIER LEAGUE 1
-
+http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/39067
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
+http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/39091
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 
