@@ -345,7 +345,7 @@ http://181.78.22.214:8000/play/a001
 http://190.83.119.254:8000/play/a0wl/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
-
+http://51.222.25.50:25461/44pn3w/bull4pp/585
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://190.83.119.67:8000/play/a0q1/index.m3u8
@@ -421,6 +421,8 @@ http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL TV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL TV ECUADOR
 http://soberon.us:25461/monkeyn/Mon/115
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL Tv ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL Tv ECUADOR
+http://51.222.25.50:25461/44pn3w/bull4pp/115
 
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOL TV HQ" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOL TV
 http://200.41.79.165:8000/play/a05u/index.m3u8
@@ -470,7 +472,7 @@ http://200.24.132.99:8000/play/a029
 http://190.83.119.254:8000/play/a0xt/index.m3u8
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
-http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/1870
+http://51.222.25.50:25461/44pn3w/bull4pp/3390
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 
@@ -522,7 +524,7 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-
+http://51.222.25.50:25461/44pn3w/bull4pp/57
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 http://soberon.us:25461/monkeyn/Mon/464
@@ -545,7 +547,6 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155634
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN +" tvg-logo="" group-title="TV | Deportes",WIN +
 http://200.41.79.165:8000/play/a0i9/index.m3u8
 
-
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://200.24.132.99:8000/play/a024
 
@@ -563,7 +564,7 @@ http://185.79.153.9:6500/play/a00o
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/11779
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/39067
+http://51.222.25.50:25461/44pn3w/bull4pp/3326
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/39091
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
