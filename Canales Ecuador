@@ -16,7 +16,7 @@ http://45.71.185.142:8500/play/a034
 http://45.71.185.142:8500/play/a02d
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
-http://51.222.25.50:25461/44pn3w/bull4pp/516
+http://181.175.41.170:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="https://2.bp.blogspot.com/-CISfBnqs6Xg/WagaxlFK55I/AAAAAAAAbDo/hA1-1GQ_AmQzoqPCcrZSr56lk2KWhj7PACLcBGAs/s400/GamaTV.jpg" group-title="TV | Ecuador",GAMAVISION 
 http://45.71.185.142:8500/play/a027
@@ -150,7 +150,7 @@ http://190.83.119.67:8000/play/a0ny/index.m3u8
 http://168.232.168.242:8089/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO "  tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
-http://45.71.185.142:8500/play/a003
+http://181.65.169.36:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://51.222.25.50:25461/44pn3w/bull4pp/133
 
@@ -416,7 +416,7 @@ http://200.41.79.165:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://45.71.185.142:8500/play/a021
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN + HQ
-
+http://181.65.169.36:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://200.24.132.99:8000/play/a023
@@ -497,7 +497,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://51.222.25.50:25461/44pn3w/bull4pp/3293
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://181.65.169.36:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -532,7 +532,7 @@ http://51.222.25.50:25461/44pn3w/bull4pp/57
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+http://181.65.169.36:8000/play/60187/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 
@@ -550,7 +550,7 @@ http://51.222.25.50:25461/44pn3w/bull4pp/57
 http://200.41.79.165:8000/play/a0i9/index.m3u8
 
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
-
+http://181.65.169.36:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 
