@@ -563,7 +563,7 @@ http://bulltv.us:2999/hernandez/hernandez/36285
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 http://bulltv.us:2999/hernandez/hernandez/20591
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-
+http://84.112.18.204:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.budtvlight.com:25461/bud-876727/a54ead0f5d/11779
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
@@ -780,6 +780,10 @@ https://archive.org/download/mz_20200505/Maze1/MZ.mkv
 https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Correr o morir 3" tvg-logo="" group-title="VOD | Peliculas",Correr o morir 3
 https://archive.org/download/maz-3/MZ3/MAz3.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers 1" tvg-logo="" group-title="VOD | Peliculas",Transformers 1
+http://archive.org/download/west_000/TR4NSF0R.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Todopoderoso 1" tvg-logo="" group-title="VOD | Peliculas",Todopoderoso 1
-https://archive.org/download/aji_20200318/aji/aji.mkv
+http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman lejos de casa" tvg-logo="" group-title="VOD | Peliculas",Spiderman lejos de casa
+http://archive.org/download/sehf_20200103/Sehf.mp4
 
