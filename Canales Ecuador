@@ -30,7 +30,7 @@ http://200.24.132.99:8000/play/a02l
 http://200.24.159.179:8500/play/a026
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canela-tv-1774.jpg" group-title="TV | Ecuador",CANELA TV
-https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w550263461.m3u8
+
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="https://i.pinimg.com/originals/46/1a/84/461a84f42fb05a5779a1c867d64e273b.jpg" group-title="TV | Ecuador",RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
@@ -42,7 +42,7 @@ https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| RECTV "  tvg-logo="" group-title="TV | Ecuador",RECTV 
-https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w1384783399.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w456917692.m3u8
@@ -357,7 +357,7 @@ http://204.199.119.14:1979/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-http://fortv.cc:8080/Ronnie/Ronnie/57638
+
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://160.20.164.171:8001/play/a024/index.m3u8
@@ -484,14 +484,14 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-http://mivacuna-sispro.info:8888/22/22/69889
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
-http://mivacuna-sispro.info:8888/22/22/98670
+
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
@@ -500,7 +500,7 @@ http://mivacuna-sispro.info:8888/22/22/98670
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
-http://mivacuna-sispro.info:8888/22/22/70541
+
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 
@@ -549,7 +549,7 @@ http://181.78.6.57:8000/play/04/index.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
-http://mivacuna-sispro.info:8888/22/22/70398
+
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="https://img1.freepng.es/20180802/cys/kisspng-eurosport-1-logo-lyngsat-television-hot-bird-13b-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b62bece0c4b64.2435550715331980300504.jpg" group-title="TV | Deportes",EUROSPORT 1
 http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105112
@@ -560,11 +560,11 @@ http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105091
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105090
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-http://mivacuna-sispro.info:8888/22/22/98908
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://mivacuna-sispro.info:8888/22/22/98909
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-http://mivacuna-sispro.info:8888/22/22/98910
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 
