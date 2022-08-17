@@ -13,7 +13,7 @@ http://160.20.164.171:8001/play/a07u/index.m3u8
 http://200.24.159.179:8500/play/a034
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/tc-257x200.jpg" group-title="TV | Ecuador",TC 
-http://compitv.info:8080/Ximena/Ximena123/335957
+http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://160.20.164.171:8001/play/a07t/index.m3u8
@@ -39,7 +39,7 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
-
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",TELERAMA
 http://compitv.info:8080/Ximena/Ximena123/335965
@@ -72,6 +72,12 @@ https://rctvhd.net:8081/elsol105fm/index.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| NORTVISION TV "  tvg-logo="" group-title="TV | Ecuador",NORTVISION TV
 https://plataformavideo.com:19360/nortvision/nortvision.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TVN "  tvg-logo="" group-title="TV | Ecuador",TVN
+http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w1757643060.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
