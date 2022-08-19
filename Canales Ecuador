@@ -103,7 +103,7 @@ http://200.24.132.99:8000/play/a020
 
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-http://181.224.161.88:58003/play/a00s/index.m3u8
+http://45.232.208.14:2323/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://160.20.164.171:8001/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
@@ -120,7 +120,7 @@ http://181.65.169.36:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY
 http://181.65.169.36:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-http://181.224.161.88:58003/play/a00v/index.m3u8
+http://200.6.189.26:9000/play/a01e
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://181.65.169.36:8000/play/a00f/index.m3u8
@@ -128,7 +128,7 @@ http://181.65.169.36:8000/play/a00f/index.m3u8
 http://181.65.169.36:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME "  tvg-logo="" group-title="TV | Internacional",HBO XTREME
-http://181.224.161.88:58003/play/a00w/index.m3u8
+http://200.6.189.26:9000/play/a01d
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://181.65.169.36:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
@@ -137,7 +137,7 @@ http://160.20.164.171:8001/play/a08x/index.m3u8
 http://compitv.info:8080/Ximena/Ximena123/334492
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-http://138.36.253.14:8010/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/03/TNT.png" group-title="TV | Internacional",TNT HQ
 http://200.41.79.165:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
@@ -157,6 +157,9 @@ http://160.20.164.171:8001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://160.20.164.171:8001/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
+http://200.24.159.179:8500/play/a05q
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="https://img1.freepng.es/20180607/jaz/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1663cf1.1765839215283731534188.jpg" group-title="TV | Internacional",DISCOVERY CHANNEL 
 http://170.83.242.30:5350/play/a00o
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY  " tvg-logo="https://img1.freepng.es/20180803/qcj/kisspng-discovery-channel-television-channel-discovery-hd-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b6444b871f133.8229586615332978484667.jpg" group-title="TV | Internacional",DISCOVERY 
@@ -173,7 +176,7 @@ http://190.83.119.67:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY INVESTIGATION "  tvg-logo="" group-title="TV | Internacional",DISCOVERY INVESTIGATION
 http://170.83.242.30:5350/play/a017
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY THEATER "  tvg-logo="" group-title="TV | Internacional",DISCOVERY THEATER
-http://181.224.161.88:58003/play/a01j/index.m3u8
+http://200.24.159.179:8500/play/a05t
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY WORLD "  tvg-logo="" group-title="TV | Internacional",DISCOVERY WORLD
 http://181.65.169.36:8000/play/a01a/index.m3u8
 
@@ -190,7 +193,7 @@ http://190.83.119.254:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://190.83.119.254:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/114249
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
 http://alltvpremiere.online:8000/saultv04/715167/58
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
@@ -206,11 +209,11 @@ http://181.65.169.36:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://200.41.79.165:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-http://181.224.161.88:58003/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://181.65.169.36:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
-http://190.83.119.67:8000/play/a0t0/index.m3u8
+http://190.83.119.67:8000/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL PREMIERE "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL PREMIERE
@@ -248,9 +251,9 @@ http://compitv.info:8080/Ximena/Ximena123/340499
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
 http://200.41.79.165:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
-http://181.224.161.88:58003/play/a01n/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
-http://181.224.161.88:58003/play/a02s/index.m3u8
+http://190.83.119.67:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
 
@@ -262,7 +265,7 @@ http://190.83.119.67:8000/play/a0re/index.m3u8
 http://181.78.6.57:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
-
+http://190.83.119.67:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| LATINO MUSIC" tvg-logo="" group-title="TV | Internacional",LATINO MUSIC
 
 
@@ -276,7 +279,7 @@ http://200.41.79.165:8000/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-http://190.83.119.67:8000/play/a0st/index.m3u8
+http://190.83.119.67:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://181.65.169.36:8000/play/a01k/index.m3u8
@@ -298,7 +301,7 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
-http://181.224.161.88:58003/play/a02o/index.m3u8
+http://200.24.159.179:8500/play/a03m
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://200.41.79.165:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
@@ -306,7 +309,7 @@ http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/989
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-http://181.224.161.88:58003/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://181.65.169.36:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
@@ -317,7 +320,7 @@ http://200.24.159.179:8500/play/a02w
 
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
-http://181.224.161.88:58003/play/a02q/index.m3u8
+http://190.83.119.67:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| EXTREMA TV" tvg-logo="" group-title="TV | Internacional",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| MULTI PREMIERE" tvg-logo="" group-title="TV | Internacional",MULTI PREMIERE
@@ -349,7 +352,7 @@ http://190.108.87.149:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR ACCION ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR ACCION ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR DRAMA ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
-
+http://200.24.159.179:8500/play/a04u
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MOVISTAR SERIES 2 ESPAÑA" tvg-logo="" group-title="TV | Internacional",MOVISTAR SERIES 2 ESPAÑA
@@ -361,7 +364,7 @@ http://200.24.159.179:8500/play/a05v
 http://200.41.79.165:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
-http://181.224.161.88:58003/play/a01g/index.m3u8
+http://45.232.208.14:5938/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
@@ -451,9 +454,9 @@ http://200.24.159.179:8500/play/a04w
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
-http://45.71.185.142:8500/play/a03b
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/114394
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
 http://alltvpremiere.online:8000/saultv04/715167/2868
 
@@ -473,7 +476,7 @@ http://200.41.79.165:8000/play/a059/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
-http://138.36.253.14:8010/play/a01p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 
@@ -498,7 +501,7 @@ http://8.242.187.236:5007/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://200.24.159.179:8500/play/a006
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://compitv.info:8080/Ximena/Ximena123/340175
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://45.224.23.212:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
@@ -507,7 +510,7 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/114865
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://compitv.info:8080/Ximena/Ximena123/340179
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ECU" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ECU
@@ -526,14 +529,14 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/114867
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
-http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://200.24.159.179:8500/play/a02d
@@ -580,7 +583,7 @@ http://160.20.164.171:8001/play/a051/index.m3u8
 http://alltvpremiere.online:8000/saultv04/715167/6852
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="https://img1.freepng.es/20180802/cys/kisspng-eurosport-1-logo-lyngsat-television-hot-bird-13b-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b62bece0c4b64.2435550715331980300504.jpg" group-title="TV | Deportes",EUROSPORT 1
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105112
+
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105111
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
@@ -592,7 +595,7 @@ http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/211
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/70795
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-
+http://mag.you24.online:8080/order18166/4mlgz8fpln/13549
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 
