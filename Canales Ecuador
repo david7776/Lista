@@ -13,7 +13,7 @@ http://160.20.164.171:8001/play/a07u/index.m3u8
 http://200.24.159.179:8500/play/a034
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/tc-257x200.jpg" group-title="TV | Ecuador",TC 
-http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+http://tv.nousiptv.com:8080/joaco/joaco/7533
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://160.20.164.171:8001/play/a07t/index.m3u8
@@ -62,7 +62,7 @@ https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SOL TV
-
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",PARAISO TV DIGITAL
 https://cloudvideo.servers10.com:8081/8106/index.m3u8
@@ -78,6 +78,9 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TVN "  tvg-logo="" group-title="TV | Ecuador",TVN
 http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w1757643060.m3u8
+
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TV LEGISLATIVA "  tvg-logo="" group-title="TV | Ecuador",TV LEGISLATIVA
+http://181.198.32.153:8080/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="history.ec" tvg-name="INT| HISTORY "  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY 
@@ -100,10 +103,10 @@ http://190.83.119.67:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
 http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/14
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
-
+http://tv.nousiptv.com:8080/joaco/joaco/4041
 
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
-
+http://tv.nousiptv.com:8080/joaco/joaco/4112
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO LAT"  tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
 http://160.20.164.171:8001/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
@@ -137,7 +140,7 @@ http://160.20.164.171:8001/play/a08x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT 
-
+http://tv.nousiptv.com:8080/joaco/joaco/4103
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/03/TNT.png" group-title="TV | Internacional",TNT HQ
 http://200.41.79.165:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
@@ -202,7 +205,7 @@ http://160.20.164.171:8001/play/a07e/index.m3u8
 http://160.20.164.171:8001/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
-http://200.41.79.165:8000/play/a09a/index.m3u8
+http://tv.nousiptv.com:8080/joaco/joaco/3228
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
 http://181.65.169.36:8000/play/a03d/index.m3u8
 
@@ -244,7 +247,7 @@ http://200.41.79.165:8000/play/a052/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
-
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
 
 
@@ -364,15 +367,15 @@ http://200.24.159.179:8500/play/a05v
 http://200.41.79.165:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
-
+http://tv.nousiptv.com:8080/joaco/joaco/3071
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
-
+http://tv.nousiptv.com:8080/joaco/joaco/4140
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7jy0LCWnkEY5Lz8eCYtdIqqn8xZvT8sBlE-z_TqsWzySx/ts
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://160.20.164.171:8001/play/a024/index.m3u8
@@ -380,7 +383,7 @@ http://160.20.164.171:8001/play/a024/index.m3u8
 http://160.20.164.171:8001/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1597.m3u8
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
 http://190.83.119.67:8000/play/a0s3/index.m3u8
@@ -442,9 +445,11 @@ http://181.78.6.57:8000/play/a036/index.m3u8
 http://181.65.169.36:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN + HQ
 http://200.24.159.179:8500/play/a010
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
+http://tv.nousiptv.com:8080/joaco/joaco/8330
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
-
+http://tv.nousiptv.com:8080/joaco/joaco/1123136
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
 http://160.20.164.171:8001/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
@@ -454,17 +459,17 @@ http://200.24.159.179:8500/play/a04w
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
-
+http://tv.nousiptv.com:8080/joaco/joaco/53491
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
-http://tv.nousiptv.com:8080/joaco/joaco/53491
+http://tv.nousiptv.com:8080/joaco/joaco/25753
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
-
+http://tv.nousiptv.com:8080/joaco/joaco/3586
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 http://tv.factoryiptv.com:80/LMLuciano/acj7ozevtk8/36934
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
@@ -473,7 +478,7 @@ http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/94714
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 http://200.41.79.165:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
-
+http://tv.nousiptv.com:8080/joaco/joaco/1129865
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 
@@ -482,7 +487,7 @@ http://200.41.79.165:8000/play/a059/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-
+http://tv.nousiptv.com:8080/joaco/joaco/1090739
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 " tvg-logo="" group-title="TV | Deportes",FOX SPORT 1
 http://45.224.23.212:8000/play/a0pi/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
@@ -536,7 +541,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/27879
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
-
+http://tv.nousiptv.com:8080/joaco/joaco/2962
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://200.24.159.179:8500/play/a02d
@@ -544,7 +549,7 @@ http://200.24.159.179:8500/play/a02d
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| BARCA TV" tvg-logo="" group-title="TV | Deportes",BARCA TV
-
+http://tv.nousiptv.com:8080/joaco/joaco/3104
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/920
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
@@ -558,7 +563,7 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/678
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
-
+http://tv.nousiptv.com:8080/joaco/joaco/3606
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
 
@@ -573,7 +578,7 @@ http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/678
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 BOL
-
+http://tv.nousiptv.com:8080/joaco/joaco/54736
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN +" tvg-logo="" group-title="TV | Deportes",WIN +
 http://181.78.6.57:8000/play/04/index.m3u8
@@ -589,13 +594,13 @@ http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105111
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105091
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105090
+http://tv.nousiptv.com:8080/joaco/joaco/3094
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/211
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/70795
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48807
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 
