@@ -147,7 +147,7 @@ http://200.41.79.165:8000/play/a04a/index.m3u8
 http://200.24.159.179:8500/play/a00g
 
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="TV | Internacional",TNT SERIES
-http://190.83.119.67:8000/play/a0ta/index.m3u8
+http://190.61.99.191:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://160.20.164.171:8001/play/a02c/index.m3u8
@@ -259,7 +259,7 @@ http://200.41.79.165:8000/play/a042/index.m3u8
 http://190.83.119.67:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
-
+http://181.209.173.10:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CLARO MUSICA" tvg-logo="" group-title="TV | Internacional",CLARO MUSICA
 http://190.83.119.67:8000/play/a0re/index.m3u8
@@ -268,7 +268,7 @@ http://190.83.119.67:8000/play/a0re/index.m3u8
 http://181.78.6.57:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
-http://190.83.119.67:8000/play/a0rg/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| LATINO MUSIC" tvg-logo="" group-title="TV | Internacional",LATINO MUSIC
 
 
@@ -344,9 +344,9 @@ http://200.24.159.179:8500/play/a03h
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO CINEMA" tvg-logo="" group-title="TV | Internacional",CLARO CINEMA
 http://190.108.87.149:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE ACCION" tvg-logo="" group-title="TV | Internacional",CINE ACCION
-
-#EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE MARVEL" tvg-logo="" group-title="TV | Internacional",CINE MARVEL
-
+http://181.176.148.142:8000/play/a023
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
+http://181.176.148.142:8000/play/a025
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="https://img1.freepng.es/20180702/pfc/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac39f5e85.1062681315305304996528.jpg" group-title="TV | Internacional",AXN ESPAÑA
 
@@ -430,9 +430,9 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL HQ" tvg-logo="" group-title="TV | Deportes",ESPN COL
-http://8.242.187.236:5007/play/a068/index.m3u8
+http://200.6.189.26:9000/play/a02h
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN BRASIL" tvg-logo="" group-title="TV | Deportes",ESPN BRASIL
-http://tv.factoryiptv.com:80/LMLuciano/acj7ozevtk8/50736
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
 http://200.41.79.165:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
@@ -461,7 +461,7 @@ http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://tv.nousiptv.com:8080/joaco/joaco/53491
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
-
+http://190.108.85.114:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
 http://tv.nousiptv.com:8080/joaco/joaco/25753
 
@@ -471,7 +471,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/25753
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
 http://tv.nousiptv.com:8080/joaco/joaco/3586
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
-http://tv.factoryiptv.com:80/LMLuciano/acj7ozevtk8/36934
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
 http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/94714
 
@@ -501,7 +501,7 @@ http://160.20.164.171:8001/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://160.20.164.171:8001/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
-http://8.242.187.236:5007/play/a03g/index.m3u8
+http://190.108.85.114:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://200.24.159.179:8500/play/a006
@@ -566,7 +566,7 @@ http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/678
 http://tv.nousiptv.com:8080/joaco/joaco/3606
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+http://190.108.94.229:8000/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 
@@ -578,7 +578,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3606
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 BOL
-http://tv.nousiptv.com:8080/joaco/joaco/54736
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN +" tvg-logo="" group-title="TV | Deportes",WIN +
 http://181.78.6.57:8000/play/04/index.m3u8
