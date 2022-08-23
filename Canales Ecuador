@@ -347,7 +347,8 @@ http://190.108.87.149:8000/play/a04g/index.m3u8
 http://181.176.148.142:8000/play/a023
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
 http://181.176.148.142:8000/play/a025
-
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE FAMILIAR" tvg-logo="" group-title="TV | Internacional",CINE FAMILIAR
+http://45.175.61.242:4000/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="https://img1.freepng.es/20180702/pfc/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac39f5e85.1062681315305304996528.jpg" group-title="TV | Internacional",AXN ESPAÑA
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CALLE 13 ESPAÑA" tvg-logo="" group-title="TV | Internacional",CALLE 13 ESPAÑA
@@ -371,7 +372,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3071
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
 http://tv.nousiptv.com:8080/joaco/joaco/4140
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
-
+http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/1044
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
@@ -411,7 +412,7 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://190.83.119.67:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMS TV" tvg-logo="" group-title="TV | Infantiles",DREAMS TV
-
+http://45.181.122.100:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FAMILIA TV" tvg-logo="" group-title="TV | Infantiles",FAMILIA TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
@@ -429,10 +430,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://160.20.164.171:8001/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL HQ" tvg-logo="" group-title="TV | Deportes",ESPN COL
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL" tvg-logo="" group-title="TV | Deportes",ESPN COL
 http://200.6.189.26:9000/play/a02h
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN BRASIL" tvg-logo="" group-title="TV | Deportes",ESPN BRASIL
-
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
+http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/2
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
 http://200.41.79.165:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
@@ -532,13 +533,16 @@ http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8db
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://tv.nousiptv.com:8080/joaco/joaco/53489
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
-
+http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/114353
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://tv.nousiptv.com:8080/joaco/joaco/27879
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
+
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
+http://gratuita.mrzutv.net:25461/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/kkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkqXAPLL8dbtkkq/1081
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| XTREME SPORT" tvg-logo="" group-title="TV | Deportes",XTREME SPORT
 http://tv.nousiptv.com:8080/joaco/joaco/2962
