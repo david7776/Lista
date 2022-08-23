@@ -620,11 +620,24 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E01
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E02
-
-#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | DRAMA",El juego del calamar S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E01
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E02
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E03
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E04
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E05
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E06
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E07
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E08
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
+http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E01
 
@@ -815,5 +828,8 @@ http://51.81.208.167/movies/Underworld_Awakening_(2012).mp4
 http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
 http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+http://174.128.237.99:23818/vod/23E285A3B9E34CE28E26301AFA5DB9E2_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D174.128.237.99:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DAEasV8dp0qHU_JxVuNdtv4ikj%26app_version%3D40100%26client_ip%3D181.112.52.30%26dev_id%3D82b22e5f9c80b0333492e3cd664f354a%26auth_id%3D82338462_com.mobile.telelatinomobile%26user_id%3D82338462%26expired%3D1661290354%26token%3D1ddf39aa4e7e3569d3c5bfa4b67545be&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D23E285A3B9E34CE28E26301AFA5DB9E2%26expired%3D1661290354%26token%3Dd0adf84a1a876a15979d1bc1759c2eae&cache_path=
+
 
 
