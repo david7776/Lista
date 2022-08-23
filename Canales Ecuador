@@ -758,9 +758,9 @@ https://ia601509.us.archive.org/27/items/5215191411220.2021.3113.12121/521519141
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
-
+http://51.81.208.167/movies/Batman_El_Caballero_de_la_Noche_(2008).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520el%2520Caballero%2520de%2520la%2520Noche%2520Asciende%2520-%25202012.mp4
+http://51.81.208.167/movies/Batman_El_caballero_de_la_noche_asciende_(2012).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 1" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 1
 http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 2" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 2
@@ -789,8 +789,31 @@ http://64.31.17.82:23818/vod/54244E1B74F5489D8F02130E8AC27C01_media.mp4?content_
 http://64.31.17.82:23818/vod/03A673313E77495A9CA2D0ECA446CB24_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.17.82:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DjCG9572plCCz_6acRqr1libiv%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D82320062_com.mobile.telelatinomobile%26user_id%3D82320062%26expired%3D1661238662%26token%3Db85e14fcfe36ee7b1a03d824f956cc30&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D03A673313E77495A9CA2D0ECA446CB24%26expired%3D1661238662%26token%3D9493c135a523bed5a60e0b592b547efa&cache_path=/data6/vod
 #EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
 http://174.128.237.99:23818/vod/CB44E17A48654C899341E57FB93C235F_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D174.128.237.99:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DjCG9572plCCz_B251jE4zMDKk%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D82320062_com.mobile.telelatinomobile%26user_id%3D82320062%26expired%3D1661238662%26token%3D177f49b1a20e6c3a51e82671d7609c5b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3DCB44E17A48654C899341E57FB93C235F%26expired%3D1661238662%26token%3D7ddbed1df6b7e6eb2619a705309eac77&cache_path=
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 1" tvg-logo="" group-title="VOD | Peliculas",El transportador 1
+http://51.81.208.167/movies/El_Transportador_(2002).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 2" tvg-logo="" group-title="VOD | Peliculas",El transportador 2
+http://51.81.208.167/movies/El_Transportador_2_(2005).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
+http://51.81.208.167/movies/El_Transportador_3_(2008).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
+http://51.81.208.167/movies/El_Transportador_4_(2015).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
+http://51.81.208.167/movies/Escape_plan_(2013).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
+http://51.81.208.167/movies/Estaci%c3%b3n_Zombie_(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
+http://51.81.208.167/movies/Guerra_Mundial_Z_(2013).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte_parte 2" tvg-logo="" group-title="VOD | Peliculas",Harry Potter y las reliquias de la muerte_parte 2
+http://51.81.208.167/movies/Harry_Potter_And_The_Deathly_Hallows_Part_2_(2011).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
+http://51.81.208.167/movies/Underworld_(2003).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 2" tvg-logo="" group-title="VOD | Peliculas",Inframundo 2
+http://51.81.208.167/movies/Underworld_Evolution_(2006).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3" tvg-logo="" group-title="VOD | Peliculas",Inframundo 3
+http://51.81.208.167/movies/Underworld_Awakening_(2012).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
+http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
+http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
 
 
