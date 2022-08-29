@@ -59,7 +59,7 @@ https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w456917692.m3u8
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",WUAN TV
-https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SOL TV
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
@@ -371,14 +371,14 @@ http://tv.nousiptv.com:8080/joaco/joaco/4140
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7jy0LCWnkEY5Lz8eCYtdIqqn8xZvT8sBlE-z_TqsWzySx/ts
+
 
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://160.20.164.171:8001/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
 http://190.108.94.229:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
-http://168.228.49.252:8881/play/a05p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
 http://190.83.119.67:8000/play/a0s3/index.m3u8
@@ -502,7 +502,7 @@ http://200.24.159.179:8500/play/a006
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-http://45.224.23.212:8000/play/a052/index.m3u8
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
@@ -553,7 +553,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3146
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
@@ -599,7 +599,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3093
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48807
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
-http://190.83.119.67:8000/play/a0rd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| CANAL DE TENIS" tvg-logo="" group-title="TV | Deportes",CANAL DE TENIS
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
@@ -711,8 +711,6 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/good%20on%20paper%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor garantizado" tvg-logo="" group-title="VOD | Peliculas",Amor garantizado
 http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia" tvg-logo="" group-title="VOD | Peliculas",Guardianes de la galaxia
-https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-id="" tvg-name="Prometeus" tvg-logo="" group-title="VOD | Peliculas",Prometeus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="" group-title="VOD | Peliculas",Deadpool
@@ -757,12 +755,6 @@ http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Megalod%C3%B3n%2520-%25202018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viejo" tvg-logo="" group-title="VOD | Peliculas",Viejo
-https://ia601402.us.archive.org/1/items/17135.2021.95201018.72018.13122/17135.2021.95201018.72018.13122.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="" group-title="VOD | Peliculas",Finch
-https://ia601505.us.archive.org/20/items/691438.2021.8419917.72017.20222/691438.2021.8419917.72017.12121.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Eternos" tvg-logo="" group-title="VOD | Peliculas",Eternos
-https://ia601509.us.archive.org/27/items/5215191411220.2021.3113.12121/5215191411220.2021.3113.12121.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
