@@ -181,7 +181,7 @@ http://200.24.159.179:8500/play/a04o
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://190.61.41.182:8000/play/a37j/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56491
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 
 
@@ -241,7 +241,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56541
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 http://190.108.85.114:8000/play/a0el/index.m3u8
 
@@ -277,7 +277,7 @@ http://200.41.79.165:8000/play/a067/index.m3u8
 http://190.83.119.67:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
-
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56515
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
 http://177.234.254.38:8000/play/a087/index.m3u8
 
@@ -427,7 +427,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
+
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 http://200.24.159.179:8500/play/a069
@@ -451,6 +451,8 @@ http://190.61.41.182:8000/play/a374/index.m3u8
 http://200.24.159.179:8500/play/a06j
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://tv.nousiptv.com:8080/joaco/joaco/8330
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/147617
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://tv.nousiptv.com:8080/joaco/joaco/1123136
@@ -530,7 +532,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/7863
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
-
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/147610
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 
