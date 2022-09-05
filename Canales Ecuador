@@ -10,7 +10,7 @@ http://200.24.159.179:8500/play/a02g
 http://160.20.164.171:8001/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
-http://200.24.132.99:8000/play/a004
+http://tv.nousiptv.com:8080/joaco/joaco/3430
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/tc-257x200.jpg" group-title="TV | Ecuador",TC 
 http://tv.nousiptv.com:8080/joaco/joaco/7533
@@ -24,7 +24,7 @@ http://200.24.159.179:8500/play/a027
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://200.24.159.179:8500/play/a02h
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://200.24.132.99:8000/play/a006
+http://tv.nousiptv.com:8080/joaco/joaco/53459
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://200.24.159.179:8500/play/a026
@@ -147,7 +147,7 @@ http://200.24.159.179:8500/play/a067
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
 http://160.20.164.171:8001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| CINECANAL HD" tvg-logo="" group-title="TV | Internacional",CINECANAL HD
-http://200.24.132.99:8000/play/a01f
+http://tv.nousiptv.com:8080/joaco/joaco/3250
 
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="TV | Internacional",ANIMAL PLANET 
 http://160.20.164.171:8001/play/a01r/index.m3u8
@@ -243,7 +243,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56541
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
-http://190.108.85.114:8000/play/a0el/index.m3u8
+http://190.83.119.67:8000/play/a0pu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
@@ -277,7 +277,7 @@ http://200.41.79.165:8000/play/a067/index.m3u8
 http://190.83.119.67:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56515
+http://186.148.188.15:8900/play/a006
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SPACE" tvg-logo="" group-title="TV | Internacional",SPACE
 http://177.234.254.38:8000/play/a087/index.m3u8
 
@@ -506,7 +506,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/1126417
 #EXTINF:-1 tvg-id="foxsport.ec" tvg-name="DEP| FOX SPORT 3 ARG" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
 http://160.20.164.171:8001/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 3 HD" tvg-logo="" group-title="TV | Deportes",FOX SPORT 3 HD
-http://190.108.85.114:8000/play/a0fl/index.m3u8
+http://tv.nousiptv.com:8080/joaco/joaco/33475
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://200.24.159.179:8500/play/a006
@@ -522,7 +522,7 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://tv.nousiptv.com:8080/joaco/joaco/53462
+
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ECU" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ECU
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
@@ -600,9 +600,9 @@ http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
 http://tv.nousiptv.com:8080/joaco/joaco/41816
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105111
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-http://revteam1.offshorerev.cc:80/SPIDER_C5lwMr/yfo9C6BxSH/105091
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://tv.nousiptv.com:8080/joaco/joaco/3094
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
@@ -753,7 +753,7 @@ http://vod.tuxchannel.tv/peliculas/720/memory%202022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
 https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/16/18/2106533.jpg" group-title="VOD | Peliculas",La ciudad perdida
-http://vod.tuxchannel.tv/peliculas/720/the%20lost%20city%202022.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
 https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fuera del mapa" tvg-logo="https://i.blogs.es/c148a3/uncharted-cartel/840_560.jpeg" group-title="VOD | Peliculas",Fuera del mapa
