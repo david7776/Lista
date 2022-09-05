@@ -30,7 +30,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/53459
 http://200.24.159.179:8500/play/a026
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canela-tv-1774.jpg" group-title="TV | Ecuador",CANELA TV
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35788
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| RTU " tvg-logo="https://i.pinimg.com/originals/46/1a/84/461a84f42fb05a5779a1c867d64e273b.jpg" group-title="TV | Ecuador",RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
@@ -45,7 +45,7 @@ https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| RECTV "  tvg-logo="" group-title="TV | Ecuador",RECTV 
-
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| GENESIS TV "  tvg-logo="" group-title="TV | Ecuador",GENESIS TV 
 
 
@@ -467,7 +467,7 @@ http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://tv.nousiptv.com:8080/joaco/joaco/53491
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
 http://tv.nousiptv.com:8080/joaco/joaco/25753
 
@@ -511,7 +511,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/33475
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://200.24.159.179:8500/play/a006
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72225
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
@@ -535,7 +535,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/147610
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -576,7 +576,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3146
 http://tv.nousiptv.com:8080/joaco/joaco/3606
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/69145
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 
@@ -828,8 +828,8 @@ http://51.81.208.167/movies/Underworld_Awakening_(2012).mp4
 http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
 http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
-
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER: HEROES" tvg-logo="" group-title="VOD | Peliculas",DRAGON BALL SUPER: HEROES
+http://tv.nousiptv.com:8080/movie/joaco/joaco/1136640.mp4
 
 
 
