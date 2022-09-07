@@ -74,7 +74,7 @@ https://rctvhd.net:8081/elsol105fm/index.m3u8
 https://plataformavideo.com:19360/nortvision/nortvision.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
-
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TVN "  tvg-logo="" group-title="TV | Ecuador",TVN
 http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w1757643060.m3u8
@@ -190,7 +190,7 @@ http://190.83.119.254:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://190.83.119.254:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
-
+http://181.39.202.98:8843/play/a134/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/45786
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER
@@ -241,7 +241,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/56541
+http://138.186.20.245:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 http://190.83.119.67:8000/play/a0pu/index.m3u8
 
@@ -340,6 +340,13 @@ http://190.108.83.142:8000/play/a005/index.m3u8
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLUB SERIES" tvg-logo="" group-title="TV | Internacional",CLUB SERIES
 http://181.176.148.142:8000/play/a02y
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIZ ACCION" tvg-logo="" group-title="TV | Internacional",VIWIX ACCION
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIX SERIE" tvg-logo="" group-title="TV | Internacional",VIWIX SERIE
+https://cloudvideo.servers10.com:8081/8208/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIX TERROR" tvg-logo="" group-title="TV | Internacional",VIWIX TERROR
+https://cloudvideo.servers10.com:8081/8206/index.m3u8
+
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png" group-title="TV | Internacional",CLARO TV
 http://200.24.159.179:8500/play/a03h
