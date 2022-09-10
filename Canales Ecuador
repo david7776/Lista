@@ -130,7 +130,7 @@ http://45.181.122.100:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://45.5.149.104:8000/play/a1al/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-
+http://201.234.194.58:6020/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 
 
@@ -445,14 +445,18 @@ http://200.24.159.179:8500/play/a069
 http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL" tvg-logo="" group-title="TV | Deportes",ESPN COL
 http://200.6.189.26:9000/play/a02h
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
+http://45.160.15.130:8111/play/212
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 http://tv.nousiptv.com:8080/joaco/joaco/3178
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 " tvg-logo="" group-title="TV | Deportes",ESPN 2 
 http://200.41.79.165:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN 2 ARG
 http://160.20.164.171:8001/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
+http://45.160.15.130:8111/play/214
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
-http://200.41.79.165:8000/play/a04v/index.m3u8
+http://45.160.15.130:8111/play/216
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://181.78.6.57:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
@@ -521,7 +525,7 @@ http://168.194.171.33:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL " tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL 
 http://200.24.159.179:8500/play/a006
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72225
+http://201.234.194.58:6020/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pHUrvzveifVGu6057pNDwy/ts
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
@@ -580,7 +584,7 @@ http://154.54.220.247:51323/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-
+http://45.135.194.113:8004/play/a024
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PERU" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",MOVISTAR PERU 
 http://tv.nousiptv.com:8080/joaco/joaco/3606
