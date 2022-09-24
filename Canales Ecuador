@@ -102,7 +102,7 @@ http://200.41.79.165:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A&E HD"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
 http://170.83.242.30:5350/play/a00y
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
-http://179.63.4.128:8000/play/a01h/index.m3u8
+http://201.108.244.159:4000/play/a00g
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
 http://170.79.235.29:8000/play/174
@@ -124,7 +124,7 @@ http://200.24.159.179:8500/play/a04x
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY
 http://200.24.159.179:8500/play/a012
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-http://200.6.189.26:9000/play/a01e
+http://201.108.244.159:4000/play/a08j
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
@@ -189,7 +189,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/133
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/134
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN 
-http://190.4.0.202:8000/play/a02g/index.m3u8
+http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRfF_CZj51Thdwd72L5d7C5/ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
@@ -204,7 +204,7 @@ http://160.20.164.171:8001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_zJajWV4d95GTpCtbPKocdy/ts
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER " tvg-logo="" group-title="TV | Internacional",WARNER 
-http://200.6.189.26:9000/play/a01o
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_zJajWV4d95GTpCtbPKocdy/ts
 
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://200.41.79.165:8000/play/a0ht/index.m3u8
@@ -303,9 +303,9 @@ http://200.24.159.179:8500/play/a03m
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TLC" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
 http://200.41.79.165:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| TCM" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
-http://200.6.189.26:9000/play/a00z
+http://186.28.229.209:25000/play/a00u
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
-http://200.6.189.26:9000/play/a017
+http://186.28.229.209:25000/play/a09d
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
 
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
@@ -423,7 +423,7 @@ http://181.176.148.142:8000/play/a021
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
-http://45.160.15.1:8111/play/a0on
+http://190.60.37.70:8015/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| LATINO KIDS" tvg-logo="" group-title="TV | Infantiles",LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
@@ -495,7 +495,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
-http://45.160.15.1:8111/play/233
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
@@ -574,7 +574,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://200.24.159.179:8500/play/a02d
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CARACOL SPORT" tvg-logo="" group-title="TV | Deportes",CARACOL SPORT
-http://200.6.189.26:9000/play/a008
+
 
 #EXTINF:-1 tvg-id="real.ec" tvg-name="DEP| REAL MADRID TV " tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -793,9 +793,9 @@ http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
-http://51.81.208.167/movies/Batman_El_Caballero_de_la_Noche_(2008).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
-http://51.81.208.167/movies/Batman_El_caballero_de_la_noche_asciende_(2012).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 1" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 1
 http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 2" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 2
@@ -823,33 +823,33 @@ http://84.16.229.242:91/Uploads/Ciencia-Ficcion/Depredador-La-Presa-2022-lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Van Helsin:cazador de vampiros" tvg-logo="" group-title="VOD | Peliculas",Van Helsin:cazador de vampiros
 
 #EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
-
+http://vod.tuxchannel.tv/peliculas/720/titanic.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 1" tvg-logo="" group-title="VOD | Peliculas",El transportador 1
-http://51.81.208.167/movies/El_Transportador_(2002).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 2" tvg-logo="" group-title="VOD | Peliculas",El transportador 2
-http://51.81.208.167/movies/El_Transportador_2_(2005).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 3" tvg-logo="" group-title="VOD | Peliculas",El transportador 3
-http://51.81.208.167/movies/El_Transportador_3_(2008).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="El transportador 4" tvg-logo="" group-title="VOD | Peliculas",El transportador 4
-http://51.81.208.167/movies/El_Transportador_4_(2015).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Plan de escape" tvg-logo="" group-title="VOD | Peliculas",Plan de escape
-http://51.81.208.167/movies/Escape_plan_(2013).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Estacion zombie" tvg-logo="" group-title="VOD | Peliculas",Estacion zombie
-http://51.81.208.167/movies/Estaci%c3%b3n_Zombie_(2016).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z" tvg-logo="" group-title="VOD | Peliculas",Guerra mundial Z
-http://51.81.208.167/movies/Guerra_Mundial_Z_(2013).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte_parte 2" tvg-logo="" group-title="VOD | Peliculas",Harry Potter y las reliquias de la muerte_parte 2
-http://51.81.208.167/movies/Harry_Potter_And_The_Deathly_Hallows_Part_2_(2011).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 1" tvg-logo="" group-title="VOD | Peliculas",Inframundo 1
-http://51.81.208.167/movies/Underworld_(2003).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 2" tvg-logo="" group-title="VOD | Peliculas",Inframundo 2
-http://51.81.208.167/movies/Underworld_Evolution_(2006).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 3" tvg-logo="" group-title="VOD | Peliculas",Inframundo 3
-http://51.81.208.167/movies/Underworld_Awakening_(2012).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
-http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
-http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
+https://archive.org/download/01_20220718_20220718_2113/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER: HEROES" tvg-logo="" group-title="VOD | Peliculas",DRAGON BALL SUPER: HEROES
 
 
