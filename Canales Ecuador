@@ -265,8 +265,8 @@ http://181.176.148.142:8000/play/a02o
 http://181.78.6.57:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| HTV" tvg-logo="" group-title="TV | Internacional",HTV
 http://186.189.222.205:8001/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| LATINO MUSIC" tvg-logo="" group-title="TV | Internacional",LATINO MUSIC
-
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| METAL TV" tvg-logo="" group-title="TV | Internacional",METAL TV
+https://v2.catcast.tv/content/33816/index.m3u8
 
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
@@ -630,11 +630,11 @@ http://154.54.220.247:51323/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
-
+http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48807
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://177.234.254.38:8000/play/a015/index.m3u8
 
