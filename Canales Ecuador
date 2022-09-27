@@ -269,7 +269,8 @@ http://181.78.6.57:8000/play/a008/index.m3u8
 http://186.189.222.205:8001/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| METAL TV" tvg-logo="" group-title="TV | Internacional",METAL TV
 https://v2.catcast.tv/content/33816/index.m3u8
-
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VALLENATO TV" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pasiones.ec" tvg-name="INT| PASIONES HQ" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
 http://177.234.254.38:8000/play/a01p/index.m3u8
