@@ -635,9 +635,9 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-
+http://AkUFuDPxCw0eVOJboBz3vK.green.onerunthisway.me/live/sun.php?z=997&u=0pDMGi0ZR2&s=6205707607&id=26626&t=live&f=ts
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://177.234.254.38:8000/play/a015/index.m3u8
 
