@@ -544,7 +544,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72227
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/4119
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 
@@ -676,10 +676,10 @@ http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
 http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="S05 E01" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E01
-
-#EXTINF:-1 tvg-id="" tvg-name="S05 E02" tvg-logo="" group-title="SERIES | DRAMA",The good doctor S05 E02
-
+#EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
+http://tele.premiumstore.biz:8080/series/tickplay2020/vweytvfy2u/113135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
+http://tele.premiumstore.biz:8080/series/tickplay2020/vweytvfy2u/114828.mkv
 
 
 
@@ -699,16 +699,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf8886100076698
 http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZvNUKGz1zBNPry_sgjwho6/ts
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 
-#EXTINF:-1 tvg-id="" tvg-name="CANTIFLAS" tvg-logo="" group-title="24/7 | 24/7",CANTIFLAS
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS 3 CHIFLADOS" tvg-logo="" group-title="24/7 | 24/7",LOS 3 CHIFLADOS
-
+#EXTINF:-1 tvg-id="" tvg-name="REINO INFANTIL" tvg-logo="" group-title="24/7 | 24/7",REINO INFANTIL
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/72954
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy neutron" tvg-logo="" group-title="24/7 | 24/7",Jimmy neutron
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/6440
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
 http://bgapp.live/play/viix-917.php?c=341&pid=341&token=blackgghooooostt
 #EXTINF:-1 tvg-id="" tvg-name="REBELDE" tvg-logo="" group-title="24/7 | 24/7",REBELDE
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL
-
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/34128
 #EXTINF:-1 tvg-id="" tvg-name="HAPPY MADISON" tvg-logo="" group-title="24/7 | 24/7",HAPPY MADISON
 
 #EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER" tvg-logo="" group-title="24/7 | 24/7",HARRY POTTER
