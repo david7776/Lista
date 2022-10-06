@@ -45,7 +45,7 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
-https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",TELERAMA
 
@@ -425,7 +425,7 @@ http://200.41.79.165:8000/play/a049/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
-http://181.176.148.142:8000/play/a021
+
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 
@@ -445,7 +445,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3402
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3516
+
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -492,11 +492,11 @@ http://200.24.159.179:8500/play/a04w
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV " tvg-logo="" group-title="TV | Deportes",GOLTV 
 http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
-http://168.194.171.33:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
-
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/283
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/710
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
@@ -509,9 +509,9 @@ http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/98050
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
-http://200.41.79.165:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
 
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/65381
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
 http://45.160.12.253:8000/play/235
@@ -549,7 +549,7 @@ http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/4119
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72239
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45710
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
@@ -559,7 +559,7 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3281
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
-
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/66275
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
@@ -593,7 +593,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
 http://190.108.93.148:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://154.54.220.247:51323/play/a032/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3321
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
@@ -605,7 +605,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3393
 
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-http://177.234.254.38:8000/play/a06i/index.m3u8
+
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 
@@ -631,13 +631,13 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3480
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3481
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-http://154.54.220.247:51323/play/a03d/index.m3u8
+
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-http://AkUFuDPxCw0eVOJboBz3vK.green.onerunthisway.me/live/sun.php?z=997&u=0pDMGi0ZR2&s=6205707607&id=26626&t=live&f=ts
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
@@ -687,7 +687,7 @@ http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E05
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder.05.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E06
-http://69.162.72.86:23818/vod/2FA46949D40D4C31878763E0C643A89D_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.72.86:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DTo34eELu8a3O_6Nb3ldy1Bnk%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D82320062_com.mobile.telelatinomobile%26user_id%3D82320062%26expired%3D1664958390%26token%3D3c248ba37b7b2b9c36da340a6933d1b4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D2FA46949D40D4C31878763E0C643A89D%26expired%3D1664958390%26token%3D1c93c4fe6665ba25b0b3398a8553efb7&cache_path=
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4
@@ -727,6 +727,21 @@ https://archive.org/download/capitulo-04.3gp_202203/capitulo%2010.mp4
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E12" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E12
 https://archive.org/download/capitulo-04.3gp_202203/capitulo%2012.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E01
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x01.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E02
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x02.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E03
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x03.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E04
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x04.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E05
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x05.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E06
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x06.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E07
+http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x07.lati.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
@@ -840,15 +855,15 @@ http://vod.tuxchannel.tv/peliculas/720/joker%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sextillizos" tvg-logo="" group-title="VOD | Peliculas",Sextillizos
 http://vod.tuxchannel.tv/peliculas/720/sextuplets%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon" tvg-logo="" group-title="VOD | Peliculas",Megalodon
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Megalod%C3%B3n%2520-%25202018.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2" tvg-logo="" group-title="VOD | Peliculas",Venom 2
 http://vod.tuxchannel.tv/peliculas/720/venom%20let%20there%20be%20carnage%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Space jam: nueva leyenda" tvg-logo="" group-title="VOD | Peliculas",Space jam: nueva leyenda
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman:el caballero de la noche" tvg-logo="" group-title="VOD | Peliculas",Batman:el caballero de la noche
-
+http://51.81.208.167/movies/Batman_El_Caballero_de_la_Noche_(2008).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batman asciende" tvg-logo="" group-title="VOD | Peliculas",Batman asciende
-
+http://51.81.208.167/movies/Batman_El_caballero_de_la_noche_asciende_(2012).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 1" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 1
 http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Que pasó ayer 2" tvg-logo="" group-title="VOD | Peliculas",Que pasó ayer 2
@@ -872,7 +887,7 @@ http://84.16.229.242:91/Uploads/Ciencia-Ficcion/Depredador-La-Presa-2022-lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dragonball evolution" tvg-logo="" group-title="VOD | Peliculas",Dragonball evolution
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien vs Depredador" tvg-logo="" group-title="VOD | Peliculas",Alien vs Depredador
-
+http://51.81.208.167/movies/Alien%20vs%20predator%20(2004).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Van Helsin:cazador de vampiros" tvg-logo="" group-title="VOD | Peliculas",Van Helsin:cazador de vampiros
 
 #EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="" group-title="VOD | Peliculas",Titanic
@@ -902,12 +917,22 @@ http://51.81.208.167/movies/Underworld_Evolution_(2006).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inframundo 4" tvg-logo="" group-title="VOD | Peliculas",Inframundo 4
 http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
 #EXTINF:-1 tvg-id="" tvg-name="TREN BALA" tvg-logo="" group-title="VOD | Peliculas",TREN BALA
-http://69.162.103.10:23818/vod/83BF23024DB24151A19C9C9511B51661_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.103.10:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3Dj5dtIziVN2_Pj1vwR3qIEjI%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D52824606_com.mobile.telelatinomobile%26user_id%3D52824606%26expired%3D1664953839%26token%3D0809acd21ccc5ca81f2d819495d8263f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D83BF23024DB24151A19C9C9511B51661%26expired%3D1664953839%26token%3D5e30d756336b4fcc4b8e49b4aeee06ef&cache_path=
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
 https://archive.org/download/01_20220718_20220718_2113/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER: HEROES" tvg-logo="" group-title="VOD | Peliculas",DRAGON BALL SUPER: HEROES
 
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
+http://51.81.208.167/movie/Coco.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta roja" tvg-logo="" group-title="VOD | Peliculas",Alerta roja
+http://54.39.52.63/PELICULA/1.1/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington" tvg-logo="" group-title="VOD | Peliculas",Objetivo Washington
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Objetivo_%20Washington%20D.C..mp4
+
+
+
+
 
 
