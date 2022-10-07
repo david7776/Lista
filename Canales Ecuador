@@ -5,6 +5,8 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1460503107.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/510
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
+http://190.60.39.62:8000/play/b073
 
 #EXTINF:-1 tvg-id="tvc.ec" tvg-name="EC| TVC " tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
 http://160.20.164.171:8001/play/a07u/index.m3u8
@@ -109,6 +111,8 @@ http://200.41.79.165:8000/play/a05x/index.m3u8
 http://170.83.242.30:5350/play/a00y
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48646
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| A3SERIES SUR"  tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES UR
+http://201.182.251.146:37583/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
 http://170.79.235.29:8000/play/174
@@ -122,7 +126,7 @@ http://160.20.164.171:8001/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
 http://170.83.242.30:5350/play/a001
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",HBO POP 
-
+http://186.3.216.78:9955/play/a10p/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
 http://200.24.159.179:8500/play/a04x
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -197,7 +201,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/134
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN 
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRfF_CZj51Thdwd72L5d7C5/ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-
+http://186.3.216.78:9955/play/a134/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSbV4GyOrWpT-cYEVuuhyiv/ts
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/GOLDEN-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="TV | Internacional",GOLDEN + HQ
@@ -238,7 +242,7 @@ http://177.234.254.38:8000/play/a024/index.m3u8
 http://160.20.164.171:8001/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWsxU513t3yXWhRWlVWEkr0KeIFw5dmoE0YZmkQniagyC/ts
+http://186.101.70.92:25501/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
 http://160.20.164.171:8001/play/a078/index.m3u8
 
@@ -250,9 +254,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-
+http://190.60.39.62:8000/play/b012
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 http://200.24.132.99:8000/play/a02c
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
+http://186.3.216.78:9955/play/a142/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV" tvg-logo="" group-title="TV | Internacional",MTV
@@ -278,13 +284,17 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://177.234.254.38:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| RCN NOVELAS" tvg-logo="" group-title="TV | Internacional",RCN NOVELAS
 http://200.41.79.165:8000/play/a0is/index.m3u8
-#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| SONY NOVELAS" tvg-logo="" group-title="TV | Internacional",SONY NOVELAS
-
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
+http://201.219.223.101:45000/play/a02h
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-
+http://190.124.164.74:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
+http://201.182.251.146:37583/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
+http://190.124.164.74:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://170.79.235.29:8000/play/119
@@ -304,6 +314,8 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/111
 
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
 
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="" group-title="TV | Internacional",Film & Arts
+http://190.4.0.202:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TBS" tvg-logo="" group-title="TV | Internacional",TBS
 http://200.24.159.179:8500/play/a03m
@@ -361,7 +373,7 @@ http://181.176.148.142:8000/play/a02y
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png" group-title="TV | Internacional",CLARO TV
 http://200.24.159.179:8500/play/a03h
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO CINEMA" tvg-logo="" group-title="TV | Internacional",CLARO CINEMA
-
+http://201.219.223.101:45000/play/a026
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE ACCION" tvg-logo="" group-title="TV | Internacional",CINE ACCION
 http://181.176.148.142:8000/play/a023
 #EXTINF:-1 tvg-id="cine.ec" tvg-name="INT| CINE PREMIUM" tvg-logo="" group-title="TV | Internacional",CINE PREMIUM
@@ -425,7 +437,7 @@ http://200.41.79.165:8000/play/a049/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
-
+http://209.45.95.18:8000/play/a071
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 
@@ -474,7 +486,7 @@ http://160.20.164.171:8001/play/a00z/index.m3u8
 http://181.78.6.57:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://45.160.12.253:8000/play/218
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN + HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN + HQ
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN EXTRA 
 http://200.24.159.179:8500/play/a06j
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/93.m3u8
@@ -499,8 +511,7 @@ http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/283
 http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/710
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
-
-
+http://201.182.251.146:37583/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
 http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/98050
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
@@ -580,6 +591,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT " tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 
 http://200.24.159.179:8500/play/a02d
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="DEP| CLARO SPORT 2" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT 2 
+http://190.124.164.74:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CARACOL SPORT" tvg-logo="" group-title="TV | Deportes",CARACOL SPORT
 
 
