@@ -504,8 +504,8 @@ http://200.24.159.179:8500/play/a04w
 http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV PPV" tvg-logo="" group-title="TV | Deportes",GOL PPV
-http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/283
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
+http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDg6NTQ6MTkgUE0maGFzaF92YWx1ZT1IbUhKTjFXSXNqQTFycnlORkhuMWRBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDg6NTQ6MTkgUE0maGFzaF92YWx1ZT1PSFMrd3dNRHQ5L0pQd1l1STRuV2NRPT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9NDU2MjI3MTk2&2
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PLAY" tvg-logo="" group-title="TV | Deportes",GOL PLAY
 http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/710
 
@@ -566,17 +566,19 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45710
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3281
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7810.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45708
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7813.m3u8
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45710
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 http://bgapp.live/play/tvhd-917.php?id=21&token=blackgghooooostt&file=.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7811.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7812.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
@@ -649,7 +651,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3326
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
 http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7801.m3u8
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
@@ -956,8 +958,7 @@ http://51.81.208.167/movie/Coco.mp4
 http://54.39.52.63/PELICULA/1.1/3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington" tvg-logo="" group-title="VOD | Peliculas",Objetivo Washington
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Objetivo_%20Washington%20D.C..mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abracadabra 2
-http://208.115.219.210:23818/vod/71798F80A0C1401A81A5C5C59317765C_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.219.210:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DF3dFSML4iUI1_WtQM3sGoz4Yc%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D82320062_com.mobile.telelatinomobile%26user_id%3D82320062%26expired%3D1665270880%26token%3De220910e2d8222003facbfbd641cc94f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D71798F80A0C1401A81A5C5C59317765C%26expired%3D1665270880%26token%3D1b96a92e713e7979fb0def28e4b5aa55&cache_path
+
 
 
 
