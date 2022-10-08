@@ -295,6 +295,8 @@ http://190.124.164.74:8000/play/a05a/index.m3u8
 http://201.182.251.146:37583/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
 http://190.124.164.74:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FASHION TV" tvg-logo="" group-title="TV | Internacional",FASHION TV
+https://siloh-latam-aka.plutotv.net/lilo/production/FashionTV/master.m3u8
 
 #EXTINF:-1 tvg-id="space.ec" tvg-name="INT| SPACE HQ" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
 http://170.79.235.29:8000/play/119
@@ -397,9 +399,9 @@ http://200.24.159.179:8500/play/a04u
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
 http://200.24.159.179:8500/play/a05v
 
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
 http://200.41.79.165:8000/play/a09b/index.m3u8
-
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
 http://190.108.83.142:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
@@ -421,24 +423,19 @@ http://160.20.164.171:8001/play/a05w/index.m3u8
 http://160.20.164.171:8001/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
 http://45.232.210.1:8062/play/a08j/index.m3u8
-
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
 http://45.160.12.253:8000/play/002
-
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://200.41.79.165:8000/play/a06y/index.m3u8
-
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
 http://200.24.159.179:8500/play/a04v
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK" tvg-logo="" group-title="TV | Infantiles",CARTOON NETWORK
 http://200.41.79.165:8000/play/a049/index.m3u8
-
 #EXTINF:-1 tvg-id="natgeo.ec" tvg-name="INT| NATGEO KIDS HQ" tvg-logo="https://i.ibb.co/ZgZx1My/natgeo-kids.jpg" group-title="TV | Infantiles",NATGEO KIDS HQ
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
 http://209.45.95.18:8000/play/a071
-
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45678
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
@@ -447,10 +444,12 @@ http://190.60.37.70:8015/play/a00v/index.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://181.176.148.142:8000/play/a032
-#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMS TV" tvg-logo="" group-title="TV | Infantiles",DREAMS TV
-
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA KIDS" tvg-logo="" group-title="TV | Infantiles",PLANETA KIDS
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3402
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PAKA PAKA" tvg-logo="" group-title="TV | Infantiles",PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
 
 
@@ -479,7 +478,7 @@ http://160.20.164.171:8001/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3035
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
-http://45.160.12.253:8000/play/216
+http://200.24.132.99:8000/play/a02w
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://160.20.164.171:8001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
@@ -582,7 +581,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7825.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
@@ -789,10 +788,24 @@ http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/34128
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 http://bgapp.live/play/viix-917.php?c=311&pid=311&token=blackgghooooostt
-#EXTINF:-1 tvg-id="" tvg-name="LOS PICAPIEDRAS" tvg-logo="" group-title="24/7 | 24/7",LOS PICAPIEDRAS
-
-#EXTINF:-1 tvg-id="" tvg-name="CIENCIA FICCION" tvg-logo="" group-title="24/7 | 24/7",CIENCIA FICCION
-
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
+http://iJpZSqfvh7BokTAGyFWNrl.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26654&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 2" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 2
+http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
+http://Ms2iXZwzdej7x0Yl1Wb9CK.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26653&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
+http://aSA1hnEvF9Kp5DLlPmqUcW.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26649&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
+http://M5nBWoeusADrQTI4zSgU0t.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26650&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
+http://D7j0fGAE2UK3JYuQ65sa1w.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26651&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 5
+http://xLDqmvU5Sea7ZOc1w4jAns.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26661&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA NETFLIX
+http://LV5I8RrXcq7bx3GEPDWt1T.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26311&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
+http://fNJTFlGbZRa1kpjQu37KmE.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26721&t=live&f=ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD | Peliculas",Cruella
@@ -943,8 +956,8 @@ http://51.81.208.167/movie/Coco.mp4
 http://54.39.52.63/PELICULA/1.1/3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo Washington" tvg-logo="" group-title="VOD | Peliculas",Objetivo Washington
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Objetivo_%20Washington%20D.C..mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abracadabra 2
+http://208.115.219.210:23818/vod/71798F80A0C1401A81A5C5C59317765C_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.219.210:23818%26app_id%3Dcom.mobile.telelatinomobile%26trans_id%3DF3dFSML4iUI1_WtQM3sGoz4Yc%26app_version%3D40100%26client_ip%3D45.6.227.196%26dev_id%3D95b35e70112364923af697d44fe86c01%26auth_id%3D82320062_com.mobile.telelatinomobile%26user_id%3D82320062%26expired%3D1665270880%26token%3De220910e2d8222003facbfbd641cc94f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.telelatinomobile%26media_code%3D71798F80A0C1401A81A5C5C59317765C%26expired%3D1665270880%26token%3D1b96a92e713e7979fb0def28e4b5aa55&cache_path
 
 
 
