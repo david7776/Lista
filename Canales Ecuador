@@ -557,11 +557,11 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
-
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3281
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV PERU" tvg-logo="" group-title="TV | Deportes",DIRECTV PERU
-
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3219
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
 
 
@@ -572,13 +572,15 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7810.m3u8
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7813.m3u8
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
-
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1048
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
 http://bgapp.live/play/tvhd-917.php?id=21&token=blackgghooooostt&file=.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7811.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7812.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
@@ -780,8 +782,8 @@ http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZvNUK
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REINO INFANTIL" tvg-logo="" group-title="24/7 | 24/7",REINO INFANTIL
 
-#EXTINF:-1 tvg-id="" tvg-name="Jimmy neutron" tvg-logo="" group-title="24/7 | 24/7",Jimmy neutron
-
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Los caballeros del zodiaco
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/2941
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
 http://bgapp.live/play/viix-917.php?c=341&pid=341&token=blackgghooooostt
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
