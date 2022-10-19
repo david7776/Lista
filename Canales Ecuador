@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="EC| IEAN JESUS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1384570274_DVR.m3u8
 
-#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Ecuavisa_logo_2008.png" group-title="TV | Ecuador",ECUAVISA
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/510
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA INTERNACIONAL" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
 http://190.60.39.62:8000/play/b073
@@ -18,7 +18,7 @@ http://200.24.132.99:8000/play/a004
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS HD
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 
-#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/tc-257x200.jpg" group-title="TV | Ecuador",TC 
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://200.24.132.99:8000/play/a008
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
@@ -58,7 +58,7 @@ https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w456917692.m3u8
@@ -84,7 +84,7 @@ https://plataformavideo.com:19360/nortvision/nortvision.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| MULTICANAL "  tvg-logo="" group-title="TV | Ecuador",MULTICANAL
-
+https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| AUSTRAL TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
@@ -573,7 +573,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7813.m3u8
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1048
-#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="" group-title="TV | Deportes",DIRECTV 2 HD
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
 http://streamgo.vip:8008/cristian2022/cristian2022/159056
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7811.m3u8
@@ -708,6 +708,8 @@ http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder.05.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E06
 https://archive.org/download/06_20220930/06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E07
+http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder07.lati.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4
@@ -721,6 +723,12 @@ http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x04.l
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x05.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E06
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x06.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E07
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x07.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E08" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E08
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x08.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E09
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x09.lati.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E01
@@ -954,8 +962,8 @@ http://51.81.208.167/movies/Underworld_blood_war_.(2016).mp4
 http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El telefono negro" tvg-logo="" group-title="VOD | Peliculas",El telefono negro
 https://archive.org/download/01_20220718_20220718_2113/01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER: HEROES" tvg-logo="" group-title="VOD | Peliculas",DRAGON BALL SUPER: HEROES
-
+#EXTINF:-1 tvg-id="" tvg-name="La cima" tvg-logo="" group-title="VOD | Peliculas",La cima
+http://51.81.208.167/pelis2022/La.cima.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THOR AND LOVE" tvg-logo="" group-title="VOD | Peliculas",THOR AND LOVE
 http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="" group-title="VOD | Peliculas",Coco
@@ -964,8 +972,8 @@ http://51.81.208.167/movie/Coco.mp4
 http://54.39.52.63/PELICULA/1.1/3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Khan" tvg-logo="" group-title="VOD | Peliculas",Mi nombre es Khan
 https://ia802809.us.archive.org/11/items/AlvasaaMiNombreEsKhanRoman/alvasaa-Mi%20Nombre%20Es%20Khan%20roman%28.mp4
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Abra cadabra 2" tvg-logo="" group-title="VOD | Peliculas",Abra cadabra 2
+http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cataclismo" tvg-logo="" group-title="VOD | Peliculas",Cataclismo
+http://54.39.52.63/PELICULAS%20POR%20MES/OCTUBRE/14octubre/El%20Cataclismo%20%e2%80%93%20ARESHD.mp4
 
