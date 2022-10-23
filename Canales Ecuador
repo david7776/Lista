@@ -500,7 +500,7 @@ http://45.160.12.253:8000/play/218
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN EXTRA 
 http://200.24.159.179:8500/play/a06j
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7782.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
 http://mon-key.us:25461/franco1/franco1/9423
 
@@ -524,11 +524,11 @@ http://grootplay.com:25461/erick5/erick5/84
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 CHILE" tvg-logo="https://images.produ.com/noticias/0121/big-TNTSportsNuevoLogo.jpg" group-title="TV | Deportes",TNT SPORT 1 CHILE
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7833.m3u8
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT BRASIL " tvg-logo="" group-title="TV | Deportes",TNT SPORT BRASIL 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ARGENTINA " tvg-logo="" group-title="TV | Deportes",TNT SPORT ARGENTINA 
-http://streamgo.vip:8008/cristian2022/cristian2022/158971
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7832.m3u8
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
 http://45.162.135.1:1080/play/a037
@@ -539,7 +539,8 @@ http://45.162.135.1:1080/play/a037
 http://45.160.12.253:8000/play/235
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 
-
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT MEX
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7780.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
 http://45.160.12.253:8000/play/209
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
@@ -573,7 +574,7 @@ http://cdn88.telerium.fun:2052/live-2/258/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7814.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
 http://grootplay.com:25461/erick5/erick5/350
 
@@ -615,15 +616,15 @@ http://200.24.159.179:8500/play/a02d
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| BARCA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png" group-title="TV | Deportes",BARCA TV
 http://streamgo.vip:8008/cristian2022/cristian2022/127949
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER UNITED" tvg-logo="" group-title="TV | Deportes",MANCHESTER UNITED TV
-
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER CITY" tvg-logo="" group-title="TV | Deportes",MANCHESTER CITY TV
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7816.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/351
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
 http://190.108.93.148:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7804.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
@@ -649,8 +650,8 @@ http://190.108.93.148:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 BOL
 
 
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN +" tvg-logo="" group-title="TV | Deportes",WIN +
-
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7822.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
