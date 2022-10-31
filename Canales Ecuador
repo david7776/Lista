@@ -144,7 +144,7 @@ http://45.160.12.253:8000/play/020
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://170.83.242.156:5350/play/a02q
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7436.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://186.101.70.92:25501/play/a03y/index.m3u8
 
@@ -196,7 +196,7 @@ http://45.160.12.253:8000/play/027
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 http://mon-key.us:25461/franco1/franco1/102
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-http://mon-key.us:25461/franco1/franco1/103
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/8467.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqcht3POHR64eHNLrCWc5qH9afFeaRwj3SInlEkDgwh5.png" group-title="TV | Internacional",GOLDEN 
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRfF_CZj51Thdwd72L5d7C5/ts
@@ -375,8 +375,8 @@ http://45.160.12.253:8000/play/122
 http://45.160.12.253:8000/play/120
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLUB SERIES" tvg-logo="" group-title="TV | Internacional",CLUB SERIES
 http://181.176.148.142:8000/play/a02y
-#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIZ ACCION" tvg-logo="" group-title="TV | Internacional",VIWIX ACCION
-
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| BITME" tvg-logo="" group-title="TV | Internacional",BITME
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7114.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIX SERIE" tvg-logo="" group-title="TV | Internacional",VIWIX SERIE
 
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| VIWIX TERROR" tvg-logo="" group-title="TV | Internacional",VIWIX TERROR
@@ -464,7 +464,7 @@ http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
 http://mon-key.us:25461/franco1/franco1/354
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7769.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -503,7 +503,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7782.m3u8
 http://mon-key.us:25461/franco1/franco1/9423
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
-http://grootplay.com:25461/erick5/erick5/686
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL" tvg-logo="" group-title="TV | Deportes",GOL 
 http://160.20.164.171:8001/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="gol.ec" tvg-name="DEP| GOLTV INTERNACIONAL" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
@@ -517,7 +517,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
 http://mon-key.us:25461/franco1/franco1/84
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-http://grootplay.com:25461/erick5/erick5/84
+
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
@@ -575,7 +575,7 @@ http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7814.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
-http://grootplay.com:25461/erick5/erick5/350
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7810.m3u8
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/146743
@@ -590,7 +590,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7811.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7812.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
-http://grootplay.com:25461/erick5/erick5/58912
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7816.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
@@ -616,7 +616,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/127949
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER CITY" tvg-logo="" group-title="TV | Deportes",MANCHESTER CITY TV
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7816.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
-http://grootplay.com:25461/erick5/erick5/688
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7802.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
 
 
@@ -625,7 +625,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7804.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA 2" tvg-logo="" group-title="TV | Deportes",MOVISTAR LA LIGA 2
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7807.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 
 
@@ -648,16 +648,16 @@ http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/35477
 http://mon-key.us:25461/franco1/franco1/267
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/8425.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95009
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7828.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-http://grootplay.com:25461/erick5/erick5/64716
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7829.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
@@ -720,6 +720,9 @@ http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.
 https://archive.org/download/06_20220930/06.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E07
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder07.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E08
+https://archive.org/download/08_20221014/08.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x01.lati.mp4
@@ -739,6 +742,8 @@ http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x07.l
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x08.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E09" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E09
 http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x09.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E10" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E10
+http://51.81.208.167/series2022/House.of.the.Dragon/1/House.of.the.Dragon.1x10.lati.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",Estamos muertos E01
@@ -793,7 +798,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe" tvg-logo="" group-title="24/7 | 24/7",Piratas del Caribe
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZk6iwsSwU9epTckOuj1znd/ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY" tvg-logo="" group-title="24/7 | 24/7",CINEMA DISNEY
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
