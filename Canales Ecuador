@@ -144,7 +144,7 @@ http://45.160.12.253:8000/play/020
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO XTREME HD "  tvg-logo="" group-title="TV | Internacional",HBO XTREME HD
 http://170.83.242.156:5350/play/a02q
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO MUNDI"  tvg-logo="" group-title="TV | Internacional",HBO MUNDI
-http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7436.m3u8
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7304.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO SIGNATURE"  tvg-logo="" group-title="TV | Internacional",HBO SIGNATURE
 http://186.101.70.92:25501/play/a03y/index.m3u8
 
@@ -993,4 +993,6 @@ http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
 https://archive.org/download/01_20221022_20221022_1429/01.mp4
+
+
 
