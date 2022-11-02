@@ -786,6 +786,24 @@ http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Ella Hulk E07
 http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x07.lati.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E01
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E02
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E03
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E04
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E05
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E05.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E06
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E06.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E07
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E07.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Tierra icognita E08
+http://54.39.52.63/ZEUS/SERIES/SERIES%20DISNEY%20PLUS/Tierra%20Incognita/S01E08.mkv
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
@@ -1000,5 +1018,5 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-http://51.81.208.167/movies/No_Escape_(2015).avi
+http://heinentv.ddns.me/Contenido/Peliculas/Suspenso/Sin%20Escape.mp4
 
