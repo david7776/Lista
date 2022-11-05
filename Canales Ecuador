@@ -467,8 +467,12 @@ http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
 
 
-#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HQ" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS HQ
-
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS QATAR
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 2 QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS 2 QATAR
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 3 QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS 3 QATAR
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7769.m3u8
 
@@ -482,7 +486,7 @@ http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL" tvg-logo="" group-title="TV | Deportes",ESPN COL
 http://190.27.172.226:25000/play/a03c
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
-
+http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
 http://45.160.12.253:8000/play/212
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN BRASIL" tvg-logo="" group-title="TV | Deportes",ESPN BRASIL
@@ -494,15 +498,17 @@ http://160.20.164.171:8001/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 2 SUR" tvg-logo="" group-title="TV | Deportes",ESPN 2 SUR
 http://190.27.172.226:25000/play/a01u
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 " tvg-logo="" group-title="TV | Deportes",ESPN 3
-
+http://160.20.164.171:8001/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 3 SUR " tvg-logo="" group-title="TV | Deportes",ESPN 3 SUR
 http://160.20.164.171:8001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://190.27.172.226:25000/play/a02s
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
 http://45.160.12.253:8000/play/218
-#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA HQ" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="TV | Deportes",ESPN EXTRA 
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
 http://179.1.64.210:8090/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
+http://160.20.164.171:8001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7782.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
@@ -521,9 +527,9 @@ http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1420
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1419
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
@@ -577,6 +583,8 @@ http://186.101.70.92:25501/play/a0ac/index.m3u8
 http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72227.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://streamgo.vip:8008/cristian2022/cristian2022/127964
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
@@ -676,7 +684,7 @@ http://live.iristv.xyz:8080/marcial/123456/5853
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DAZN FORMULA 1" tvg-logo="" group-title="TV | Deportes",DAZN FORMULA 1
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7801.m3u8
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1694
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1 HD" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1 HD
 
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
