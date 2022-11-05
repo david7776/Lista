@@ -20,6 +20,8 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8?aa
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC HD
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72232.ts
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://186.101.70.92:25501/play/a015/index.m3u8
@@ -36,6 +38,8 @@ http://181.175.41.170:8000/play/a02h
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
 http://45.224.23.209:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ECUADOR TV HD" tvg-logo="" group-title="TV | Ecuador",ECUADOR TV HD
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72237.ts
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| CANELA TV " tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canela-tv-1774.jpg" group-title="TV | Ecuador",CANELA TV
 http://186.101.226.73:8000/play/a0jz/index.m3u8
@@ -569,7 +573,8 @@ http://186.101.226.73:8000/play/a0t0/index.m3u8
 http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 http://186.101.70.92:25501/play/a0ac/index.m3u8
-
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72227.ts
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://streamgo.vip:8008/cristian2022/cristian2022/127964
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
@@ -577,7 +582,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/127964
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7814.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
-http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7810.m3u8
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72218.ts
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/146743
@@ -591,6 +596,8 @@ http://streamgo.vip:8008/cristian2022/cristian2022/159056
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7811.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7812.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
+http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72219.ts
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7816.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
