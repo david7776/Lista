@@ -464,11 +464,13 @@ http://45.5.117.172:8000/play/a0g3/index.m3u8
 http://181.176.148.142:8000/play/a032
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA KIDS" tvg-logo="" group-title="TV | Infantiles",PLANETA KIDS
-
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PAKA PAKA" tvg-logo="" group-title="TV | Infantiles",PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
 http://45.160.12.253:8000/play/002
-#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| INGLES PARA TODOS TV" tvg-logo="" group-title="TV | Infantiles",INGLES PARA TODOS TV
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS QATAR
