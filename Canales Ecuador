@@ -48,7 +48,7 @@ http://superbits.tv:2095//live/sSTGthk1x3/s6K6WC0G/72237.ts
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
-
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
@@ -332,7 +332,7 @@ http://38.143.137.221:8000/LA101/index.m3u8
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
 http://179.1.64.210:8090/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1781
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX" tvg-logo="" group-title="TV | Internacional",FX
 http://170.83.242.156:5350/play/a006
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
@@ -353,7 +353,7 @@ http://186.28.229.209:25000/play/a00u
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY" tvg-logo="" group-title="TV | Internacional",SYFY
 http://186.28.229.209:25000/play/a09d
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| SYFY HD" tvg-logo="" group-title="TV | Internacional",SYFY HD
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://181.129.186.36:8089/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
@@ -525,7 +525,7 @@ http://160.20.164.171:8001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL PERU" tvg-logo="" group-title="TV | Deportes",GOL PERU
 http://190.108.85.116:8000/play/a0fw/index.m3u8
@@ -540,7 +540,7 @@ http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1421
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
 
 
@@ -587,7 +587,7 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/72227
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://streamgo.vip:8008/cristian2022/cristian2022/104110
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
@@ -685,7 +685,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7828.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7829.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-
+http://streamgo.vip:8008/cristian2022/cristian2022/128012
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
