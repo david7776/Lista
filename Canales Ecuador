@@ -74,7 +74,7 @@ https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SOL TV
-http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| PARAISO TV DIGITAL "  tvg-logo="" group-title="TV | Ecuador",PARAISO TV DIGITAL
 
@@ -206,7 +206,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/8467.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqcht3POHR64eHNLrCWc5qH9afFeaRwj3SInlEkDgwh5.png" group-title="TV | Internacional",GOLDEN 
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7174.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://cdn88.telerium.fun:2052/live-2/112/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA0OjE3OjE4IEFNJmhhc2hfdmFsdWU9VkFVaklsdmVTeEkrbEF4bW44MGVnQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
 http://streamgo.vip:8008/cristian2022/cristian2022/147317
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyk8ehcfdmqnt4lu052JAK54zYSw6FBBqEkgxc8NNWdmb.png" group-title="TV | Internacional",GOLDEN + HQ
@@ -249,7 +249,7 @@ http://160.20.164.171:8001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR CHANNEL HQ" tvg-logo="https://www.sdpnoticias.com/resizer/HPru_yilELL8cPGJm38BM5yb2cI=/440x248/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/QDOBG47KPZNGVJ7VY7DE6QAR3A.jpg" group-title="TV | Internacional",STAR CHANNEL HQ
 http://186.101.70.92:25501/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="star.ec" tvg-name="INT| STAR ACTION" tvg-logo="" group-title="TV | Internacional",STAR ACTION
-http://160.20.164.171:8001/play/a078/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="cnn.ec" tvg-name="INT| CNN HQ" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
@@ -428,7 +428,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1780
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK JR HQ" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
 http://200.41.79.165:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK HQ" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
-http://190.108.83.142:8000/play/a00v/index.m3u8
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
@@ -546,7 +546,7 @@ http://170.83.242.30:5350/play/a00v
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="DEP| GOLTV ECUADOR" tvg-logo="" group-title="TV | Deportes",GOLTV ECUADOR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1421
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
 
@@ -560,7 +560,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7833.m3u8
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7832.m3u8
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 " tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 
-http://45.162.135.1:1080/play/a037
+
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2 HD
 
 
@@ -876,23 +876,23 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
-http://iJpZSqfvh7BokTAGyFWNrl.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26654&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 2" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 2
-http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
-http://Ms2iXZwzdej7x0Yl1Wb9CK.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26653&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
-http://aSA1hnEvF9Kp5DLlPmqUcW.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26649&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
-http://M5nBWoeusADrQTI4zSgU0t.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26650&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
-http://D7j0fGAE2UK3JYuQ65sa1w.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26651&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 5" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 5
-http://xLDqmvU5Sea7ZOc1w4jAns.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26661&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="" group-title="24/7 | 24/7",CINEMA NETFLIX
-http://LV5I8RrXcq7bx3GEPDWt1T.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26311&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
-http://fNJTFlGbZRa1kpjQu37KmE.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26721&t=live&f=ts
+
 
 
 
