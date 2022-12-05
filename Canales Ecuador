@@ -50,7 +50,7 @@ http://160.20.164.171:8001/play/a09i/index.m3u8
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/513
 
 #EXTINF:-1 tvg-id="canela.ec" tvg-name="EC| PURUWA TV " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fcdabc5568b6fa46782cadbb67a04047ea4142d31625cca43dd8bbb9bf482f7f3.jpg" group-title="TV | Ecuador",PURUWA TV
-
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="usg.ec" tvg-name="EC| UCSG TV " tvg-logo="https://pbs.twimg.com/profile_images/1479598878022410240/Zd6Mj-Jp_400x400.jpg" group-title="TV | Ecuador",UCSG TV
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
@@ -132,7 +132,7 @@ http://160.20.164.171:8001/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO HD"  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
 http://170.83.242.30:5350/play/a001
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",HBO POP 
-
+http://streamgo.vip:8008/cristian2022/cristian2022/147274
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2237
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
@@ -537,7 +537,7 @@ http://179.1.64.210:8090/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://160.20.164.171:8001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
-
+http://streamgo.vip:8008/cristian2022/cristian2022/158974
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN DEPORTES" tvg-logo="" group-title="TV | Deportes",ESPN DEPORTES
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
 
@@ -556,7 +556,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/35777
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOL ECUADOR" tvg-logo="" group-title="TV | Deportes",GOL ECUADOR
 http://line.powerdino.com:80/4375a1dd43/649f75a876/265286
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
-
+http://streamgo.vip:8008/cristian2022/cristian2022/104112
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 
@@ -614,6 +614,8 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/628277
 http://line.powerdino.com:80/4375a1dd43/649f75a876/264876
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1383
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
+http://streamgo.vip:8008/cristian2022/cristian2022/167276
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://line.powerdino.com:80/4375a1dd43/649f75a876/265279
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
@@ -629,6 +631,8 @@ http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/72239
 http://200.52.154.125:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://line.powerdino.com:80/4375a1dd43/649f75a876/264875
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
+http://streamgo.vip:8008/cristian2022/cristian2022/167277
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7812.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
@@ -1020,8 +1024,8 @@ http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
 
-#EXTINF:-1 tvg-id="" tvg-name="Dioses de Egipto" tvg-logo="" group-title="VOD | Peliculas",Dioses de Egipto
-
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/150005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
 http://51.81.208.167/movies/3_metros_sobre_el_cielo_(2010).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
